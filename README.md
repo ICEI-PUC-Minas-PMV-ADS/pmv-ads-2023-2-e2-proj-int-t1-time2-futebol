@@ -4,17 +4,17 @@
 
 `SEMESTRE`: 2º Semestre
 
- Plataforma de Scout Simplificada para Atacantes das Séries B e C de times do sudeste do Campeonato Brasileiro de Futebol.
+ Plataforma de Scout Simplificada para Atacantes das Séries B e C de times do Sudeste do Campeonato Brasileiro de Futebol.
 
 ## Integrantes
 
+* Daniel Dutra De Aguiar
 * Diogo Amâncio Da Silva
 * Caê Moreira Euphrásio
-* Daniel Dutra De Aguiar
-* Vagner De Oliveira Florencio
 * Lucas Henrique Da Silva Vaz
 * Luiz Felipe Sena Costa
 * Raul Janon
+* Vagner De Oliveira Florencio
 
 ## Orientadora
 
