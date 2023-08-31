@@ -230,89 +230,89 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 # Criar (Create):
 
-Página de entrada de detalhes estatísticas do atleta. 
+-  Página de entrada de detalhes estatísticas do atleta. 
 
-Campos para entrada de dados, como gols marcados, assistências, número de jogos e estatísticas sobre finalizações e Detalhes como idade e clube em que joga. 
+-  Campos para entrada de dados, como gols marcados, assistências, número de jogos e estatísticas sobre finalizações e Detalhes como idade e clube em que joga. 
 
-Botão para enviar e salvar as estatísticas. 
+-  Botão para enviar e salvar as estatísticas. 
 
 # Ler (Read):
 
-Página de perfil do atleta exibindo suas estatísticas. 
+-  Página de perfil do atleta exibindo suas estatísticas. 
 
-As estatísticas são exibidas em tabelas ou gráficos, permitindo uma visualização fácil. 
+-  As estatísticas são exibidas em tabelas ou gráficos, permitindo uma visualização fácil. 
 
 # Atualizar (Update):
 
-Página de edição de estatísticas, acessível ao administrador da página. 
+-  Página de edição de estatísticas, acessível ao administrador da página. 
 
-Campos preenchidos com as estatísticas existentes e possibilidade de edição. 
+-  Campos preenchidos com as estatísticas existentes e possibilidade de edição. 
 
-Botão para atualizar as estatísticas. 
+-  Botão para atualizar as estatísticas. 
 
 # Deletar (Delete):
 
-Botão ou link para excluir estatísticas. 
+-  Botão ou link para excluir estatísticas. 
 
-Confirmação de exclusão antes que as estatísticas sejam removidas. 
+-  Confirmação de exclusão antes que as estatísticas sejam removidas. 
 
 # 2. CRUD: Cadastro de Clubes e Vinculação de Atletas 
 
 # Criar (Create):
 
-Página para os administradores adicionarem detalhes do clube, como nome, localização, descrição, etc. 
+-  Página para os administradores adicionarem detalhes do clube, como nome, localização, descrição, etc. 
 
-Botão para criar o clube. 
+-  Botão para criar o clube. 
 
 # Ler (Read):
 
-Página de listagem de clubes, exibindo os detalhes de cada clube. 
+-  Página de listagem de clubes, exibindo os detalhes de cada clube. 
 
-Possibilidade de clicar em um clube para ver mais informações. 
+-  Possibilidade de clicar em um clube para ver mais informações. 
 
 # Atualizar (Update):
 
-Página de edição de detalhes do clube, acessível apenas ao próprio clube. 
+-  Página de edição de detalhes do clube, acessível apenas ao próprio clube. 
 
-Campos preenchidos com os detalhes existentes e possibilidade de edição. 
+-  Campos preenchidos com os detalhes existentes e possibilidade de edição. 
 
-Botão para atualizar os detalhes do clube. 
+-  Botão para atualizar os detalhes do clube. 
 
 # Deletar (Delete):
 
-Botão ou link para excluir um clube. 
+-  Botão ou link para excluir um clube. 
 
-Confirmação de exclusão antes que o clube seja removido. 
+-  Confirmação de exclusão antes que o clube seja removido. 
 
 # 3. CRUD: Observações de Atletas "Para Ficar de Olho": 
 
 # Criar (Create):
 
-Página para adicionar novas observações sobre atletas. 
+-  Página para adicionar novas observações sobre atletas. 
 
-Campos para inserir detalhes do atleta, data da observação, contexto e observações específicas. 
+-  Campos para inserir detalhes do atleta, data da observação, contexto e observações específicas. 
 
-Botão para criar a observação. 
+-  Botão para criar a observação. 
 
 # Ler (Read):  
 
-Página de listagem das observações, exibindo um resumo dos detalhes de cada atleta observado. 
+-  Página de listagem das observações, exibindo um resumo dos detalhes de cada atleta observado. 
 
-Possibilidade de clicar em uma observação para visualizar todas as informações. 
+-  Possibilidade de clicar em uma observação para visualizar todas as informações. 
 
 # Atualizar (Update): 
 
-Página de edição de observações, acessível apenas ao administrador. 
+-  Página de edição de observações, acessível apenas ao administrador. 
 
-Campos preenchidos com as informações existentes e possibilidade de edição. 
+-  Campos preenchidos com as informações existentes e possibilidade de edição. 
 
-Botão para atualizar a observação. 
+-  Botão para atualizar a observação. 
 
 # Deletar (Delete): 
 
-Botão ou link para excluir uma observação. 
+-  Botão ou link para excluir uma observação. 
 
-Confirmação de exclusão antes que a observação seja removida.
+-  Confirmação de exclusão antes que a observação seja removida.
 
 # Relatórios
 
@@ -320,63 +320,63 @@ Confirmação de exclusão antes que a observação seja removida.
 
 # Objetivo do Relatório 
 
-Exibir a evolução das estatísticas de um atleta ao longo dos últimos 3 anos em forma de um gráfico de linha. Isso permitirá ao usuário visualizar a progressão do desempenho do atleta em diferentes métricas. 
+-  Exibir a evolução das estatísticas de um atleta ao longo dos últimos 3 anos em forma de um gráfico de linha. Isso permitirá ao usuário visualizar a progressão do desempenho do atleta em diferentes métricas. 
 
 # Visualização 
 
-O usuário seleciona um atleta específico. 
+-  O usuário seleciona um atleta específico. 
 
-O sistema busca as estatísticas desse atleta dos últimos 3 anos. 
+-  O sistema busca as estatísticas desse atleta dos últimos 3 anos. 
 
-O gráfico de linha é gerado, com os anos no eixo horizontal e as métricas (gols, assistências, partidas jogadas e algumas estatísticas sobre finalizações etc.) no eixo vertical. 
+-  O gráfico de linha é gerado, com os anos no eixo horizontal e as métricas (gols, assistências, partidas jogadas e algumas estatísticas sobre finalizações etc.) no eixo vertical. 
 
-Cada métrica é representado por uma linha colorida no gráfico. 
+-  Cada métrica é representado por uma linha colorida no gráfico. 
 
 # Interpretação 
 
-O gráfico permite uma visualização rápida das tendências de desempenho do atleta ao longo dos anos. 
+-  O gráfico permite uma visualização rápida das tendências de desempenho do atleta ao longo dos anos. 
 
-Picos nas linhas indicam momentos de alto desempenho em determinadas métricas. 
+-  Picos nas linhas indicam momentos de alto desempenho em determinadas métricas. 
 
-Declínios nas linhas podem representar momentos de menor eficácia ou participação em partidas. 
+-  Declínios nas linhas podem representar momentos de menor eficácia ou participação em partidas. 
 
-Mudanças drásticas em qualquer métrica ao longo do tempo podem indicar transformações no estilo de jogo do atleta ou fatores externos que afetaram seu desempenho. 
+-  Mudanças drásticas em qualquer métrica ao longo do tempo podem indicar transformações no estilo de jogo do atleta ou fatores externos que afetaram seu desempenho. 
 
 # Benefícios
 
 # Avaliação de Progresso:
 
-Os treinadores e analistas podem avaliar rapidamente como o atleta evoluiu ao longo dos anos em termos de desempenho estatístico. 
+-  Os treinadores e analistas podem avaliar rapidamente como o atleta evoluiu ao longo dos anos em termos de desempenho estatístico. 
 
 # Tomada de Decisões Estratégicas:
 
-Compreender as tendências de desempenho ajuda na tomada de decisões sobre escalação, táticas e desenvolvimento do atleta. 
+-  Compreender as tendências de desempenho ajuda na tomada de decisões sobre escalação, táticas e desenvolvimento do atleta. 
 
 # Identificação de Pontos Fortes e Fracos:
 
-O gráfico ajuda a identificar áreas em que o atleta melhorou significativamente e onde ainda precisa trabalhar. 
+-  O gráfico ajuda a identificar áreas em que o atleta melhorou significativamente e onde ainda precisa trabalhar. 
 
 # Análise de Consistência:
 
-É possível verificar se o atleta manteve um desempenho consistente ou se houve flutuações notáveis. 
+-  É possível verificar se o atleta manteve um desempenho consistente ou se houve flutuações notáveis. 
 
 # Ajustes e Metas:
 
-Baseando-se nas tendências, treinadores podem estabelecer metas e estratégias para aprimorar aspectos específicos do desempenho. 
+-  Baseando-se nas tendências, treinadores podem estabelecer metas e estratégias para aprimorar aspectos específicos do desempenho. 
 
 # 2. Relatório: Desempenho de Clubes em Termos de Gols Marcados ao Longo de 3 Anos.
 
 # Objetivo do Relatório 
 
-Identificar o clube que teve o melhor desempenho em termos de gols marcados ao longo dos últimos 3 anos, destacando um possível bom scout de atacantes. 
+-  Identificar o clube que teve o melhor desempenho em termos de gols marcados ao longo dos últimos 3 anos, destacando um possível bom scout de atacantes. 
 
 # Visualização
 
-O sistema coleta dados de gols marcados por cada clube nos últimos 3 anos. 
+-  O sistema coleta dados de gols marcados por cada clube nos últimos 3 anos. 
 
-O relatório exibe uma lista de clubes em ordem decrescente de gols marcados. 
+-  O relatório exibe uma lista de clubes em ordem decrescente de gols marcados. 
 
-Cada clube é apresentado com seu nome e o total de gols marcados no período. 
+-  Cada clube é apresentado com seu nome e o total de gols marcados no período. 
 
 # Interpretação
 
