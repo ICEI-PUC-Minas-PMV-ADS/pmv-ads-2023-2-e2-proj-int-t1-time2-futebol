@@ -185,7 +185,7 @@ Treinamento de equipe, assistir a partidas profissionais para inspiração, inte
 
 O projeto está restrito pelos itens apresentados na tabela a seguir: 
 
-**|ID| Restrição**
+**| ID | Restrição**
 
 |ID    | Restrição  | 
 |------|-----------------------------------------|
