@@ -36,7 +36,7 @@ Assim que a primeira versão do sistema estiver disponível, deverá complementa
 <li><a href="Docs/07-Funcionalidades do Sistemas.md"> Funcionalidades do Sistemas (Telas)</a></li>
 <li><a href="Docs/08-Plano de testes de Software.md"> Plano de testes de Software</a></li>
 <li><a href="Docs/09-Registro de Testes de Software.md"> Registro de testes de Software</a></li>
-<li><a href="Docs/10-Apresentação do Projeto.md"> Plano de testes de Usabilidade</a></li>
+<li><a href="Docs/10-Plano de testes de Usabilidade.md"> Plano de testes de Usabilidade</a></li>
 <li><a href="Docs/11-Registro de Testes de Usabilidade.md"> Registro de Testes de Usabilidade</a></li>
 <li><a href="Docs/12-Referências.md"> Referências</a></li>
 </ol>
