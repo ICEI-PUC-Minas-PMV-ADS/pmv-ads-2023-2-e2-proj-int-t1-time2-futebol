@@ -178,8 +178,8 @@ Treinamento de equipe, assistir a partidas profissionais para inspiração, inte
 | Rogério Avelar | Manter um registro de jogadores específicos sobre as quais possuo interesse particular. | Manter um histórico de jogadores que possam ser compartilhadas. |           
 | Victória Silva | Fazer comentários sobre o jogador de destaque no momento. | Discutir com grupos de interesse comum. |               
 | Victória Silva | Compartilhar jogadores nas redes sociais em que faço parte. | Poder discutir com os amigos e colegas de trabalhos sobre temas de interesse. | 
-| Victória Silva | Poder realizar uma pesquisa sobre o jogador acerca de seu desempenho em campo. | Localizar tópicos específicos e conseguir maior objetividade em algumas leituras. |   | | Roberto Couto    | Ler notícias sobre futebol e se atualizar para contribuir com novas contratações. | Ocupar o tempo quando estou esperando algo (Ex: Filas de supermercado.|
-| Roberto Couto    | Quero saber a data e a fonte das contratações nas temporadas. | Confiar no conteúdo passado e na atualidade das notícias que recebo. |
+| Victória Silva | Poder realizar uma pesquisa sobre o jogador acerca de seu desempenho em campo. | Localizar tópicos específicos e conseguir maior objetividade em algumas leituras. |   | | Roberto Couto  | Ler notícias sobre futebol e se atualizar para contribuir com novas contratações. | Ocupar o tempo quando estou esperando algo (Ex: Filas de supermercado.|
+| Roberto Couto  | Quero saber a data e a fonte das contratações nas temporadas. | Confiar no conteúdo passado e na atualidade das notícias que recebo. |
 
 
 
