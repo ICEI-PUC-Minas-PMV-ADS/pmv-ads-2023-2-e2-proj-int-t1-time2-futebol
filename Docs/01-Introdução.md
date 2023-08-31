@@ -69,11 +69,3 @@ O objetivo central deste projeto é criar um mecanismo que facilite a análise d
 
 Além disso, os dados indicam que apenas 1% dos jovens candidatos que realizaram tetes nos clubes de futebol brasileiro conseguem ser aprovados nos testes. (UNIVERSIDADE DO FUTEBOL, 2017). Para fomentar a inserção de mais jogadores profissionais em um mercado tão competitivo, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalhos dos atletas “desconhecidos” e facilitar a sua exposição para que outras equipes terem interesse na sua contratação. 
  
-
-
-
-
-
-
-
- 
