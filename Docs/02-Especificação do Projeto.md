@@ -258,19 +258,19 @@ Confirmação de exclusão antes que as estatísticas sejam removidas.
 
 # 2. CRUD: Cadastro de Clubes e Vinculação de Atletas 
 
-**Criar (Create):**
+# Criar (Create):
 
 Página para os administradores adicionarem detalhes do clube, como nome, localização, descrição, etc. 
 
 Botão para criar o clube. 
 
-**Ler (Read):** 
+# Ler (Read):
 
 Página de listagem de clubes, exibindo os detalhes de cada clube. 
 
 Possibilidade de clicar em um clube para ver mais informações. 
 
-**Atualizar (Update):** 
+# Atualizar (Update):
 
 Página de edição de detalhes do clube, acessível apenas ao próprio clube. 
 
@@ -278,7 +278,7 @@ Campos preenchidos com os detalhes existentes e possibilidade de edição.
 
 Botão para atualizar os detalhes do clube. 
 
-**Deletar (Delete):** 
+# Deletar (Delete):
 
 Botão ou link para excluir um clube. 
 
@@ -286,7 +286,7 @@ Confirmação de exclusão antes que o clube seja removido.
 
 # 3. CRUD: Observações de Atletas "Para Ficar de Olho": 
 
-**Criar (Create):** 
+# Criar (Create):
 
 Página para adicionar novas observações sobre atletas. 
 
@@ -294,13 +294,13 @@ Campos para inserir detalhes do atleta, data da observação, contexto e observa
 
 Botão para criar a observação. 
 
-**Ler (Read):**  
+# Ler (Read):  
 
 Página de listagem das observações, exibindo um resumo dos detalhes de cada atleta observado. 
 
 Possibilidade de clicar em uma observação para visualizar todas as informações. 
 
-**Atualizar (Update):**  
+# Atualizar (Update): 
 
 Página de edição de observações, acessível apenas ao administrador. 
 
@@ -308,7 +308,7 @@ Campos preenchidos com as informações existentes e possibilidade de edição.
 
 Botão para atualizar a observação. 
 
-**Deletar (Delete):**  
+# Deletar (Delete): 
 
 Botão ou link para excluir uma observação. 
 
@@ -344,33 +344,33 @@ Mudanças drásticas em qualquer métrica ao longo do tempo podem indicar transf
 
 # Benefícios
 
-**Avaliação de Progresso:**
+# Avaliação de Progresso:
 
 Os treinadores e analistas podem avaliar rapidamente como o atleta evoluiu ao longo dos anos em termos de desempenho estatístico. 
 
-**Tomada de Decisões Estratégicas:**
+# Tomada de Decisões Estratégicas:
 
 Compreender as tendências de desempenho ajuda na tomada de decisões sobre escalação, táticas e desenvolvimento do atleta. 
 
-**Identificação de Pontos Fortes e Fracos:**
+# Identificação de Pontos Fortes e Fracos:
 
 O gráfico ajuda a identificar áreas em que o atleta melhorou significativamente e onde ainda precisa trabalhar. 
 
-**Análise de Consistência:** 
+# Análise de Consistência:
 
 É possível verificar se o atleta manteve um desempenho consistente ou se houve flutuações notáveis. 
 
-**Ajustes e Metas:** 
+# Ajustes e Metas:
 
 Baseando-se nas tendências, treinadores podem estabelecer metas e estratégias para aprimorar aspectos específicos do desempenho. 
 
 # 2. Relatório: Desempenho de Clubes em Termos de Gols Marcados ao Longo de 3 Anos.
 
-**Objetivo do Relatório:**  
+# Objetivo do Relatório:  
 
 Identificar o clube que teve o melhor desempenho em termos de gols marcados ao longo dos últimos 3 anos, destacando um possível bom scout de atacantes. 
 
- **Visualização:** 
+# Visualização:
 
 O sistema coleta dados de gols marcados por cada clube nos últimos 3 anos. 
 
@@ -378,7 +378,7 @@ O relatório exibe uma lista de clubes em ordem decrescente de gols marcados.
 
 Cada clube é apresentado com seu nome e o total de gols marcados no período. 
 
- **Interpretação:** 
+# Interpretação:
 
 O clube no topo da lista é aquele que marcou mais gols nos últimos 3 anos. 
 
@@ -386,43 +386,18 @@ Uma alta pontuação indica um possível bom desempenho do scout de atacantes do
 
 # Benefícios 
 
-**Identificação de Clubes Efetivos no Ataque:**  
+# Identificação de Clubes Efetivos no Ataque:  
 
 O relatório mostra quais clubes foram mais eficazes em termos de gols marcados. 
 
-**Validação do Scout de Atacantes:**   
+# Validação do Scout de Atacantes:   
 
 Um clube com um alto número de gols pode indicar uma estratégia bem-sucedida de scout e contratação de atacantes. 
 
-**Benchmarks e Estratégia:**   
+# Benchmarks e Estratégia:  
 
 Outros clubes podem se inspirar nos clubes mais efetivos em termos de gols para desenvolver suas próprias estratégias de contratação. 
 
-**Indicativo de Estilo de Jogo:**   
+# Indicativo de Estilo de Jogo:   
 
 Um clube com muitos gols pode ter um estilo de jogo ofensivo, o que pode ser útil para análise tática. 
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
- 
