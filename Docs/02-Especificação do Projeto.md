@@ -209,6 +209,17 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |RNF-009| A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada.| MÉDIA |
 |RNF-010| A aplicação deve fornecer um ranking de todos os atacantes   cadastrados, classificando-os com base em suas tendências, do melhor ao pior.| MÉDIA|
 
+# Requisitos Não Funcionais
+
+**|ID    | Descrição do Requisito |** 
+|------|-----------------------------------------|
+|RNF-001| Usabilidade: a aplicação deve ser de fácil de usar e intuitiva, com interface amigável e boa experiência do usuário. | 
+|RNF-002| Segurança: a aplicação deve garantir a segurança das informações do usuário, utilizando protocolos de segurança, criptografia e autenticação adequados.| 
+|RNF-003| Confiabilidade: a aplicação deve ser confiável, com baixa probabilidade de erros ou falhas.| 
+|RNF-004| Performance: a aplicação deve ser rápida e responsiva, com boa performance mesmo em situações de alta carga de uso.| 
+|RNF-005| Escalabilidade: a aplicação deve ser capaz de lidar com um grande número de usuários e jogadores cadastrados, sem comprometer sua performance ou segurança. | 
+|RNF-006| Manutenibilidade: a aplicação deve ser facilmente mantida e atualizada, com código organizado e documentação clara.| 
+
 
 
 
