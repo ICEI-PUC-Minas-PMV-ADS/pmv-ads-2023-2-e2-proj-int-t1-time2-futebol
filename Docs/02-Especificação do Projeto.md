@@ -104,6 +104,41 @@ Dificuldade em encontrar estatísticas detalhadas de atacantes menos conhecidos.
 
 Assistir a partidas, jogar futebol, jogar FIFA, sair com os amigos, ir à academia. 
 
+# Victória Aguilar
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/ae3d752a-d1f0-461c-a123-153158c6266f)
+
+Fonte: https://img.freepik.com/fotos-gratis/sorridente-jovem-bonita-caucasiana-com-oculos-de-sol-polegar-para-cima-e-segurando-uma-bola-no-ombro-isolada-na-parede-laranja-com-espaco-de-copia_141793-116368.jpg?w=900&t=st=1693506496~exp=1693507096~hmac=3dc839102d93e23a68744e676fe57e3132e9a6f3713570349725de6bdf8a4248
+
+**Idade:**  20 anos.
+
+**Ocupação**: Estudante Universitário de Jornalismo, quer seguir carreira esportiva.
+
+**Local:**: Campinas - SP.
+
+**Aplicativos e Ferramentas**:
+
+-  Instagram 
+-  Whatsapp 
+-  Twitter (X) 
+-  App Futebol, notícias de esporte
+-  Apps de Streaming   
+
+**Motivações**:
+
+Deseja acompanhar estatísticas e informações sobre atacantes para desenvolver suas habilidades jornalísticas. Gosta de se manter atualizada para participar de debates sobre futebol com colegas e professores. 
+
+**Frustrações**:
+
+Dificuldade em encontrar dados detalhados para embasar suas análises. Falta de informações específicas sobre atacantes menos conhecidos dos times da sua cidade.
+
+**Hobbies, História**:
+
+Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
+
+
+
+
 
 
 
