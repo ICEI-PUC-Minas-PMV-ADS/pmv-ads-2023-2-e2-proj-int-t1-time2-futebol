@@ -181,19 +181,6 @@ Fonte: https://img.freepik.com/fotos-gratis/jovem-homem-negocios-segurando-bola-
 | Victória Silva | Poder realizar uma pesquisa sobre o jogador acerca de seu desempenho em campo. | Localizar tópicos específicos e conseguir maior objetividade em algumas leituras. |   | | Roberto Couto  | Ler notícias sobre futebol e se atualizar para contribuir com novas contratações. | Ocupar o tempo quando estou esperando algo (Ex: Filas de supermercado.|
 | Roberto Couto  | Quero saber a data e a fonte das contratações nas temporadas. | Confiar no conteúdo passado e na atualidade das notícias que recebo. |
 
-# Restrições
-
-O projeto está restrito pelos itens apresentados na tabela a seguir: 
-
-|ID    | Restrição  | 
-|------|-----------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre letivo. | 
-|02| O projeto deve ser desenvolvido apenas pelos membros do grupo. |  
-|03| A organização do projeto deve possibilitar o trabalho assíncrono. | 
-|04| O código do projeto deve ser publicado no GitHub. | 
-|05| O projeto deve ter foco em uma aplicação Backend.| 
-|06| A aplicação interativa será desenvolvida nas linguagens C#, .NET e com o banco de dados SQL.| 
-
 # Requisitos Funcionais
 
 |ID    | Descrição do Requisito  | Prioridade |
@@ -219,6 +206,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |RNF-004| Performance: a aplicação deve ser rápida e responsiva, com boa performance mesmo em situações de alta carga de uso.| 
 |RNF-005| Escalabilidade: a aplicação deve ser capaz de lidar com um grande número de usuários e jogadores cadastrados, sem comprometer sua performance ou segurança. | 
 |RNF-006| Manutenibilidade: a aplicação deve ser facilmente mantida e atualizada, com código organizado e documentação clara.| 
+
+# Restrições
+
+O projeto está restrito pelos itens apresentados na tabela a seguir: 
+
+|ID    | Restrição  | 
+|------|-----------------------------------------|
+|01| O projeto deverá ser entregue até o final do semestre letivo. | 
+|02| O projeto deve ser desenvolvido apenas pelos membros do grupo. |  
+|03| A organização do projeto deve possibilitar o trabalho assíncrono. | 
+|04| O código do projeto deve ser publicado no GitHub. | 
+|05| O projeto deve ter foco em uma aplicação Backend.| 
+|06| A aplicação interativa será desenvolvida nas linguagens C#, .NET e com o banco de dados SQL.| 
 
 # Diagrama de Casos de Uso
 
