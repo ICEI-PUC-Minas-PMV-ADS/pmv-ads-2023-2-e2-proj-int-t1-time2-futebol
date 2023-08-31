@@ -72,6 +72,43 @@ Dificuldade em acessar informações consolidadas e atualizadas sobre atacantes 
 
 Viajar para assistir a jogos locais, analisar perfis de jogadores, descobrir talentos ocultos. 
 
+# Davi Martins
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8518f2c2-b06f-452b-bd69-2d5bd939f1ec)
+
+Fonte: https://img.freepik.com/fotos-gratis/retrato-de-um-jovem-estudante-do-sexo-masculino-africano-feliz_171337-8887.jpg?w=996&t=st=1693506211~exp=1693506811~hmac=a88e0c736171c460556227a221bb301c0453d73fa812345604b55f6d4b742d67
+
+**Idade:** 20 anos.
+
+**Ocupação**: Estudante Universitário de Direito.
+
+**Local:**: Volta Redonda - RJ.
+
+**Aplicativos e Ferramentas**:
+
+-  Instagram 
+-  Whatsapp 
+-  Twitter (X) 
+-  App Futebol, notícias de esporte
+-  Apps de Streaming   
+
+**Motivações**:
+
+Quer acompanhar o desempenho de atacantes de diferentes clubes e níveis. Gosta de ter acesso a estatísticas de maneira fácil e rápida para embasar suas discussões com amigos. 
+
+**Frustrações**:
+
+Dificuldade em encontrar estatísticas detalhadas de atacantes menos conhecidos. Falta de informações em um formato acessível.
+
+**Hobbies, História**:
+
+Assistir a partidas, jogar futebol, jogar FIFA, sair com os amigos, ir à academia. 
+
+
+
+
+
+
 
 
 
