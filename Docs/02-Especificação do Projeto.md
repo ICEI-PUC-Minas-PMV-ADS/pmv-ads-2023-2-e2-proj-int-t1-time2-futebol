@@ -236,7 +236,7 @@ Campos para entrada de dados, como gols marcados, assistências, número de jogo
 
 Botão para enviar e salvar as estatísticas. 
 
-# Ler (Read)
+# Ler (Read):
 
 Página de perfil do atleta exibindo suas estatísticas. 
 
@@ -318,7 +318,7 @@ Confirmação de exclusão antes que a observação seja removida.
 
 # 1. Relatório: Gráfico de Tendência do Atleta ao Longo de 3 Anos
 
-# Objetivo do Relatório:  
+# Objetivo do Relatório 
 
 Exibir a evolução das estatísticas de um atleta ao longo dos últimos 3 anos em forma de um gráfico de linha. Isso permitirá ao usuário visualizar a progressão do desempenho do atleta em diferentes métricas. 
 
@@ -366,11 +366,11 @@ Baseando-se nas tendências, treinadores podem estabelecer metas e estratégias 
 
 # 2. Relatório: Desempenho de Clubes em Termos de Gols Marcados ao Longo de 3 Anos.
 
-# Objetivo do Relatório:  
+# Objetivo do Relatório 
 
 Identificar o clube que teve o melhor desempenho em termos de gols marcados ao longo dos últimos 3 anos, destacando um possível bom scout de atacantes. 
 
-# Visualização:
+# Visualização
 
 O sistema coleta dados de gols marcados por cada clube nos últimos 3 anos. 
 
@@ -378,7 +378,7 @@ O relatório exibe uma lista de clubes em ordem decrescente de gols marcados.
 
 Cada clube é apresentado com seu nome e o total de gols marcados no período. 
 
-# Interpretação:
+# Interpretação
 
 O clube no topo da lista é aquele que marcou mais gols nos últimos 3 anos. 
 
