@@ -8,7 +8,7 @@ Os detalhes levantados nesse processo foram consolidados na forma de personas e 
 
 As personas levantadas durante o processo de entendimento do problema são apresentadas nas seguintes figuras: 
 
-# Rogério Avelar
+# 1. Rogério Avelar
 
  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/7f715b92-4acf-4fb6-9e4b-3e8ab71305d0)
 
@@ -39,7 +39,7 @@ Falta de dados detalhados para avaliar atacantes de maneira precisa. Dificuldade
 
 Assistir a partidas de futebol, estudar táticas, análise de desempenho.
 
-# Carlos Gomes
+# 2. Carlos Gomes
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a356a01b-9efa-48da-85c9-f1945bbd4a24)
 
@@ -72,7 +72,7 @@ Dificuldade em acessar informações consolidadas e atualizadas sobre atacantes 
 
 Viajar para assistir a jogos locais, analisar perfis de jogadores, descobrir talentos ocultos. 
 
-# Davi Martins
+# 3. Davi Martins
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8518f2c2-b06f-452b-bd69-2d5bd939f1ec)
 
@@ -104,7 +104,7 @@ Dificuldade em encontrar estatísticas detalhadas de atacantes menos conhecidos.
 
 Assistir a partidas, jogar futebol, jogar FIFA, sair com os amigos, ir à academia. 
 
-# Victória Aguilar
+# 4. Victória Aguilar
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/ae3d752a-d1f0-461c-a123-153158c6266f)
 
@@ -136,7 +136,7 @@ Dificuldade em encontrar dados detalhados para embasar suas análises. Falta de 
 
 Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
 
-# Roberto Couto
+# 5. Roberto Couto
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/1f0c5bab-532f-4d48-8f49-a465175abb8b)
 
