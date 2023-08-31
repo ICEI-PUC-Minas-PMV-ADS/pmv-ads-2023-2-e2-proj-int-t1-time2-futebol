@@ -194,6 +194,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |05| O projeto deve ter foco em uma aplicação Backend.| 
 |06| A aplicação interativa será desenvolvida nas linguagens C#, .NET e com o banco de dados SQL.| 
 
+# Requisitos Funcionais
+
+|ID    | Descrição do Requisito  | Prioridade |
+|------|-----------------------------------------|----|
+|RNF-001| A aplicação deve permitir o cadastro de atacantes, inserindo nome, clube, divisão, dados de contato (opcional) e informações gerais. | ALTA |
+|RNF-002| A aplicação deve permitir os usuários inserirem ou importarem estatísticas simples dos atacantes, como gols, número médio de finalizações por jogo e chutes para fora. | ALTA |
+|RNF-003| A aplicação deve permitir um registro dos dados dos atacantes nos últimos 3 anos, permitindo a comparação e análise de tendências ao longo do tempo.	 | MÉDIA |
+|RNF-004| A aplicação deve permitir uma função que calcula a tendência de desempenho com base nas estatísticas dos últimos 3 anos, identificando se o jogador está melhorando, mantendo ou piorando seu desempenho.| MÉDIA |
+|RNF-005| A aplicação deve permitir uma lista de atacantes cadastrados com suas estatísticas, histórico de desempenho e tendências.| ALTA |
+|RNF-006| A aplicação deve permitir a criação de gráficos de linhas simples para ilustrar a tendência de desempenho ao longo dos anos para cada estatística.| 
+ALTA |
+|RNF-007| A aplicação deve permitir aos usuários selecionarem até três atacantes para comparar suas estatísticas e tendências de desempenho em um gráfico simples. | MÉDIA |
+|RNF-008| A aplicação deve permitir uma avaliação textual da tendência de desempenho de cada atacante, destacando se está melhorando, mantendo ou piorando ao longo dos anos.| MÉDIA |
+|RNF-009| A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada.| MÉDIA |
+|RNF-010| A aplicação deve fornecer um ranking de todos os atacantes   cadastrados, classificando-os com base em suas tendências, do melhor ao pior.| MÉDIA|
+
 
 
 
