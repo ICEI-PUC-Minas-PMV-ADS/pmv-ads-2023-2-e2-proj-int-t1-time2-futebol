@@ -187,13 +187,14 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 **|ID| Restrição**
 
+|ID    | Restrição  | 
+|------|-----------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre letivo. | 
-|02| O projeto deve ser desenvolvido apenas pelos membros do grupo. | 
-|03|A organização do projeto deve possibilitar o trabalho assíncrono. | 
+|02| O projeto deve ser desenvolvido apenas pelos membros do grupo. |  
+|03| A organização do projeto deve possibilitar o trabalho assíncrono. | 
 |04| O código do projeto deve ser publicado no GitHub. | 
-|05| O projeto deve ter foco em uma aplicação backend. | 
-|06|A aplicação interativa será desenvolvida nas linguagens C#, .NET e com o banco de dados SQL. | 
-
+|05| O projeto deve ter foco em uma aplicação Backend.| 
+|06| A aplicação interativa será desenvolvida nas linguagens C#, .NET e com o banco de dados SQL.| 
 
 
 
