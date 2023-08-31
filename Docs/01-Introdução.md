@@ -1,6 +1,6 @@
 # Definição do Problema/ Introdução
 
- Com a evolução da Internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização dos seus serviços, considerando essa notável evolução digital em toda a sociedade. Um dos segmentos mais impactados positivamente foi o do entretenimento, incluindo os jogos digitais, a indústria dos filmes e seriados televisivos, o segmento musical e sem dúvida alguma a do mundo dos esportes.      
+   Com a evolução da Internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização dos seus serviços, considerando essa notável evolução digital em toda a sociedade. Um dos segmentos mais impactados positivamente foi o do entretenimento, incluindo os jogos digitais, a indústria dos filmes e seriados televisivos, o segmento musical e sem dúvida alguma a do mundo dos esportes.      
  
  Segundo os dados da Pesquisa Global de Entretenimento e Mídia organizada e divulgada pela PwC Brasil, a receita mundial da indústria de entretenimento em 2022 fechou aproximadamente em US$ 2,5 trilhões, o que significa um aumento de 7,3% em comparação com a previsão anterior que era de 2,9% para o PIB global desse mesmo setor (BUYCO, 2023). Ou seja, esses números apenas confirmam a crescente perspectiva e a vasta projeção de futuro dessa área. 
 
