@@ -15,7 +15,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
  Fonte: https://img.freepik.com/fotos-gratis/cara-jogando-futebol-na-praia_23-2147803093.jpg?w=360&t=st=1693505106~exp=1693505706~hmac=8dfffd4bb664c0f82507329c70686527b05b49cd41bfee5a7b5c35e21e3acc3d
 
 **Idade:** 47 
+
 **Ocupação**: Técnico de Futebol Profissional 
+
 **Local:** Tombos - MG 
 
 **Aplicativos e Ferramentas**:
