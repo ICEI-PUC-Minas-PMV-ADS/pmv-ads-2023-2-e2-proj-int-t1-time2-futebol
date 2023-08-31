@@ -10,9 +10,9 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 # Rogério Avelar
 
- ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8c93f3f5-0f5a-4cd5-884e-478cbc156c51)
+ ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/7f715b92-4acf-4fb6-9e4b-3e8ab71305d0)
 
- Fonte: https://img.freepik.com/fotos-gratis/cara-jogando-futebol-na-praia_23-2147803093.jpg?w=360&t=st=1693505106~exp=1693505706~hmac=8dfffd4bb664c0f82507329c70686527b05b49cd41bfee5a7b5c35e21e3acc3d
+ Fonte: [https://img.freepik.com/fotos-gratis/cara-jogando-futebol-na-praia_23-2147803093.jpg?w=360&t=st=1693505106~exp=1693505706~hmac=8dfffd4bb664c0f82507329c70686527b05b49cd41bfee5a7b5c35e21e3acc3d](https://img.freepik.com/fotos-gratis/homem-de-tiro-medio-segurando-uma-bola_23-2149271024.jpg?w=996&t=st=1693505980~exp=1693506580~hmac=5e236f1e2d49b79c7338d9c28d2f480bdd829b7ed320e2ec0ecac3e574b5ee7a)
 
 **Idade:** 47 anos.
 
