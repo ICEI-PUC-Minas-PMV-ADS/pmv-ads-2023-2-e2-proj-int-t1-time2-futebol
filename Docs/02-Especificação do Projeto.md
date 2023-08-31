@@ -169,6 +169,19 @@ Falta de ferramentas acessíveis para analisar estatísticas detalhadas de jogad
 
 Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
 
+# Histórias de Usuários
+
+| Eu como (Persona) | Quero/Desejo (O QUE) | Para que (POR QUE) |
+| ----------------- | ----------------- | ---------------- |
+| Rogério Avelar | Visualizar as notícias mais no meio futebolístico | Tomar ciência das estatísticas do jogador |
+| Rogério Avelar | Visualizar notícias mais alinhadas com minha área de atuação | gastar menos tempo assistindo a partidas de futebol e dar foco no desempenho dos jogadores | 
+| Rogério Avelar | Manter um registro de jogadores específicos sobre as quais possuo interesse particular | Manter um histórico de jogadores que possam ser compartilhadas |           
+| Victória Aguilar | Fazer comentários sobre o jogador de destaque no momento | Discutir com grupos de interesse comum |               
+| Victória Aguilar | Compartilhar jogadores nas redes sociais em que faço parte | Poder discutir com os amigos e colegas de trabalhos sobre temas de interesse | 
+| Victória Aguilar | Poder realizar uma pesquisa sobre o jogador acerca de seu desempenho em campo | Localizar tópicos específicos e conseguir maior objetividade em algumas leituras |    | Roberto Couto    | Ler notícias sobre futebol e se atualizar para contribuir com novas contratações | Ocupar o tempo quando estou esperando algo (ex.: filas de supermercado |
+| Roberto Couto    | Quero saber a data e a fonte das contratações nas temporadas | Confiar no conteúdo passado e na atualidade das notícias que recebo |
+
+
 
 
 
