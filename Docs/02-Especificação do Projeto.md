@@ -220,6 +220,25 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 |RNF-005| Escalabilidade: a aplicação deve ser capaz de lidar com um grande número de usuários e jogadores cadastrados, sem comprometer sua performance ou segurança. | 
 |RNF-006| Manutenibilidade: a aplicação deve ser facilmente mantida e atualizada, com código organizado e documentação clara.| 
 
+# Diagrama de Casos de Uso
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/73d1e260-dc7c-4059-9eda-51a447ba8018)
+
+# CRUDS e Relatórios
+
+# **CRUDS**
+
+# 1 .CRUD: Cadastro de Estatísticas dos Atletas 
+
+**Criar (Create)**:
+
+Página de entrada de detalhes estatísticas do atleta. 
+
+Campos para entrada de dados, como gols marcados, assistências, número de jogos e estatísticas sobre finalizações e Detalhes como idade e clube em que joga. 
+
+Botão para enviar e salvar as estatísticas. 
+
+
 
 
 
