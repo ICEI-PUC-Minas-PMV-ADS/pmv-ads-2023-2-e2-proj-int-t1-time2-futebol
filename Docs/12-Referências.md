@@ -21,3 +21,7 @@ CUNHA, Sérgio Augusto; BINOTTO, Mônica Ribeiro; BARROS, Ricardo Machado Leite.
 O TRABALHO de scouting quais os métodos de avaliação para um jovem. **Footure,** 2022. Disponível em: https://footure.com.br/o-trabalho-de-scouting-quais-os-metodos-de-avaliacao-para-um-jovem/ - Acesso em: 30 de agost. 2023. 
 
 ANALISE de desempenho no futebol profissional. **CBF Academy,** 2023. Disponível em: https://www.cbf.com.br/cbfacademy/pt-br/cursos/13-analise-de-desempenho-no-futebol-profissional - Acesso 30 de Agost. 2023. 
+
+ENTENDA o que e scout e como funciona o trabalho dos analistas no futebol. **Terra Esportes,** 2023. Disponível em: https://www.terra.com.br/esportes/futebol/entenda-o-que-e-scout-e-como-funciona-o-trabalho-dos-analistas-no-futebol,2a07d6152759a596895c6ab16c8c8f8eueo3hdcp.html?utm_source=clipboard - Acesso em: 30 de Agost. 2023. 
+
+FUTEBOL dificuldades e oportunidades para crianças e adolescentes. **Universidade do Futebol,** 2017. Disponível em: https://universidadedofutebol.com.br/2017/07/19/futebol-dificuldades-e-oportunidades-para-criancas-e-adolescentes/ - Acesso em: 30 de Agost. 2023. 
