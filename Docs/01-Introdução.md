@@ -30,4 +30,50 @@
 
  A criação de novas plataformas de scouts, podem ser, sem dúvida, mais uma fonte valiosa de dados e de insumos expressivos para que analistas especializados de desempenho consigam visualizar novos atletas com potencial de mercado no futebol brasileiro, estimulando então, as transferências dos mesmos para novas equipes. Além disto, novos aplicativos de scouts são novas oportunidades tecnológicas para que qualquer jogador desconhecido consiga ter um novo espaço de divulgação e de qualificação do seu trabalho como um atleta de alta performance. 
 
+ # Problema
+
+Muitos jogadores de futebol, precisamente atacantes, não conseguem ter muita visibilidade no mercado futebolístico devido a sua atuação ser efetuada em times menos conhecidos em divisões inferiores do Campeonato Brasileiro. Essa situação prejudica diretamente o jogador profissional em sua geração de renda e no seu desenvolvimento de carreira.  
+
+# Proposta de Solução/ Objetivos
+
+O objetivo central deste projeto é criar um mecanismo que facilite a análise do desempenho dos atacantes das séries B e C do Campeonato Brasileiro de clubes de futebol da região Sudeste. O objetivo é facilitar a divulgação de jogadores para ajudar nas suas respectivas contratações.  
+
+**Objetivos Específicos:**  
+
+ - Oferecer uma listagem dos atacantes cadastrados;  
+ - Criar um filtro a fim de segmentar cada jogador e o clube onde ele atua;  
+ - Registro das estatísticas do jogador escolhido: gols, finalizações, chutes em direção ao gol, chutes para fora;  
+ - Gráficos visuais com todos esses dados.
+
+ **Trabalhos relacionados (soluções que já existem):** 
+ 
+ Existem muitos sites e aplicativos que divulgam as estatísticas e o desempenho dos jogadores de futebol. Destacam-se entre eles:  
+
+  -	**Sofascore:**[^1]. É um site e aplicativo que divulga ao vivo resultados e estatísticas de 22 esportes atualizados, inclusive o futebol. O aplicativo é uma opção para se acompanhar a performance dos jogadores dos maiores clubes pelos campeonatos nacionais e internacionais.
+  -	**Footystats:**[^2]. É um aplicativo que fornece estatísticas, análises e previsões detalhadas dos jogadores para o ajudar nas suas apostas desportivas e melhorar o seu conhecimento sobre futebol.
+  -	**Wyscout:**[^3]. É uma plataforma de scout que oferece suporte a prospecção de futebol para os clubes profissionais. Realiza a análise de partidas dos jogadores com gráficos entre outras informações. 
+
+[^1]: https://www.sofascore.com/pt 
+[^2]: https://footystats.org/pt/ 
+[^3]: https://www.hudl.com/products/wyscout 
+
+# Justificativa
+
+ O futebol segue uma nova metodologia quanto ao planejamento e a observação sobre a performance dos atletas. Esse cenário começou a se transformar a partir dos anos 2000 devido à evolução dos meios e métodos de comunicação. O futebol também passou a ser conhecido como uma “ciência” onde a análise sistêmica baseadas em dados passou a fazer parte do cotidiano dos clubes.  
+
+ Inúmeras tomadas de decisões no mercado de negociação, por exemplo, são baseadas em scout. Além disso, treinadores montam os seus planos de jogo com a relevante cooperação de ferramentas de dados que apoiam o desenvolvimento e a evolução do esporte como conhecemos atualmente.Conforme Eduardo Dias, CEO da plataforma de análise da Footure um dos sistemas operacionais mais conceituados do Brasil: 
+ 
+ "A análise depende de onde se quer chegar. O clube precisa ter um plano sobre o tipo de jogador que ele deseja desenvolver, o tipo de atleta que ele vai precisar para determinado modelo de jogo e para quem ele eventualmente vai vender este jogador. Tudo isso é inteligência de mercado e scout vai entrar na parte de monitoramento". (TERRA ESPORTES, 2023).  
+
+É importante ressaltar que em alguns dados disponibilizados pela CBF (Confederação Brasileira de Futebol), 84,8% dos jogadores brasileiros recebem até dois salários mínimos atuando como jogador profissional. A mídia sempre deu destaque para as carreiras de sucesso financeiro e esportivo, porém, esses casos são exceções na realidade esportiva. 
+
+Além disso, os dados indicam que apenas 1% dos jovens candidatos que realizaram tetes nos clubes de futebol brasileiro conseguem ser aprovados nos testes. (UNIVERSIDADE DO FUTEBOL, 2017). Para fomentar a inserção de mais jogadores profissionais em um mercado tão competitivo, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalhos dos atletas “desconhecidos” e facilitar a sua exposição para que outras equipes terem interesse na sua contratação. 
+ 
+
+
+
+
+
+
+
  
