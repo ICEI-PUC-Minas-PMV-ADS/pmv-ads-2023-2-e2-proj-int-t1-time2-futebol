@@ -380,24 +380,24 @@ Cada clube é apresentado com seu nome e o total de gols marcados no período.
 
 # Interpretação
 
-O clube no topo da lista é aquele que marcou mais gols nos últimos 3 anos. 
+-  O clube no topo da lista é aquele que marcou mais gols nos últimos 3 anos. 
 
-Uma alta pontuação indica um possível bom desempenho do scout de atacantes do clube. 
+-  Uma alta pontuação indica um possível bom desempenho do scout de atacantes do clube. 
 
 # Benefícios 
 
 # Identificação de Clubes Efetivos no Ataque:  
 
-O relatório mostra quais clubes foram mais eficazes em termos de gols marcados. 
+-  O relatório mostra quais clubes foram mais eficazes em termos de gols marcados. 
 
 # Validação do Scout de Atacantes:   
 
-Um clube com um alto número de gols pode indicar uma estratégia bem-sucedida de scout e contratação de atacantes. 
+-  Um clube com um alto número de gols pode indicar uma estratégia bem-sucedida de scout e contratação de atacantes. 
 
 # Benchmarks e Estratégia:  
 
-Outros clubes podem se inspirar nos clubes mais efetivos em termos de gols para desenvolver suas próprias estratégias de contratação. 
+-  Outros clubes podem se inspirar nos clubes mais efetivos em termos de gols para desenvolver suas próprias estratégias de contratação. 
 
 # Indicativo de Estilo de Jogo:   
 
-Um clube com muitos gols pode ter um estilo de jogo ofensivo, o que pode ser útil para análise tática. 
+-  Um clube com muitos gols pode ter um estilo de jogo ofensivo, o que pode ser útil para análise tática. 
