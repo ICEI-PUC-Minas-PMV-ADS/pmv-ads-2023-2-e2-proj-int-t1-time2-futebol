@@ -68,4 +68,7 @@ O objetivo central deste projeto é criar um mecanismo que facilite a análise d
 É importante ressaltar que em alguns dados disponibilizados pela CBF (Confederação Brasileira de Futebol), 84,8% dos jogadores brasileiros recebem até dois salários mínimos atuando como jogador profissional. A mídia sempre deu destaque para as carreiras de sucesso financeiro e esportivo, porém, esses casos são exceções na realidade esportiva. 
 
 Além disso, os dados indicam que apenas 1% dos jovens candidatos que realizaram tetes nos clubes de futebol brasileiro conseguem ser aprovados nos testes. (UNIVERSIDADE DO FUTEBOL, 2017). Para fomentar a inserção de mais jogadores profissionais em um mercado tão competitivo, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalhos dos atletas “desconhecidos” e facilitar a sua exposição para que outras equipes terem interesse na sua contratação. 
- 
+
+# Público Alvo
+
+Olheiros de clubes de futebol, treinadores e entusiastas do futebol interessados em identificar tendências de desempenho de atacantes das séries B e C de clubes do Sudeste, além disso, os próprios jogadores que precisam se promover. Todos os públicos em questão independem obrigatoriamente de alguma faixa etária ou algum gênero específico.  
