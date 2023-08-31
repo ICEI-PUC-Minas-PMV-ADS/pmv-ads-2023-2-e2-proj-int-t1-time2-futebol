@@ -228,7 +228,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 # 1 .CRUD: Cadastro de Estatísticas dos Atletas 
 
-**Criar (Create)**:
+# Criar (Create):
 
 Página de entrada de detalhes estatísticas do atleta. 
 
@@ -236,13 +236,13 @@ Campos para entrada de dados, como gols marcados, assistências, número de jogo
 
 Botão para enviar e salvar as estatísticas. 
 
-**Ler (Read)**
+# Ler (Read)
 
 Página de perfil do atleta exibindo suas estatísticas. 
 
 As estatísticas são exibidas em tabelas ou gráficos, permitindo uma visualização fácil. 
 
-**Atualizar (Update):**
+# Atualizar (Update):
 
 Página de edição de estatísticas, acessível ao administrador da página. 
 
@@ -250,7 +250,7 @@ Campos preenchidos com as estatísticas existentes e possibilidade de edição.
 
 Botão para atualizar as estatísticas. 
 
-**Deletar (Delete):** 
+# Deletar (Delete):
 
 Botão ou link para excluir estatísticas. 
 
