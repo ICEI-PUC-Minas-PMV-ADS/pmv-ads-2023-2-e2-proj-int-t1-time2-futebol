@@ -211,7 +211,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 # Requisitos Não Funcionais
 
-**|ID    | Descrição do Requisito |** 
+|ID    | Descrição do Requisito | 
 |------|-----------------------------------------|
 |RNF-001| Usabilidade: a aplicação deve ser de fácil de usar e intuitiva, com interface amigável e boa experiência do usuário. | 
 |RNF-002| Segurança: a aplicação deve garantir a segurança das informações do usuário, utilizando protocolos de segurança, criptografia e autenticação adequados.| 
