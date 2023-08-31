@@ -1,4 +1,4 @@
-# Definição do Problema/ Introdução
+# 1. Definição do Problema/ Introdução
 
    Com a evolução da Internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização dos seus serviços, considerando essa notável evolução digital em toda a sociedade. Um dos segmentos mais impactados positivamente foi o do entretenimento, incluindo os jogos digitais, a indústria dos filmes e seriados televisivos, o segmento musical e sem dúvida alguma a do mundo dos esportes.      
  
