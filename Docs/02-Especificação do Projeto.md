@@ -82,7 +82,7 @@ Fonte: https://img.freepik.com/fotos-gratis/retrato-de-um-jovem-estudante-do-sex
 
 **Ocupação**: Estudante Universitário de Direito.
 
-**Local:**: Volta Redonda - RJ.
+**Local:** Volta Redonda - RJ.
 
 **Aplicativos e Ferramentas**:
 
@@ -114,7 +114,7 @@ Fonte: https://img.freepik.com/fotos-gratis/sorridente-jovem-bonita-caucasiana-c
 
 **Ocupação**: Estudante Universitário de Jornalismo, quer seguir carreira esportiva.
 
-**Local:**: Campinas - SP.
+**Local:** Campinas - SP.
 
 **Aplicativos e Ferramentas**:
 
@@ -135,6 +135,41 @@ Dificuldade em encontrar dados detalhados para embasar suas análises. Falta de 
 **Hobbies, História**:
 
 Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
+
+# Roberto Couto
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/1f0c5bab-532f-4d48-8f49-a465175abb8b)
+
+Fonte: https://img.freepik.com/fotos-gratis/jovem-homem-negocios-segurando-bola-futebol-em-mao-apertar-dela-punho-ficar-contra-parede-cinza_23-2148087405.jpg?w=740&t=st=1693506861~exp=1693507461~hmac=2d9b8ad60c474bdb55d4adf580457c1ffce7e06ea27658f9983f7046cd46a5be
+
+**Idade:** 45 anos.
+
+**Ocupação**: Diretor de Futebol, equipe de pequeno porte.
+
+**Local:** Nova Serrana - MG.
+
+**Aplicativos e Ferramentas**:
+
+-  Instagram 
+-  Whatsapp 
+-  LinkedIn
+-  App Futebol, notícias de esporte
+-  Apps de Streaming
+-  Excel
+
+**Motivações**:
+
+Quer melhorar o desempenho da sua equipe amadora através da análise de dados. Busca informações sobre atacantes que possam se encaixar na sua estratégia de equipe. 
+
+**Frustrações**:
+
+Falta de ferramentas acessíveis para analisar estatísticas detalhadas de jogadores. Dificuldade em identificar atacantes que se adequem ao estilo de jogo da equipe.
+
+**Hobbies, História**:
+
+Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
+
+
 
 
 
