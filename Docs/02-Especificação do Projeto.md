@@ -222,7 +222,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 # Diagrama de Casos de Uso
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/73d1e260-dc7c-4059-9eda-51a447ba8018)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/6f3b7b69-2322-463c-9de6-9a699094c506)
 
 # CRUDS e Relatórios
 
