@@ -104,7 +104,7 @@ Dificuldade em encontrar estatísticas detalhadas de atacantes menos conhecidos.
 
 Assistir a partidas, jogar futebol, jogar FIFA, sair com os amigos, ir à academia. 
 
-# 4. Victória Aguilar
+# 4. Victória Silva
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/ae3d752a-d1f0-461c-a123-153158c6266f)
 
@@ -176,9 +176,9 @@ Treinamento de equipe, assistir a partidas profissionais para inspiração, inte
 | Rogério Avelar | Visualizar as notícias mais no meio futebolístico. | Tomar ciência das estatísticas do jogador. |
 | Rogério Avelar | Visualizar notícias mais alinhadas com minha área de atuação. | gastar menos tempo assistindo a partidas de futebol e dar foco no desempenho dos jogadores. | 
 | Rogério Avelar | Manter um registro de jogadores específicos sobre as quais possuo interesse particular. | Manter um histórico de jogadores que possam ser compartilhadas. |           
-| Victória | Fazer comentários sobre o jogador de destaque no momento. | Discutir com grupos de interesse comum. |               
-| Victória Aguilar | Compartilhar jogadores nas redes sociais em que faço parte. | Poder discutir com os amigos e colegas de trabalhos sobre temas de interesse. | 
-| Victória Aguilar | Poder realizar uma pesquisa sobre o jogador acerca de seu desempenho em campo. | Localizar tópicos específicos e conseguir maior objetividade em algumas leituras. |   | Roberto Couto    | Ler notícias sobre futebol e se atualizar para contribuir com novas contratações. | Ocupar o tempo quando estou esperando algo (Ex: Filas de supermercado.|
+| Victória Silva | Fazer comentários sobre o jogador de destaque no momento. | Discutir com grupos de interesse comum. |               
+| Victória Silva | Compartilhar jogadores nas redes sociais em que faço parte. | Poder discutir com os amigos e colegas de trabalhos sobre temas de interesse. | 
+| Victória Silva | Poder realizar uma pesquisa sobre o jogador acerca de seu desempenho em campo. | Localizar tópicos específicos e conseguir maior objetividade em algumas leituras. |   | | Roberto Couto    | Ler notícias sobre futebol e se atualizar para contribuir com novas contratações. | Ocupar o tempo quando estou esperando algo (Ex: Filas de supermercado.|
 | Roberto Couto    | Quero saber a data e a fonte das contratações nas temporadas. | Confiar no conteúdo passado e na atualidade das notícias que recebo. |
 
 
