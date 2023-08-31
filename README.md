@@ -16,7 +16,7 @@
 * Luiz Felipe Sena Costa
 * Raul Janon
 
-## Orientador
+## Orientadora
 
 * Rosilane Ribeiro da Mota
 
