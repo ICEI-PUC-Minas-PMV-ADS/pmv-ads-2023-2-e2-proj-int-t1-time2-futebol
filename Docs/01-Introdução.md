@@ -71,4 +71,6 @@ Além disso, os dados indicam que apenas 1% dos jovens candidatos que realizaram
 
 # Público Alvo
 
-Olheiros de clubes de futebol, treinadores e entusiastas do futebol interessados em identificar tendências de desempenho de atacantes das séries B e C de clubes do Sudeste, além disso, os próprios jogadores que precisam se promover. Todos os públicos em questão independem obrigatoriamente de alguma faixa etária ou algum gênero específico.  
+Olheiros de clubes de futebol, treinadores e entusiastas do futebol interessados em identificar tendências de desempenho de atacantes das séries B e C de clubes do Sudeste, além disso, os próprios jogadores que precisam se promover. 
+
+Todos os públicos em questão independem obrigatoriamente de alguma faixa etária ou algum gênero específico.  
