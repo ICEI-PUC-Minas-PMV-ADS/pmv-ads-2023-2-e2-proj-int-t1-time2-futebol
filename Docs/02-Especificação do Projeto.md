@@ -14,18 +14,31 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
  Fonte: https://img.freepik.com/fotos-gratis/cara-jogando-futebol-na-praia_23-2147803093.jpg?w=360&t=st=1693505106~exp=1693505706~hmac=8dfffd4bb664c0f82507329c70686527b05b49cd41bfee5a7b5c35e21e3acc3d
 
-**Idade:** 47 anos.
+**Idade:**: 47 anos.
 
 **Ocupação**: Técnico de Futebol Profissional.
 
-**Local:** Tombos - MG.
+**Local:**: Tombos - MG.
 
 **Aplicativos e Ferramentas**:
 
 - Instagram 
 - WhatsApp 
 - Youtube 
-- Planilhas Táticas (Excel) 
+- Planilhas Táticas (Excel)
+
+**Motivações**:
+
+Procura informações detalhadas sobre o desempenho de atacantes para melhorar as táticas da equipe. Deseja encontrar jogadores que se encaixem em seu estilo de jogo e planejar estratégias de jogo mais eficazes para conquistar títulos e cumprir os seus objetivos treinando o clube. 
+
+**Frustrações**:
+
+Falta de dados detalhados para avaliar atacantes de maneira precisa. Dificuldade em identificar tendências em estatísticas e tomar decisões informadas. 
+
+**Hobbies, História**:
+
+Assistir a partidas de futebol, estudar táticas, análise de desempenho.
+
 
 
 
