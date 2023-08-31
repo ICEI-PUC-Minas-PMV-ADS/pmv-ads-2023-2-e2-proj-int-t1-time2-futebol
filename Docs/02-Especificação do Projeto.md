@@ -29,15 +29,15 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 **Motivações**:
 
-Procura informações detalhadas sobre o desempenho de atacantes para melhorar as táticas da equipe. Deseja encontrar jogadores que se encaixem em seu estilo de jogo e planejar estratégias de jogo mais eficazes para conquistar títulos e cumprir os seus objetivos treinando o clube. 
+-  Procura informações detalhadas sobre o desempenho de atacantes para melhorar as táticas da equipe. Deseja encontrar jogadores que se encaixem em seu estilo de jogo e planejar estratégias de jogo mais eficazes para conquistar títulos e cumprir os seus objetivos treinando o clube. 
 
 **Frustrações**:
 
-Falta de dados detalhados para avaliar atacantes de maneira precisa. Dificuldade em identificar tendências em estatísticas e tomar decisões informadas. 
+-  Falta de dados detalhados para avaliar atacantes de maneira precisa. Dificuldade em identificar tendências em estatísticas e tomar decisões informadas. 
 
 **Hobbies, História**:
 
-Assistir a partidas de futebol, estudar táticas, análise de desempenho.
+-  Assistir a partidas de futebol, estudar táticas, análise de desempenho.
 
 # 2. Carlos Gomes
 
@@ -49,7 +49,7 @@ Fonte: https://img.freepik.com/fotos-gratis/jogador-de-futebol-bonito-no-estadio
 
 **Ocupação**: Scout (Olheiro) profissional.
 
-**Local:**: São Paulo - SP.
+**Local:** São Paulo - SP.
 
 **Aplicativos e Ferramentas**:
 
@@ -62,15 +62,15 @@ Fonte: https://img.freepik.com/fotos-gratis/jogador-de-futebol-bonito-no-estadio
 
 **Motivações**:
 
-Busca por jovens talentos e jogadores subestimados. Quer identificar atacantes promissores com base em estatísticas detalhadas e perfis técnicos. 
+-  Busca por jovens talentos e jogadores subestimados. Quer identificar atacantes promissores com base em estatísticas detalhadas e perfis técnicos. 
 
 **Frustrações**:
 
-Dificuldade em acessar informações consolidadas e atualizadas sobre atacantes de divisões inferiores. Falta de análises aprofundadas. 
+-  Dificuldade em acessar informações consolidadas e atualizadas sobre atacantes de divisões inferiores. Falta de análises aprofundadas. 
 
 **Hobbies, História**:
 
-Viajar para assistir a jogos locais, analisar perfis de jogadores, descobrir talentos ocultos. 
+-  Viajar para assistir a jogos locais, analisar perfis de jogadores, descobrir talentos ocultos. 
 
 # 3. Davi Martins
 
@@ -94,15 +94,15 @@ Fonte: https://img.freepik.com/fotos-gratis/retrato-de-um-jovem-estudante-do-sex
 
 **Motivações**:
 
-Quer acompanhar o desempenho de atacantes de diferentes clubes e níveis. Gosta de ter acesso a estatísticas de maneira fácil e rápida para embasar suas discussões com amigos. 
+-  Quer acompanhar o desempenho de atacantes de diferentes clubes e níveis. Gosta de ter acesso a estatísticas de maneira fácil e rápida para embasar suas discussões com amigos. 
 
 **Frustrações**:
 
-Dificuldade em encontrar estatísticas detalhadas de atacantes menos conhecidos. Falta de informações em um formato acessível.
+-  Dificuldade em encontrar estatísticas detalhadas de atacantes menos conhecidos. Falta de informações em um formato acessível.
 
 **Hobbies, História**:
 
-Assistir a partidas, jogar futebol, jogar FIFA, sair com os amigos, ir à academia. 
+-  Assistir a partidas, jogar futebol, jogar FIFA, sair com os amigos, ir à academia. 
 
 # 4. Victória Silva
 
@@ -126,15 +126,15 @@ Fonte: https://img.freepik.com/fotos-gratis/sorridente-jovem-bonita-caucasiana-c
 
 **Motivações**:
 
-Deseja acompanhar estatísticas e informações sobre atacantes para desenvolver suas habilidades jornalísticas. Gosta de se manter atualizada para participar de debates sobre futebol com colegas e professores. 
+-  Deseja acompanhar estatísticas e informações sobre atacantes para desenvolver suas habilidades jornalísticas. Gosta de se manter atualizada para participar de debates sobre futebol com colegas e professores. 
 
 **Frustrações**:
 
-Dificuldade em encontrar dados detalhados para embasar suas análises. Falta de informações específicas sobre atacantes menos conhecidos dos times da sua cidade.
+-  Dificuldade em encontrar dados detalhados para embasar suas análises. Falta de informações específicas sobre atacantes menos conhecidos dos times da sua cidade.
 
 **Hobbies, História**:
 
-Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
+-  Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
 
 # 5. Roberto Couto
 
@@ -159,15 +159,15 @@ Fonte: https://img.freepik.com/fotos-gratis/jovem-homem-negocios-segurando-bola-
 
 **Motivações**:
 
-Quer melhorar o desempenho da sua equipe amadora através da análise de dados. Busca informações sobre atacantes que possam se encaixar na sua estratégia de equipe. 
+-  Quer melhorar o desempenho da sua equipe amadora através da análise de dados. Busca informações sobre atacantes que possam se encaixar na sua estratégia de equipe. 
 
 **Frustrações**:
 
-Falta de ferramentas acessíveis para analisar estatísticas detalhadas de jogadores. Dificuldade em identificar atacantes que se adequem ao estilo de jogo da equipe.
+-  Falta de ferramentas acessíveis para analisar estatísticas detalhadas de jogadores. Dificuldade em identificar atacantes que se adequem ao estilo de jogo da equipe.
 
 **Hobbies, História**:
 
-Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
+-  Treinamento de equipe, assistir a partidas profissionais para inspiração, interagir com outros técnicos amadores. 
 
 # Histórias de Usuários
 
