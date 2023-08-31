@@ -226,7 +226,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 # CRUDS e Relatórios
 
-## 1 .CRUD: Cadastro de Estatísticas dos Atletas 
+# 1 .CRUD: Cadastro de Estatísticas dos Atletas 
 
 ## Criar (Create):
 
@@ -256,7 +256,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 -  Confirmação de exclusão antes que as estatísticas sejam removidas. 
 
-## 2. CRUD: Cadastro de Clubes e Vinculação de Atletas 
+# 2. CRUD: Cadastro de Clubes e Vinculação de Atletas 
 
 ## Criar (Create):
 
@@ -316,7 +316,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir:
 
 # Relatórios
 
-## 1. Relatório: Gráfico de Tendência do Atleta ao Longo de 3 Anos
+# 1. Relatório: Gráfico de Tendência do Atleta ao Longo de 3 Anos
 
 ## Objetivo do Relatório 
 
