@@ -1,4 +1,4 @@
-# 1. Definição do Problema/ Introdução
+# 1. Definição do Problema / Introdução
 
    Com a evolução da Internet e o desenvolvimento dos serviços digitais como sites e aplicativos, vários nichos de mercado vivenciaram uma grande transformação na realização dos seus serviços, considerando essa notável evolução digital em toda a sociedade. Um dos segmentos mais impactados positivamente foi o do entretenimento, incluindo os jogos digitais, a indústria dos filmes e seriados televisivos, o segmento musical e sem dúvida alguma a do mundo dos esportes.      
  
@@ -34,7 +34,7 @@
 
 Muitos jogadores de futebol, precisamente atacantes, não conseguem ter muita visibilidade no mercado futebolístico devido a sua atuação ser efetuada em times menos conhecidos em divisões inferiores do Campeonato Brasileiro. Essa situação prejudica diretamente o jogador profissional em sua geração de renda e no seu desenvolvimento de carreira.  
 
-# Proposta de Solução/ Objetivos
+# Proposta de Solução / Objetivos
 
 O objetivo central deste projeto é criar um mecanismo que facilite a análise do desempenho dos atacantes das séries B e C do Campeonato Brasileiro de clubes de futebol da região Sudeste. O objetivo é facilitar a divulgação de jogadores para ajudar nas suas respectivas contratações.  
 
@@ -69,7 +69,7 @@ O objetivo central deste projeto é criar um mecanismo que facilite a análise d
 
 Além disso, os dados indicam que apenas 1% dos jovens candidatos que realizaram tetes nos clubes de futebol brasileiro conseguem ser aprovados nos testes. (UNIVERSIDADE DO FUTEBOL, 2017). Para fomentar a inserção de mais jogadores profissionais em um mercado tão competitivo, identificamos a necessidade de desenvolver uma plataforma a fim de promover a visibilidade e o trabalhos dos atletas “desconhecidos” e facilitar a sua exposição para que outras equipes terem interesse na sua contratação. 
 
-# Público Alvo
+# Público-Alvo
 
 Olheiros de clubes de futebol, treinadores e entusiastas do futebol interessados em identificar tendências de desempenho de atacantes das séries B e C de clubes do Sudeste, além disso, os próprios jogadores que precisam se promover. 
 
