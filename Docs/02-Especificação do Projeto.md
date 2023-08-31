@@ -39,6 +39,40 @@ Falta de dados detalhados para avaliar atacantes de maneira precisa. Dificuldade
 
 Assistir a partidas de futebol, estudar táticas, análise de desempenho.
 
+# Carlos Gomes
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a356a01b-9efa-48da-85c9-f1945bbd4a24)
+
+Fonte: https://img.freepik.com/fotos-gratis/jogador-de-futebol-bonito-no-estadio-em-terno-de-negocio_1303-16331.jpg?w=996&t=st=1693505726~exp=1693506326~hmac=79e59e18a1fe2abf62dd6a2f80a95d5d562ffdd777f465fc208b4620a080aea8
+
+**Idade:** 29 anos.
+
+**Ocupação**: Scout (Olheiro) profissional.
+
+**Local:**: São Paulo - SP.
+
+**Aplicativos e Ferramentas**:
+
+-  LinkedIn 
+-  Instagram 
+-  Whatsapp 
+-  Power BI 
+-  Excel 
+-  Tableau 
+
+**Motivações**:
+
+Busca por jovens talentos e jogadores subestimados. Quer identificar atacantes promissores com base em estatísticas detalhadas e perfis técnicos. 
+
+**Frustrações**:
+
+Dificuldade em acessar informações consolidadas e atualizadas sobre atacantes de divisões inferiores. Falta de análises aprofundadas. 
+
+**Hobbies, História**:
+
+Viajar para assistir a jogos locais, analisar perfis de jogadores, descobrir talentos ocultos. 
+
+
 
 
 
