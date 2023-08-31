@@ -18,7 +18,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 **Ocupação**: Técnico de Futebol Profissional.
 
-**Local:**: Tombos - MG.
+**Local:** Tombos - MG.
 
 **Aplicativos e Ferramentas**:
 
