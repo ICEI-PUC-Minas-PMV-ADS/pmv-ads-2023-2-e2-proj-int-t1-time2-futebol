@@ -43,7 +43,7 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 
 #### Backlog em 11/09/2023:
 
-<img src="img/ba![Backlog - 11_09_23](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/128739177/35ce8ea0-f166-40b2-b06f-6f86f010c989)cklog.png">
+<img src="Img/Backlog.png">
 
 ## Controle de Versão
 
