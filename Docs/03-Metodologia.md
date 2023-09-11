@@ -43,7 +43,7 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 
 #### Backlog em 11/09/2023:
 
-<img src="Img/Backlog.png">
+<img src="Imgs/Backlog.png">
 
 ## Controle de Versão
 
