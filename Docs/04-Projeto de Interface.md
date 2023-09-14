@@ -14,23 +14,23 @@ O diagrama apresentado na sequência mostra o fluxo de interação do usuário p
 
 **Figura 1. Diagrama de Fluxo**
 
-# Wireframas
+# Wireframes
 
-### Tela de Login
+# 1. Tela de Login
 
 A página de Login será onde o usuário terá seu primeiro contato com a plataforma.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/70221e59-44fc-43a6-8051-d0dca08db1e8)
 
-**Figura 2. Tela de Login**
+**Figura 1. Tela de Login**
 
-### Tela de Cadastro
+# 2. Tela de Cadastro
 
 Tela de cadastro do usuário.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0e9c56bb-8fd8-44da-ba18-abc28f71e105)
 
-**Figura 3. Tela de Cadastro**
+**Figura 2. Tela de Cadastro**
 
 
 
