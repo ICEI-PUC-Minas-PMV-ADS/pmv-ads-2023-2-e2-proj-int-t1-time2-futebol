@@ -16,7 +16,7 @@ O diagrama apresentado na sequência mostra o fluxo de interação do usuário p
 
 # Wireframas
 
-**Tela de Login**
+### Tela de Login
 
 A página de Login será onde o usuário terá seu primeiro contato com a plataforma.
 
@@ -24,7 +24,7 @@ A página de Login será onde o usuário terá seu primeiro contato com a plataf
 
 **Figura 2. Tela de Login**
 
-**Tela de Cadastro**
+### Tela de Cadastro
 
 Tela de cadastro do usuário.
 
