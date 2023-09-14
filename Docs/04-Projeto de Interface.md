@@ -36,7 +36,7 @@ Tela de cadastro do usuário.
 
 Filtro de busca de atacantes registrados em nossa plataforma.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/85c40b96-3ad0-4810-bccf-49ce6800e525)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/decc92c5-d359-49af-98fe-8609fae0f1c3)
 
 **Figura 3. Filtro de Busca**
 
