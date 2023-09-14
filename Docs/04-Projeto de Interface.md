@@ -44,7 +44,7 @@ Filtro de busca de atacantes registrados em nossa plataforma.
 
 Cadastro com dados pessoais do usuário salvos em nosso aplicativo.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/56c21795-b125-4e8c-ae2a-67275b3b90de)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0eea33c4-6bcd-47e3-9ede-6be3b222a9cf)
 
 **Figura 4. Cadastro Pessoal**
 
