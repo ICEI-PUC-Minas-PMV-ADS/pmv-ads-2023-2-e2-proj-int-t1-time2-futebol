@@ -1,3 +1,4 @@
+
 1.	Plano de Testes de Software
 Desenvolver um plano de teste de software para um aplicativo que analisa o desempenho dos atacantes das séries B e C do Campeonato Brasileiro de clubes de futebol da região Sudeste é fundamental para garantir que a plataforma funcione de forma eficaz e forneça informações precisas aos clubes interessados. Aqui está um plano de teste que pode ser seguido:
 
