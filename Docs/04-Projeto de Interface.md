@@ -8,4 +8,6 @@ Dessa forma implementamos todos os requisitos funcionais, os requisitos não fun
 
 # Diagrama de Fluxo
 
+O diagrama apresentado na sequência mostra o fluxo de interação do usuário pelas telas do sistema.
+
 
