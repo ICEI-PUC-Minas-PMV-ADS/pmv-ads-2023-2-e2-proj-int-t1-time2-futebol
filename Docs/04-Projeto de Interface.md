@@ -10,6 +10,6 @@ Dessa forma implementamos todos os requisitos funcionais, os requisitos não fun
 
 O diagrama apresentado na sequência mostra o fluxo de interação do usuário pelas telas do sistema.
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/7e8da387-40cb-4635-90c4-8e730cf25dee)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/59b16e18-54ae-4d26-936c-120a4e51b980)
 
 
