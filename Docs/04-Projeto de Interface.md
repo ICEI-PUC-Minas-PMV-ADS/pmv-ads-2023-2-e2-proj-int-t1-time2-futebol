@@ -40,6 +40,13 @@ Filtro de busca de atacantes registrados em nossa plataforma.
 
 **Figura 3. Filtro de Busca**
 
+# 4. Tela de Cadastro Pessoal
+
+Cadastro com dados pessoais do usuário salvos em nosso aplicativo.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/56c21795-b125-4e8c-ae2a-67275b3b90de)
+
+**Figura 4. Cadastro Pessoal**
 
 
 
