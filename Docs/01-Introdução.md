@@ -40,7 +40,7 @@ O objetivo central deste projeto é criar um mecanismo que facilite a análise d
 
 **Objetivos Específicos:**  
 
- - Oferecer uma listagem dos atacantes cadastrados e as suas posições específicas, por exemplo: Atacantes de lado esquerdo, atacantes de centro entro outros.
+ - Oferecer uma listagem dos atacantes cadastrados e as suas posições específicas, por exemplo: Atacantes de lado esquerdo, atacantes de centro entre outros.
  - Criar um filtro a fim de segmentar cada jogador e o clube onde ele atua;  
  - Registro das estatísticas do jogador escolhido: gols, finalizações, chutes em direção ao gol, chutes para fora;  
  - Gráficos visuais com todos esses dados.
