@@ -5,3 +5,7 @@ Nessa etapa vamos ilustrar de maneira completa a visão geral da interação do 
 As principais interfaces da plataforma serão expostas. Toda a criação foi elaborada para que a experiência do usuário fosse contemplada da melhor maneira, atendendo todas as condições já definidas em nosso Projeto de Interface.
 
 Dessa forma implementamos todos os requisitos funcionais, os requisitos não funcionais, as histórias de usuário e a documentação de especificação do Projeto.
+
+# Diagrama de Fluxo
+
+
