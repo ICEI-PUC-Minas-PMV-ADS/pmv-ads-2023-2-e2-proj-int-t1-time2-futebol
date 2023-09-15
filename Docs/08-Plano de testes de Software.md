@@ -26,6 +26,12 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 
 | **Caso de Teste** 	| **CT-04 - Teste de Perfil de Jogador** 	|
 |:---:	|:---:	|
-|	Caso de Teste 4	| Validar se a aplicação permite que os jogadores criem e atualizem seus perfis. Identificando o melhor desempenho.  |
+|	Caso de Teste 4	| Validar se a aplicação permite que os jogadores criem e atualizem seus perfis. Identificando o melhor desempenho entre o jogadores.  |
 | Passos 	| 1. Acessar a funcionalidade de perfil de jogador. <br> 2. Criar um novo perfil de jogador. <br> 3. Verificar se as informações do jogador foram salvas corretamente. |
+|  	|  	|
+
+| **Caso de Teste** 	| **CT-05 - Teste de Recomendação de Melhorias** 	|
+|:---:	|:---:	|
+|	Caso de Teste 5	| Confirmar se a aplicação recomenda melhorias para os jogadores com base em seus perfis. Ajundando em desempenho no perfil dos jogadores.  |
+| Passos 	| 1. Acessar a funcionalidade de recomendação de melhorias. <br> 2. Selecionar um jogador. <br> 3. Verificar se as recomendações são relevantes para o perfil do jogador. |
 |  	|  	|
