@@ -10,16 +10,16 @@ Por exemplo:
 | Passos 	| 1. Acessar a funcionalidade de coleta de dados. <br> 2. Selecionar uma equipe da série B. <br> 3. Verificar se os dados dos atacantes foram carregados corretamente.|
 | Escopo | - O teste será realizado para validar as funcionalidades relacionadas à coleta, análise e apresentação de dados de desempenho de atacantes, garantindo a precisão e confiabilidade das análises feitas pela aplicação. |
 |  	|  	|
-| Caso de Teste 	| CT-02 – Teste de Identificação de Tendências	|
+| Caso de Teste 	| CT-02 – Teste de Análise de Desempenho	|
 |Requisito Associado | RF-007, RF-008	- A aplicação deve conter links das redes sociais, horario de funcionamento e avaliar serviços |
-| Objetivo do Teste 	| Verificar links. |
-| Passos 	| - Acesse a aplicação <br> - Link para instagram, facebook e whatsapp <br> - Horarios de funionamento <br> - Avaliar serviços <br>
+| Objetivo do Teste 	| Verificar se a aplicação consegue analisar o desempenho dos atacantes com precisão. |
+| Passos 	| 1. Acessar a funcionalidade de análise de desempenho. <br> 2. Selecionar um atacante. <br> 3. Verificar se as estatísticas de desempenho são apresentadas corretamente.|
 |Critério de Êxito | - Dados avalidados com sucesso. |
 |  	|  	|
-| **Caso de Teste** 	| **CT-03 – Fazer pedido** 	|
+| **Caso de Teste** 	| **CT-03 – Teste de Identificação de Tendências** 	|
 |	Requisito Associado 	| RF-002 - Fazer pedido após o cadastro rapido sem senha.
-| Objetivo do Teste 	| Verificar se o usuário consegue entrar na pagina de pedido após login para criar seu pedido. |
-| Passos 	| - Após login realizar acessar botão realizar pedido <br> - Conferir endereço <br> - Em Seguida entrar no menu principal conferindo os itens |
+| Objetivo do Teste 	| Garantir que a aplicação identifique corretamente as tendências de desempenho dos atacantes. |
+| Passos 	| 1. Acessar a funcionalidade de análise de tendências. <br> 2. Selecionar um conjunto de atacantes para análise. <br> 3. Verificar se as tendências são identificadas de acordo com os critérios estabelecidos.|
 |Critério de Êxito | - Botão funcionando corretamente. |
 |  	|  	|
 | **Caso de Teste** 	| **CT-04 – Consultar cardápio** 	|
