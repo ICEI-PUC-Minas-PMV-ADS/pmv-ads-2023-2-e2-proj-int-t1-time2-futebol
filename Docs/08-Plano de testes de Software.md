@@ -14,6 +14,6 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 
 | **Caso de Teste** 	| **CT-02 - Teste de Análise de Desempenho** 	|
 |:---:	|:---:	|
-|	Caso de Teste 2	| Verificar se a aplicação consegue analisar o desempenho dos atacantes com precisão.                                         |
+|	Caso de Teste 2	| Verificar se a aplicação consegue analisar o desempenho dos atacantes com precisão. Para posteriormente divulgar os resultados |
 | Passos 	| 1. Acessar a funcionalidade de análise de desempenho. <br> 2. Selecionar um atacante. <br> 3. Verificar se as estatísticas de desempenho são apresentadas corretamente. |
 |  	|  	|
