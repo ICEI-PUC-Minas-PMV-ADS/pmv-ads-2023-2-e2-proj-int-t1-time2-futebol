@@ -1,9 +1,9 @@
 # Plano de Testes de Software
 
-O plano de teste de software proposto para avaliação dos requisitos funcionais da aplicação interativa é apresentado a seguir.
-Por exemplo:
+**Objetivo:**
+O objetivo deste plano de teste é garantir que a aplicação destinada a olheiros de futebol, treinadores e jogadores tenha um desempenho adequado, fornecendo análises precisas e relevantes sobre o desempenho dos atacantes das séries B e C de clubes do Sudeste.
  
-| **Caso de Teste** 	| **CT-01 – Teste de Coleta de Dados dos Atacantes** 	|
+| **Caso de Teste 1** 	| **Teste de Coleta de Dados dos Atacantes** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| Verificar se a aplicação consegue coletar dados precisos e atualizados dos atacantes das séries B e C de clubes do Sudeste.
 | Objetivo do Teste 	| O objetivo deste plano de teste é garantir que a aplicação destinada a olheiros de futebol, treinadores e jogadores tenha um desempenho adequado, fornecendo análises precisas e relevantes sobre o desempenho dos atacantes das séries B e C de clubes do Sudeste. |
