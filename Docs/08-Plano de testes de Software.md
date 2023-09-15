@@ -6,7 +6,7 @@ Por exemplo:
 | **Caso de Teste** 	| **CT-01 – Cadastrar atacante** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - O site deve ter cadastro de usuário de forma rapida sem senha.
-| Objetivo do Teste 	| É garantir que o aplicativo de análise de desempenho dos atacantes forneça informações precisas e confiáveis sobre os jogadores das séries B e C do Campeonato Brasileiro da região Sudeste, facilitando a divulgação e contratação de talentos.. |
+| Objetivo do Teste 	| O objetivo deste plano de teste é garantir que a aplicação destinada a olheiros de futebol, treinadores e jogadores tenha um desempenho adequado, fornecendo análises precisas e relevantes sobre o desempenho dos atacantes das séries B e C de clubes do Sudeste. |
 | Passos 	| - Acessar a aplicação <br> - Clicar em "Fazer pedido" <br> - Preencher os campos obrigatórios (Nome completo, Endereço e Email) <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
