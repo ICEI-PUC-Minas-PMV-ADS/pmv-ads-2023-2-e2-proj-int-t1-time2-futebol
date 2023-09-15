@@ -37,5 +37,5 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 |  	|  	|
 
 | **Critérios de Aceitação** 	|
-|	**Todos os casos de teste devem ser executados e passar com sucesso. <br> **A aplicação deve fornecer resultados precisos e relevantes. <br> **O desempenho da aplicação deve ser satisfatório, mesmo sob carga.  |
+|	**Todos os casos de teste devem ser executados e passar com sucesso. | **A aplicação deve fornecer resultados precisos e relevantes. | **O desempenho da aplicação deve ser satisfatório, mesmo sob carga.  |
 |:---:	|:---:	|
