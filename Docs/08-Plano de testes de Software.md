@@ -35,3 +35,7 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 |	Caso de Teste 5	| Confirmar se a aplicação recomenda melhorias para os jogadores com base em seus perfis. Ajundando em desempenho no perfil dos jogadores.  |
 | Passos 	| 1. Acessar a funcionalidade de recomendação de melhorias. <br> 2. Selecionar um jogador. <br> 3. Verificar se as recomendações são relevantes para o perfil do jogador. |
 |  	|  	|
+
+| **Critérios de Aceitação** 	|
+|	**Todos os casos de teste devem ser executados e passar com sucesso. <br> **A aplicação deve fornecer resultados precisos e relevantes. <br> **O desempenho da aplicação deve ser satisfatório, mesmo sob carga.  |
+|  	|  	|
