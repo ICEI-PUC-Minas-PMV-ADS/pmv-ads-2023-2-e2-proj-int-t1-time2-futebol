@@ -3,7 +3,7 @@
 O plano de teste de software proposto para avaliação dos requisitos funcionais da aplicação interativa é apresentado a seguir.
 Por exemplo:
  
-| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
+| **Caso de Teste** 	| **CT-01 – Cadastrar atacante** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - O site deve ter cadastro de usuário de forma rapida sem senha.
 | Objetivo do Teste 	| É garantir que o aplicativo de análise de desempenho dos atacantes forneça informações precisas e confiáveis sobre os jogadores das séries B e C do Campeonato Brasileiro da região Sudeste, facilitando a divulgação e contratação de talentos.. |
