@@ -36,6 +36,8 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	| 1. Acessar a funcionalidade de recomendação de melhorias. <br> 2. Selecionar um jogador. <br> 3. Verificar se as recomendações são relevantes para o perfil do jogador. |
 |  	|  	|
 
-| **Critérios de Aceitação** 	|
-|	**Todos os casos de teste devem ser executados e passar com sucesso. | **A aplicação deve fornecer resultados precisos e relevantes. | **O desempenho da aplicação deve ser satisfatório, mesmo sob carga.  |
-|:---:	|:---:	|
+**Critérios de Aceitação**
+Todos os casos de teste devem ser executados e passar com sucesso. <br> A aplicação deve fornecer resultados precisos e relevantes. <br> O desempenho da aplicação deve ser satisfatório, mesmo sob carga.
+
+**Considerações Finais**
+Este plano de teste deve ser executado de forma abrangente e sistemática para garantir a qualidade e a eficácia da aplicação no contexto de análise de desempenho de atacantes das séries B e C de clubes do Sudeste, bem como na promoção dos próprios jogadores.
