@@ -1,27 +1,38 @@
-Plano de Teste de Usabilidade
-Objetivo: Avaliar a usabilidade do aplicativo de análise de desempenho dos atacantes para garantir que ele seja intuitivo, eficiente e atenda às necessidades dos clubes de futebol.
-Etapas do Teste:
-1.	Recrutamento de Usuários Representativos:
-a.	Selecione um grupo de usuários representativos, como recrutadores de clubes de futebol ou analistas de desempenho esportivo.
-b.	Garanta que o grupo inclua pessoas com diferentes níveis de familiaridade com aplicativos similares.
-2.	Cenários de Teste:
-a.	Crie cenários de teste realistas que reflitam as principais tarefas que os usuários realizarão no aplicativo, como busca por jogadores, análise de estatísticas etc.
-3.	Teste Piloto:
-a.	Realize um teste piloto com um pequeno grupo de usuários para verificar se os cenários de teste são apropriados e se o processo de teste está funcionando corretamente.
-4.	Execução dos Testes de Usabilidade:
-a.	Realize sessões individuais de teste com cada usuário selecionado, observando-os enquanto eles realizam as tarefas específicas.
-b.	Registre observações sobre problemas de usabilidade, erros, tempo de conclusão das tarefas e feedback dos usuários.
-c.	Use métodos como o "pensar em voz alta" para capturar os pensamentos e sentimentos dos usuários durante o teste.
-5.	Análise de Dados:
-a.	Analise os dados coletados durante os testes para identificar tendências e problemas recorrentes de usabilidade.
-b.	Categorize os problemas identificados de acordo com sua gravidade, usando escalas como "baixa", "média" e "alta".
-6.	Relatório de Usabilidade:
-a.	Prepare um relatório de usabilidade que inclua uma lista de problemas identificados, suas descrições, gravidade e recomendações para solução.
-b.	Priorize os problemas de acordo com sua gravidade e impacto na experiência do usuário.
-7.	Iteração e Melhoria:
-a.	Com base nas descobertas do teste de usabilidade, realize melhorias no aplicativo, como ajustes na interface do usuário, otimização de fluxos de trabalho etc.
-8.	Reteste:
-a.	Realize testes de usabilidade adicionais após a implementação das melhorias para verificar se os problemas foram resolvidos e a usabilidade foi aprimorada.
-9.	Avaliação Final:
-a.	Realize uma avaliação final da usabilidade do aplicativo após todas as melhorias terem sido implementadas para garantir que ele atenda aos padrões desejados.
+# Plano de Testes de Software
+
+O plano de teste de software proposto para avaliação dos requisitos funcionais da aplicação interativa é apresentado a seguir.
+Por exemplo:
+ 
+| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-002 - O site deve ter cadastro de usuário de forma rapida sem senha.
+| Objetivo do Teste 	| É Garantir que o aplicativo de análise de desempenho dos atacantes forneça informações precisas e confiáveis sobre os jogadores das séries B e C do Campeonato Brasileiro da Região Sudeste, facilitando a divulgação e contratação de talentos. |
+| Etapas 	| - Acessar a aplicação <br> - Clicar em "Fazer pedido" <br> - Preencher os campos obrigatórios (Nome completo, Endereço e Email) <br> - Clicar em "Cadastrar" |
+|Critério de Êxito | - O cadastro foi realizado com sucesso. |
+|  	|  	|
+| Caso de Teste 	| CT-02 – Consultar links das redes sociais, horario de funcionamento e avaliar serviços	|
+|Requisito Associado | RF-007, RF-008	- A aplicação deve conter links das redes sociais, horario de funcionamento e avaliar serviços |
+| Objetivo do Teste 	| Verificar links. |
+| Passos 	| - Acesse a aplicação <br> - Link para instagram, facebook e whatsapp <br> - Horarios de funionamento <br> - Avaliar serviços <br>
+|Critério de Êxito | - Dados avalidados com sucesso. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-03 – Fazer pedido** 	|
+|	Requisito Associado 	| RF-002 - Fazer pedido após o cadastro rapido sem senha.
+| Objetivo do Teste 	| Verificar se o usuário consegue entrar na pagina de pedido após login para criar seu pedido. |
+| Passos 	| - Após login realizar acessar botão realizar pedido <br> - Conferir endereço <br> - Em Seguida entrar no menu principal conferindo os itens |
+|Critério de Êxito | - Botão funcionando corretamente. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-04 – Consultar cardápio** 	|
+|	Requisito Associado 	| RF-001, RF-006, RF-009, RF-017 - O site deve ter pagina com todo cardápio disponível.
+| Objetivo do Teste 	| Verificar se o usuário consegue ter acesso ao menu principal com cardápio. |
+| Passos 	| - Acessar "fazer pedido" <br> - Verificar opções "uma pessoa", "combos" e "promoções" <br> - Consultar opção para filtrar toda a lista de cardápio dos tipos de comida <br> - Verificar quantidades e valores <br> - Verificar opção de adicionar itens direto da pagina atual para carrinho <br> - Conferir foto e descrição e composição de cada comida junto ao preço <br> - Clicar em "enviar para carrinho" <br> - Ir para carrinho conferir os pedidos |
+|Critério de Êxito | - Menu principal com cardápio conferido junto ao carrinho. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-05 – Consultar carrinho junto a verificação de preço, remoção de itens e forma de pagamentos** 	|
+|	Requisito Associado 	|RF-003, RF-010, RF-011, RF-012, RF-013, RF-016 - O carrinho deve contar preço atualizado, opção de remover item do carrinho e forma de pagamento.
+| Objetivo do Teste 	| Verificar se o usuário consegue conferir seus pedidos e customizar para finalizar sua forma de pagamento. |
+| Passos 	| - Acessar carrinho <br> - Conferir quantidade de itens e seus preços" <br> - Conferir botão para remover item do carrinho <br> - Conferir preço atualizado no final junto a taxa de entrega <br> - Conferir forma de pagamento e suas opções(dinheiro, crédito, débito e pix) <br> - Finalizar pagamento. |
+|Critério de Êxito | - Carrinho, preço e forma de pagamento conferido. |
+|  	|  	|
+
 
