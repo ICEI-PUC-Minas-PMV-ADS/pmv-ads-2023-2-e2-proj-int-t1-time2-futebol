@@ -1,43 +1,38 @@
+# Plano de Testes de Software
 
-1.	Plano de Testes de Software
-Desenvolver um plano de teste de software para um aplicativo que analisa o desempenho dos atacantes das séries B e C do Campeonato Brasileiro de clubes de futebol da região Sudeste é fundamental para garantir que a plataforma funcione de forma eficaz e forneça informações precisas aos clubes interessados. Aqui está um plano de teste que pode ser seguido:
-
-Objetivo do Plano de Teste: O objetivo deste plano de teste é garantir que o aplicativo de análise de desempenho dos atacantes forneça informações precisas e confiáveis sobre os jogadores das séries B e C do Campeonato Brasileiro da região Sudeste, facilitando a divulgação e contratação de talentos.
-
-Etapas do Plano de Teste:
-
-1.	Testes de Funcionalidade:
-a.	Cadastro de Atacantes: Verificar se é possível cadastrar jogadores de acordo com as séries B e C, incluindo informações como nome, clube atual, idade, estatísticas de desempenho etc.
-b.	Análise de Desempenho: Certificar-se de que a plataforma calcula corretamente as métricas de desempenho dos atacantes, como gols marcados, assistências, chutes a gol etc.
-c.	Filtragem de Dados: Testar a capacidade de filtrar os atacantes com base em diferentes critérios, como posição, idade, clube, estatísticas de desempenho etc.
-d.	Avaliação de Perfil de Jogador: Verificar se a plataforma fornece perfis detalhados de cada jogador, incluindo estatísticas, histórico de partidas, vídeos de jogadas, entre outros.
-
-2.	Testes de Usabilidade:
-a.	Navegação: Avaliar a facilidade de navegação dentro do aplicativo, verificando se os usuários podem acessar rapidamente as informações desejadas.
-b.	Interface do Usuário: Garantir que a interface seja intuitiva e amigável, facilitando o uso por parte dos clubes interessados.
-c.	Pesquisa e Classificação: Testar a capacidade de pesquisa e classificação de atacantes de maneira eficiente.
-
-3.	Testes de Desempenho:
-a.	Carga: Avaliar como o aplicativo se comporta sob carga, simulando o acesso simultâneo de múltiplos usuários.
-b.	Tempo de Resposta: Medir o tempo que leva para o aplicativo processar solicitações e fornecer resultados.
-4.	Testes de Segurança:
-a.	Proteção de Dados: Verificar se os dados dos jogadores e clubes estão protegidos contra acesso não autorizado.
-b.	Autenticação: Testar o processo de autenticação para garantir que apenas usuários autorizados tenham acesso.
-
-5.	Testes de Compatibilidade:
-Navegadores e Dispositivos: Certificar-se de que o aplicativo funcione corretamente em diferentes navegadores e dispositivos (computadores, tablets e smartphones).
-
-6.	Testes de Manutenção:
-Atualizações de Dados: Verificar a capacidade de atualizar e manter os dados dos jogadores e clubes de forma eficaz.
-
-7.	Testes de Aceitação do Usuário:
-Avaliação dos Clubes: Coletar feedback dos clubes que utilizam o aplicativo para avaliar a satisfação do usuário e identificar possíveis melhorias.
-
-Cronograma de Teste:
-Estabeleça um cronograma para a realização dos testes, incluindo datas de início e término de cada etapa e alocando recursos necessários, como testadores e equipamentos.
-
-Relatório de Defeitos:
-Crie um processo para relatar e rastrear defeitos encontrados durante os testes, incluindo a categorização de sua gravidade e status de correção.
-Lembre-se de que os testes devem ser contínuos ao longo do desenvolvimento do aplicativo para garantir que ele esteja sempre funcionando corretamente e atendendo às necessidades dos clubes de futebol.
+O plano de teste de software proposto para avaliação dos requisitos funcionais da aplicação interativa é apresentado a seguir.
+Por exemplo:
+ 
+| **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
+|:---:	|:---:	|
+|	Requisito Associado 	| RF-002 - O site deve ter cadastro de usuário de forma rapida sem senha.
+| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
+| Passos 	| - Acessar a aplicação <br> - Clicar em "Fazer pedido" <br> - Preencher os campos obrigatórios (Nome completo, Endereço e Email) <br> - Clicar em "Cadastrar" |
+|Critério de Êxito | - O cadastro foi realizado com sucesso. |
+|  	|  	|
+| Caso de Teste 	| CT-02 – Consultar links das redes sociais, horario de funcionamento e avaliar serviços	|
+|Requisito Associado | RF-007, RF-008	- A aplicação deve conter links das redes sociais, horario de funcionamento e avaliar serviços |
+| Objetivo do Teste 	| Verificar links. |
+| Passos 	| - Acesse a aplicação <br> - Link para instagram, facebook e whatsapp <br> - Horarios de funionamento <br> - Avaliar serviços <br>
+|Critério de Êxito | - Dados avalidados com sucesso. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-03 – Fazer pedido** 	|
+|	Requisito Associado 	| RF-002 - Fazer pedido após o cadastro rapido sem senha.
+| Objetivo do Teste 	| Verificar se o usuário consegue entrar na pagina de pedido após login para criar seu pedido. |
+| Passos 	| - Após login realizar acessar botão realizar pedido <br> - Conferir endereço <br> - Em Seguida entrar no menu principal conferindo os itens |
+|Critério de Êxito | - Botão funcionando corretamente. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-04 – Consultar cardápio** 	|
+|	Requisito Associado 	| RF-001, RF-006, RF-009, RF-017 - O site deve ter pagina com todo cardápio disponível.
+| Objetivo do Teste 	| Verificar se o usuário consegue ter acesso ao menu principal com cardápio. |
+| Passos 	| - Acessar "fazer pedido" <br> - Verificar opções "uma pessoa", "combos" e "promoções" <br> - Consultar opção para filtrar toda a lista de cardápio dos tipos de comida <br> - Verificar quantidades e valores <br> - Verificar opção de adicionar itens direto da pagina atual para carrinho <br> - Conferir foto e descrição e composição de cada comida junto ao preço <br> - Clicar em "enviar para carrinho" <br> - Ir para carrinho conferir os pedidos |
+|Critério de Êxito | - Menu principal com cardápio conferido junto ao carrinho. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-05 – Consultar carrinho junto a verificação de preço, remoção de itens e forma de pagamentos** 	|
+|	Requisito Associado 	|RF-003, RF-010, RF-011, RF-012, RF-013, RF-016 - O carrinho deve contar preço atualizado, opção de remover item do carrinho e forma de pagamento.
+| Objetivo do Teste 	| Verificar se o usuário consegue conferir seus pedidos e customizar para finalizar sua forma de pagamento. |
+| Passos 	| - Acessar carrinho <br> - Conferir quantidade de itens e seus preços" <br> - Conferir botão para remover item do carrinho <br> - Conferir preço atualizado no final junto a taxa de entrega <br> - Conferir forma de pagamento e suas opções(dinheiro, crédito, débito e pix) <br> - Finalizar pagamento. |
+|Critério de Êxito | - Carrinho, preço e forma de pagamento conferido. |
+|  	|  	|
 
 
