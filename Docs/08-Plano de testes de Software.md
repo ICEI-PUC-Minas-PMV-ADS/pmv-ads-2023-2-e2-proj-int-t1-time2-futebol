@@ -6,7 +6,7 @@ Por exemplo:
 | **Caso de Teste** 	| **CT-01 – Cadastrar perfil** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - O site deve ter cadastro de usuário de forma rapida sem senha.
-| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar na aplicação. |
+| Objetivo do Teste 	| É garantir que o aplicativo de análise de desempenho dos atacantes forneça informações precisas e confiáveis sobre os jogadores das séries B e C do Campeonato Brasileiro da região Sudeste, facilitando a divulgação e contratação de talentos.. |
 | Passos 	| - Acessar a aplicação <br> - Clicar em "Fazer pedido" <br> - Preencher os campos obrigatórios (Nome completo, Endereço e Email) <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
