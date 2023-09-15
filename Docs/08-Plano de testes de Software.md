@@ -7,8 +7,7 @@ Por exemplo:
 |:---:	|:---:	|
 |	Requisito Associado 	| Verificar se a aplicação consegue coletar dados precisos e atualizados dos atacantes das séries B e C de clubes do Sudeste.
 | Objetivo do Teste 	| O objetivo deste plano de teste é garantir que a aplicação destinada a olheiros de futebol, treinadores e jogadores tenha um desempenho adequado, fornecendo análises precisas e relevantes sobre o desempenho dos atacantes das séries B e C de clubes do Sudeste. |
-| Passos 	| 1. Acessar a funcionalidade de coleta de dados. <br> 2. Selecionar uma equipe da série B. <br> 3. Verificar se os dados dos atacantes foram carregados corretamente.
-3.2. Teste de Análise de Desempenho: |
+| Passos 	| 1. Acessar a funcionalidade de coleta de dados. <br> 2. Selecionar uma equipe da série B. <br> 3. Verificar se os dados dos atacantes foram carregados corretamente.|
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Consultar links das redes sociais, horario de funcionamento e avaliar serviços	|
