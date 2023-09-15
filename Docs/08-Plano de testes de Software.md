@@ -3,14 +3,14 @@
 O plano de teste de software proposto para avaliação dos requisitos funcionais da aplicação interativa é apresentado a seguir.
 Por exemplo:
  
-| **Caso de Teste** 	| **CT-01 – Cadastrar atacante** 	|
+| **Caso de Teste** 	| **CT-01 – Teste de Coleta de Dados dos Atacantes** 	|
 |:---:	|:---:	|
 |	Requisito Associado 	| Verificar se a aplicação consegue coletar dados precisos e atualizados dos atacantes das séries B e C de clubes do Sudeste.
 | Objetivo do Teste 	| O objetivo deste plano de teste é garantir que a aplicação destinada a olheiros de futebol, treinadores e jogadores tenha um desempenho adequado, fornecendo análises precisas e relevantes sobre o desempenho dos atacantes das séries B e C de clubes do Sudeste. |
 | Passos 	| 1. Acessar a funcionalidade de coleta de dados. <br> 2. Selecionar uma equipe da série B. <br> 3. Verificar se os dados dos atacantes foram carregados corretamente.|
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
-| Caso de Teste 	| CT-02 – Consultar links das redes sociais, horario de funcionamento e avaliar serviços	|
+| Caso de Teste 	| CT-02 – Teste de Identificação de Tendências	|
 |Requisito Associado | RF-007, RF-008	- A aplicação deve conter links das redes sociais, horario de funcionamento e avaliar serviços |
 | Objetivo do Teste 	| Verificar links. |
 | Passos 	| - Acesse a aplicação <br> - Link para instagram, facebook e whatsapp <br> - Horarios de funionamento <br> - Avaliar serviços <br>
