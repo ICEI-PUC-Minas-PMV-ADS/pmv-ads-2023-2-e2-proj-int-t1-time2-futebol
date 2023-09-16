@@ -49,6 +49,6 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
 
-O projeto segue a seguinte convenção para o nome de branches:
+O projeto segue a seguinte convenção para o nome da branche:
 
 - `main`: versão estável já testada do software
