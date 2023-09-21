@@ -40,7 +40,7 @@ Filtro de busca de atacantes registrados em nossa plataforma.
 
 **Figura 3. Filtro de Busca**
 
-# 4. Tela Meus Dados Pessoais.
+# 4. Tela Meus Dados Pessoais
 
 Cadastro com dados pessoais do usuário salvos em nosso aplicativo.
 
