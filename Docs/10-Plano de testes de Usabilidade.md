@@ -7,7 +7,7 @@ Por exemplo:
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - O site deve ter cadastro de usuário de forma rapida sem senha.
 | Objetivo do Teste 	| É Garantir que o aplicativo de análise de desempenho dos atacantes forneça informações precisas e confiáveis sobre os jogadores das séries B e C do Campeonato Brasileiro da Região Sudeste, facilitando a divulgação e contratação de talentos. |
-| Etapas 	| - Acessar a aplicação <br> - Clicar em "Fazer pedido" <br> - Preencher os campos obrigatórios (Nome completo, Endereço e Email) <br> - Clicar em "Cadastrar" |
+| Passos 	| - Acessar a aplicação <br> - Clicar em "Fazer pedido" <br> - Preencher os campos obrigatórios (Nome completo, Endereço e Email) <br> - Clicar em "Cadastrar" |
 |Critério de Êxito | - O cadastro foi realizado com sucesso. |
 |  	|  	|
 | Caso de Teste 	| CT-02 – Consultar links das redes sociais, horario de funcionamento e avaliar serviços	|
