@@ -8,32 +8,42 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 
 | **Caso de Teste** 	| **CT-01 - Teste de Coleta de Dados dos Atacantes** 	|
 |:---:	|:---:	|
+| Requisito Associado | RF-003 - O site deve realizar a coleta de dados dos atacantes de forma precisa. |
 |	Caso de Teste 1	| Verificar se a aplicação consegue coletar dados precisos e atualizados dos atacantes das séries B e C de clubes do Sudeste. |
-| Passos 	| 1. Acessar a funcionalidade de coleta de dados. <br> 2. Selecionar uma equipe da série B. <br> 3. Verificar se os dados dos atacantes foram carregados corretamente. |
+| Passos 	| - 1. Acessar a funcionalidade de coleta de dados. <br> - 2. Selecionar uma equipe da série B. <br> - 3. Verificar se os dados dos atacantes foram carregados corretamente. |
+| Critério de Êxito | - Os dados foram exibidos corretamente |
 |  	|  	|
 
 | **Caso de Teste** 	| **CT-02 - Teste de Análise de Desempenho** 	|
 |:---:	|:---:	|
+| Requisito Associado | RF-006 - A aplicação deve realizar analise de desempenho com precisão |
 |	Caso de Teste 2	| Verificar se a aplicação consegue analisar o desempenho dos atacantes com precisão. Para posteriormente divulgar os resultados. |
-| Passos 	| 1. Acessar a funcionalidade de análise de desempenho. <br> 2. Selecionar um atacante. <br> 3. Verificar se as estatísticas de desempenho são apresentadas corretamente. |
+| Passos 	| - 1. Acessar a funcionalidade de análise de desempenho. <br> - 2. Selecionar um atacante. <br> - 3. Verificar se as estatísticas de desempenho são apresentadas corretamente. |
+|Critério de Êxito | - Exibir dados precisos de desempenho corretamente |
 |  	|  	|
 
 | **Caso de Teste** 	| **CT-03 - Teste de Identificação de Tendências** 	|
 |:---:	|:---:	|
+| Requisito Associado | RF-004 - O site deve identificar correntamente as tendências de desempenho | 
 |	Caso de Teste 3	| Garantir que a aplicação identifique corretamente as tendências de desempenho dos atacantes. Para selecionar os melhores.  |
-| Passos 	| 1. Acessar a funcionalidade de análise de tendências. <br> 2. Selecionar um conjunto de atacantes para análise. <br> Verificar se as tendências são identificadas de acordo com os critérios estabelecidos. |
+| Passos 	| - 1. Acessar a funcionalidade de análise de tendências. <br> - 2. Selecionar um conjunto de atacantes para análise. <br> Verificar se as tendências são identificadas de acordo com os critérios estabelecidos. |
+| Critério de Êxito | - Exibir dados sobre tendências de desempenho corretamente |
 |  	|  	|
 
 | **Caso de Teste** 	| **CT-04 - Teste de Perfil de Jogador** 	|
 |:---:	|:---:	|
+| Requisito Associado | RF-001 - Criação e edição de perfil de jogador | 
 |	Caso de Teste 4	| Validar se a aplicação permite que os jogadores criem e atualizem seus perfis. Identificando o melhor desempenho entre o jogadores.  |
-| Passos 	| 1. Acessar a funcionalidade de perfil de jogador. <br> 2. Criar um novo perfil de jogador. <br> 3. Verificar se as informações do jogador foram salvas corretamente. |
+| Passos 	| - 1. Acessar a funcionalidade de perfil de jogador. <br> - 2. Criar um novo perfil de jogador. <br> - 3. Verificar se as informações do jogador foram salvas corretamente. |
+| Critério de Êxito | - O cadastro foi conluído e as alterações foram feitas com sucesso |
 |  	|  	|
 
 | **Caso de Teste** 	| **CT-05 - Teste de Recomendação de Melhorias** 	|
 |:---:	|:---:	|
+|Requisito Associado | RF-008 - Sugerir melhorias relevantes aos perfis de jogadores |
 |	Caso de Teste 5	| Confirmar se a aplicação recomenda melhorias para os jogadores com base em seus perfis. Ajundando em desempenho no perfil dos jogadores.  |
-| Passos 	| 1. Acessar a funcionalidade de recomendação de melhorias. <br> 2. Selecionar um jogador. <br> 3. Verificar se as recomendações são relevantes para o perfil do jogador. |
+| Passos 	| - 1. Acessar a funcionalidade de recomendação de melhorias. <br> - 2. Selecionar um jogador. <br> - 3. Verificar se as recomendações são relevantes para o perfil do jogador. |
+| Critério de Êxito | - O site recomendou alteraçoes e melhorias relevantes aos perfis referentes |
 |  	|  	|
 
 **Critérios de Aceitação**
