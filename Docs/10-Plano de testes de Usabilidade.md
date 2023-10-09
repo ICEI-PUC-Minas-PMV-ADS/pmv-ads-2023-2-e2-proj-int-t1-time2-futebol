@@ -8,7 +8,7 @@ Cada pergunta contém cinco opções de respostas:
 1) Discordo Totalmente, 2) Discordo, 3) Neutro, 4) Concordo e 5) Concordo totalmente.
 
 
-- 1 Acho que gostaria de usar este sistema com frequência
+- 1 - Acho que gostaria de usar este sistema com frequência
 - 2. Achei o sistema desnecessariamente complexo.
 - 3. Achei o sistema fácil de usar.
 - 4. Achei que seria necessário o apoio de um técnico para poder usar este sistema.
