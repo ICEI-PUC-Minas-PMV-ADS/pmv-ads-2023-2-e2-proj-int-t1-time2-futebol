@@ -21,8 +21,10 @@ A correlação dos mesmos está descrita logo abaixo:
 
 # Instruções de Acesso
 
-A aplicaçãpo do projeto está disponível atrávez do seguinte link:
+A aplicação do projeto está disponível atrávez do seguinte link:
 
 Para testes de usuário do tipo "x", o registro é livre.
+
 Para testes de usuário do tipo "Y", utilizar a credencial: usuário -  / senha - 
+
 Para testes de usuário do tipo "Z"", utilizar a credencial: usuário -  / senha - 
