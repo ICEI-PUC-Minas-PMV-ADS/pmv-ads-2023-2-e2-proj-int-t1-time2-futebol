@@ -37,7 +37,10 @@ Conforme as informações adquiridas, a equipe de Desenvolvimento da aplicação
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - . |
 | Objetivo do Teste 	| |
-| Passos 	| 1.  2. 3. |
+| Passos 	|  
+| 1.
+| 2. 
+| 3. 
 |Critério de Êxito | - . |
 |  	|  	|
 | **Caso de Teste** 	| **CT-03** - |
