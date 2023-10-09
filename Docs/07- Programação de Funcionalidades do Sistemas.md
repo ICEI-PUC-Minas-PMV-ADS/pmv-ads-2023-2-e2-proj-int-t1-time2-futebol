@@ -4,7 +4,7 @@ Conforme os requisitos funcionais foram implementados na aplicação, foram prod
 A correlação dos mesmos está descrita logo abaixo:
 
 
-| **Caso de Teste** 	| **CT-01 - Teste de Coleta de Dados dos Atacantes** 	|
+| **ID** 	| **Descrição do Requisito** 	| **Artefato(s) produzido(s)** 	|
 |:---:	|:---:	|
 | RF 001 |  |  |
 |	RF 002 |  |  |
