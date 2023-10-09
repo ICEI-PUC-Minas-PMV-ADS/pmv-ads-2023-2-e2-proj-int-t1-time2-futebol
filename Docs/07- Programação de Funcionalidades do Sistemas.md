@@ -4,8 +4,8 @@ Conforme os requisitos funcionais foram implementados na aplicação, foram prod
 A correlação dos mesmos está descrita logo abaixo:
 
 
-| **ID** 	| **Descrição do Requisito** 	|
-|:---:	|:---:	|
+| **ID** 	| **Descrição do Requisito** 	| **Artefato(s) Produzidos (s)** |
+|:---:	|:---:	| :---:	|
 | RF 001 |  |  |
 |	RF 002 |  |  |
 |	RF 003 |  |  |
