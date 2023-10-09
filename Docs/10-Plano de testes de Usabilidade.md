@@ -2,11 +2,7 @@
 
 O teste de usabilidade será realizado por um questionário de UX através da plataforma Google Forms, sistema este popularmente conhecido, o que facilita na participação de uma vasta pluralidade de usuários.
 
-Os usuários testados vão responder às seguintes perguntas demonstradas no quadro abaixo.
-
-Cada pergunta contém cinco opções de respostas:
-1) Discordo Totalmente, 2) Discordo, 3) Neutro, 4) Concordo e 5) Concordo totalmente.
-
+Os usuários testados vão responder às seguintes perguntas demonstradas abaixo.
 
 - 1 - Acho que gostaria de usar este sistema com frequência
 - 2 - Achei o sistema desnecessariamente complexo.
@@ -23,6 +19,9 @@ Cada pergunta contém cinco opções de respostas:
 - 13 - Eu gostei de usar a interface do sistema.
 - 14 - A interface do sistema é agradável.
 - 15 - A organização de informações na tela do sistema é clara.
+
+Cada pergunta acima exposta no questionário contém cinco opções de respostas para os participantes:
+1) Discordo Totalmente, 2) Discordo, 3) Neutro, 4) Concordo e 5) Concordo totalmente.
 
 Conforme as informações adquiridas, a equipe de Desenvolvimento da aplicação realizará os possíveis ajustes e melhorias na plataforma:
  
