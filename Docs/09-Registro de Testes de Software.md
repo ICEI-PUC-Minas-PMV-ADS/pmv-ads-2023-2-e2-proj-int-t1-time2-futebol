@@ -1,9 +1,9 @@
 # Registro de Testes de Software
 
-Obs: Anexar vídeo 01.
+**Obs: Anexar vídeo 01.**
 
 
-Obs: Anexar vídeo 02.
+**Obs: Anexar vídeo 02.**
 
 
 # CT-01 - Teste de Coleta de Dados dos Atacantes
