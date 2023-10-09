@@ -26,14 +26,14 @@ Cada pergunta contém cinco opções de respostas:
 
 Conforme as informações adquiridas, a equipe de Desenvolvimento da aplicação realizará os possíveis ajustes e melhorias na plataforma:
  
-| **Caso de Teste** 	| **CT-01** –  	|
+| **Caso de Teste** 	| **CT-01** –  |
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - . |
 | Objetivo do Teste 	| |
 | Passos 	| 1.  2. 3. |
 |Critério de Êxito | - . |
 |  	|  	|
-| **Caso de Teste** 	| **CT-02** |
+| **Caso de Teste** 	| **CT-02** - |
 |:---:	|:---:	|
 |	Requisito Associado 	| RF-002 - . |
 | Objetivo do Teste 	| |
