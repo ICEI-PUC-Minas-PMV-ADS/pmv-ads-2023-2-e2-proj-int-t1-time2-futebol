@@ -83,14 +83,63 @@ CRUDS.
 Vagner e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
 Vídeo da apresentação.
 
+O integrante Raul entrou no grupo no final da primeira etapa do projeto.
+
 -	**Evidências**:
 
 **Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 11/09/:**
 
 <img src="Imgs/Backlog.png">
 
-#### Etapa 02
+## Etapa 02
 
+-	**Planejamento**:
+
+Nesta etapa está planejada a elaboração do Projeto da Solução.
+
+Seguindo também a composição dos referentes tópicos: Documentação da Metodologia, Diagrama de Classes, Diagrama de Fluxo,
+Wireframes interativos, Modelo Entidade Relacionamento (Projeto Conceitual), Projeto da Base de Dados, Plano de Testes de Software,
+Plano de Testes de Usabilidade,  Projeto do Github com Backlog e Plano de Sprints.
+
+-	**Execução**:
+
+Caê, Diogo e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
+Metodologia, Diagrama de Classe.
+
+Diogo, Luiz, Daniel e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
+Projeto de Interface, Diagrama de Fluxo.
+
+Vagner e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
+Plano de Teste de Usabilidade, envio da etapa via Canvas.
+
+Raul e a participação ativa de todos os membros opinando ou alterando algum conteúdo:
+Plano de Testes.
+
+Luiz, Daniel e a participação ativa de todos os membros opinando ou alterando algum conteúdo:
+Modelo de Entidade Relacional.
+
+-	**Evidências**:
+
+## Etapa 03
+
+-	**Planejamento**:
+-	
+Nesta etapa está planejada o Desenvolvimento da solução - Fase 1.
+
+Seguindo também a composição dos referentes tópicos: Template padrão da aplicação interativa, Prova de Conceito da Arquitetura (POC) - exemplo de implementação com a integração do front-end com o back-end, Programação de Funcionalidades, Realização e registro dos testes de software, Realização e registro dos testes de usabilidade, Projeto do Github com Backlog e Plano de Sprints.
+
+-	**Execução**:
+
+Caê e a participação ativa de todos os membros opinando ou alterando algum conteúdo:
+Página de Login.
+
+Luiz, Daniel, Diogo e Vagner e a participação ativa de todos os membros opinando ou alterando algum conteúdo:
+Banco de Dados.
+
+Diogo e a participação ativa de todos os membros opinando ou alterando algum conteúdo:
+Atualização na parte de Metodologia, Backlog e no Plano de Sprints.
+
+-	**Evidências**:
 
 ## Controle de Versão
 
