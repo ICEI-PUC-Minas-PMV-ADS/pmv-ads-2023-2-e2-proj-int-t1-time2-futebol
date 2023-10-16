@@ -37,7 +37,7 @@ A documentação do projeto ficará hospedada no Github, em razão da facilidade
 
 Para edição de código, foi escolhida a ferramenta Visual Studio Code por: 1) ser gratuita e opensource; 2) ser amplamente  utilizada; 3) possuir um extenso marketplace de addins que possibilitam expandir suas funções, inclusive integrando com o sistema de controle de versões.
 
-## Processo
+## Processos
 
 Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada sprint: o andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
 
