@@ -56,7 +56,14 @@ Caê, Lucas e Vagner: Completaram o grupo e contribuíram para a criação do co
 
 Toda a comunicação dos integrantes é realizada diariamente via o grupo do WhatsApp com a participação ativa dos membros.
 
-**Atividades**
+-	**Planejamento**:
+
+Nesta etapa está planejada a elaboração da Concepção e proposta de solução.
+
+Seguindo também a composição dos referentes tópicos: Definição do problema, Proposta de solução, Personas e Histórias de usuários, 
+Requisitos e Restrições, Diagrama de Casos de Uso, Vídeo de 2 minutos sobre o problema e a Documentação atualizada no Github.
+
+-	**Execução**:
 
 Diogo e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
 Introdução, Problema, Proposta de Solução/Objetivos, Justificativa e Público-Alvo, Referências e Slide da Apresentação.
@@ -76,9 +83,14 @@ CRUDS.
 Vagner e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
 Vídeo da apresentação.
 
-#### Backlog em 11/09/2023:
+-	**Evidências**:
+
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 11/09/:**
 
 <img src="Imgs/Backlog.png">
+
+#### Etapa 02
+
 
 ## Controle de Versão
 
