@@ -1,7 +1,9 @@
 
 # Metodologia
 
-A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+Contextualizamos todo o processo relacionado ao desenvolvimento do sistema de Scout, ou seja, a metodologia utilizada para o organizar e gerenciar as atribuições do nosso time.
+
+Apresentamos todas as ferramentas, os ambientes e as partes estruturais descritas do trabalho, bem como a aplicação da linguagem adotada por nossa equipe de desenvolvimento para a execução do projeto.
 
 ## Gerenciamento de Projeto
 
