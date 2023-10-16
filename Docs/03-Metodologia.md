@@ -39,7 +39,10 @@ Para edição de código, foi escolhida a ferramenta Visual Studio Code por: 1) 
 
 ### Processo
 
+Logo abaixo segue todas as informações sobre a implementação do Scrum e um detalhamento completo relacionado a cada sprint: o andamento do projeto, a execução de tarefas e o status de desenvolvimentro da solução.
+
 Para a organização e distribuição das tarefas do projeto, o grupo esta utilizando o GitHub, seguindo os critérios de:
+
 - `Product Backlog`: recebe as tarefas a serem trabalhadas e presenta o Backlogdo produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.
 - `To Do`: esta lista representa o Sprint Backlog que está sendo trabalhado.
 - `In progress`: lista das tarefas iniciadas.
