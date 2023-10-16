@@ -7,6 +7,8 @@ Apresentamos todas as ferramentas, os ambientes e as partes estruturais descrita
 
 ## Gerenciamento de Projeto
 
+O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
+
 ### Divisão de Papéis
 
 A equipa está organizada da seguinte maneira:
