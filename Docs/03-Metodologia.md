@@ -123,7 +123,7 @@ Modelo de Entidade Relacional.
 ## Etapa 03
 
 -	**Planejamento**:
--	
+  
 Nesta etapa está planejada o Desenvolvimento da solução - Fase 1.
 
 Seguindo também a composição dos referentes tópicos: Template padrão da aplicação interativa, Prova de Conceito da Arquitetura (POC) - exemplo de implementação com a integração do front-end com o back-end, Programação de Funcionalidades, Realização e registro dos testes de software, Realização e registro dos testes de usabilidade, Projeto do Github com Backlog e Plano de Sprints.
