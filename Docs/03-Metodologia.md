@@ -48,7 +48,7 @@ Para a organização e distribuição das tarefas do projeto, o grupo esta utili
 - `In progress`: Lista das tarefas iniciadas.
 - `Done`: Nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade.
 
-#### Etapa 01
+## Etapa 01
 
 Daniel, Diogo e Luiz: Criação do grupo e da ideia inicial do Projeto.
 
