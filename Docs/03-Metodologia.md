@@ -77,8 +77,8 @@ Estuturação do projeto via Github, Board, Issues e Backlog do Projeto, Requisi
 Daniel e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
 Restrições.
 
-Luiz, Daniel e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
-CRUDS.
+Luiz, Daniel, Caê e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
+CRUDS e Diagrama de casos de uso.
 
 Vagner e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
 Vídeo da apresentação.
