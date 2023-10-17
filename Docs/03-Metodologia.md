@@ -9,7 +9,7 @@ Apresentamos todas as ferramentas, os ambientes e as partes estruturais descrita
 
 O Scrum é a metodologia ágil escolhida pela equipe, ela é a base fundamental para todo o processo de desenvolvimento.
 
-### Divisão de Papéis
+### Equipe de Trabalho
 
 A equipa está organizada da seguinte maneira:
 - `Scrum Master`: Daniel Dutra De Aguiar
