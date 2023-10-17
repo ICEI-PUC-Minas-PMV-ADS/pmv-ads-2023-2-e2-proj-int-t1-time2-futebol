@@ -171,7 +171,20 @@ Banco de Dados.
 Diogo e a participação ativa de todos os membros opinando ou alterando algum conteúdo:
 Atualização na parte de Metodologia, Backlog e no Plano de Sprints.
 
+Luiz criou o CRUD de atacantes. Daniel, Diogo e Vagner estão finalizando a criação do CRUD de Clubes.
+
+Caê e Luiz realizaram a integração do CRUD de Atacantes com a de Login.
+
 -	**Evidências**:
+
+-	**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 03 do trabalho no dia 05/10/:**
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9ef9bab7-a4bb-464f-a090-fc30ebb8494a)
+
+**Programação em andamento CRUD Clubes:**
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/1554472f-6307-43f3-aae8-d7ac683b0096)
+
+
 
 ## Controle de Versão
 
