@@ -182,6 +182,7 @@ Caê e Luiz realizaram a integração do CRUD de Atacantes com a de Login.
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9ef9bab7-a4bb-464f-a090-fc30ebb8494a)
 
 **Programação em andamento CRUD Clubes:**
+
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/1554472f-6307-43f3-aae8-d7ac683b0096)
 
 
