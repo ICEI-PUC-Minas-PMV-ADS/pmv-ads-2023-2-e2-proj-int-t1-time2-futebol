@@ -91,6 +91,14 @@ O integrante Raul entrou no grupo no final da primeira etapa do projeto.
 
 <img src="Imgs/Backlog.png">
 
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 03/09/:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8003c33c-16c3-4aa9-8ecd-bf7b7029d75d)
+
+**Board Atualizado com os Issues e Milestones concluídos da Etapa 01 no dia 03/09:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b45537a-7226-44bb-9083-b36f9c3c3ad4)
+
 ## Etapa 02
 
 -	**Planejamento**:
