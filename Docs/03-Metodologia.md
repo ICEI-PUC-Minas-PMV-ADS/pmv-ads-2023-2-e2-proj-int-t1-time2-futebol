@@ -138,6 +138,20 @@ Modelo de Entidade Relacional.
 
 -	**Evidências**:
 
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 24/09/:**
+
+**Figura Board 01**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9cc05c0c-02f5-4e6d-96c9-923df9a0cddc)
+
+**Figura Board 02**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/42b78203-bc89-4350-935b-9c012e8df908)
+
+**Board Atualizado com os Issues e Milestones concluídos da Etapa 02 no dia 24/09:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e3fa1ba6-c1b2-4502-a3b5-e9e08201d77c)
+
 ## Etapa 03
 
 -	**Planejamento**:
