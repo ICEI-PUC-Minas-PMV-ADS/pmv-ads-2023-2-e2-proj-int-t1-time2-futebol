@@ -101,11 +101,11 @@ O integrante Raul entrou no grupo no final da primeira etapa do projeto.
 
 **Slide Apresentação do Problema e a Solução para o Projeto Scout**:
 
-**Slide 01**
+**Slide 01**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/af58bb47-cabf-42ef-8af9-e8e84982aa32)
 
-**Slide 02**
+**Slide 02**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/27a2b92d-a344-4b3e-8426-cceba8ed9243)
 
