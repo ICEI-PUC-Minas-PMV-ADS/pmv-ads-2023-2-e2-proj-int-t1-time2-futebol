@@ -68,7 +68,7 @@ Requisitos e Restrições, Diagrama de Casos de Uso, Vídeo de 2 minutos sobre o
 Diogo e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
 Introdução, Problema, Proposta de Solução/Objetivos, Justificativa e Público-Alvo, Referências e Slide da Apresentação.
 
-Vagner, Luiz e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
+Vagner, Luiz, Diogo e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
 Especificação do Projeto, Personas, Histórias de usuários. 
 
 Caê  e a participação ativa de todos os membros opinando ou alterando algum conteúdo: 
