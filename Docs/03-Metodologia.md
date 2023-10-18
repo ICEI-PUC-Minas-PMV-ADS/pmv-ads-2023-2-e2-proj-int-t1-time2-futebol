@@ -175,6 +175,16 @@ Luiz criou o CRUD de atacantes. Daniel, Diogo e Vagner estão finalizando a cria
 
 Caê e Luiz realizaram a integração do CRUD de Atacantes com a de Login.
 
+Luiz e Câe realizaram o upload da aplicação do projeto para a nuvem.
+
+**link**
+https://futscout-puc.azurewebsites.net/
+
+**Home Page**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/03e3981a-e98a-4065-8b16-3eda242d7e6d)
+
+
 -	**Evidências**:
 
 -	**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 03 do trabalho no dia 05/10/:**
