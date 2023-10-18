@@ -180,9 +180,17 @@ Luiz e Câe realizaram o upload da aplicação do projeto para a nuvem.
 **link**
 https://futscout-puc.azurewebsites.net/
 
-**Home Page**
+**Home Page**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/03e3981a-e98a-4065-8b16-3eda242d7e6d)
+
+**Tela de listas de Atacantes**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8c2465ce-a778-4721-8c67-de17774227c1)
+
+**Tela para cadastro de Atacantes**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b71c565-4ad0-4a14-9257-aca9a026613e)
 
 
 -	**Evidências**:
