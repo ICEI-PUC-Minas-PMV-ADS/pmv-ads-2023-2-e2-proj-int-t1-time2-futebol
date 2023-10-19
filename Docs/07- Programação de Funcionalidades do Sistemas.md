@@ -23,6 +23,8 @@ A correlação dos mesmos está descrita logo abaixo:
 
 A aplicação do projeto está disponível atrávez do seguinte link:
 
+https://futscout-puc.azurewebsites.net/
+
 Para testes de usuário do tipo "x", o registro é livre.
 
 Para testes de usuário do tipo "Y", utilizar a credencial: usuário -  / senha - 
