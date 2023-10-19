@@ -13,6 +13,10 @@ Todos aqueles textos, ícones e imagens devem ser totalmente carregados com essa
 
 O usuário conseguiu cumprir todas essas etapas descritas, visualizando as imagens, textos e ícones corretamente.
 
+# CT-02 - Login de Usuário.
+
+O usuário deve realizar com sucesso o login na aplicação após preencher e inserir os dados na área de login do site.
+
 # CT-02 - Teste de Análise de Desempenho
 
 # CT-03 - Teste de Identificação de Tendências
