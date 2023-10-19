@@ -24,8 +24,8 @@ Cada pergunta acima exposta no questionário contém cinco opções de respostas
 
 1) Discordo Totalmente, 2) Discordo, 3) Neutro, 4) Concordo e 5) Concordo totalmente.
 
-OBS: GOOGLE FORMS VAI SER FEITO.
-AGUARDANDO A APROVAÇÃO DA PROFESSORA EM RELAÇÃO SOBRE ESSAS PERGUNTAS.
+**OBS: GOOGLE FORMS VAI SER FEITO.
+AGUARDANDO A APROVAÇÃO DA PROFESSORA EM RELAÇÃO SOBRE ESSAS PERGUNTAS.**
 
 # Caso de Teste
 
