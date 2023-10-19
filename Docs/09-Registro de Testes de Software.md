@@ -69,9 +69,9 @@ Os usuários conseguem cadastrar com sucesso na aplicação.
 
 ## CT-10 - Editar e Visualizar os Dados dos Clubes.
 
-O usuário consegue visualizar as estatísticas do Clube cadastrado. Além disso, é possível editar os seguintes dados:
+O usuário consegue visualizar as estatísticas dos Atacantes de um determinado Clube cadastrado. Além disso, é possível editar os seguintes dados:
 
-Nome, Série, 
+Nome, Série, Estatísticas do Clube e dos Atacantes que atuam na mesma equipe.
 
 ## CT-11 - Deletar os Clubes Cadastrados.
 
