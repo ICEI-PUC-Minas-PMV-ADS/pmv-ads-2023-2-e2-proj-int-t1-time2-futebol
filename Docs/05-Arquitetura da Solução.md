@@ -8,4 +8,4 @@ O diagrama de classes é uma representação da estrutura e relações das class
 
 # Hospedagem
 
-A hospedagem do site e do bancod e dados será realizada na plataforma Azure.
+A hospedagem do site e do banco de dados será realizada na plataforma Azure.
