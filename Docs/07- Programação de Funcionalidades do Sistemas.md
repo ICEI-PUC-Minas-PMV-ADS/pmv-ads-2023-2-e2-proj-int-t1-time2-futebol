@@ -1,4 +1,4 @@
-# Programação de Funcionalidades
+# Programação de Funcionalidades (EM ATUALIZAÇÃO)
 
 Conforme os requisitos funcionais foram implementados na aplicação, foram produzidos artefatos. 
 A correlação dos mesmos está descrita logo abaixo:
