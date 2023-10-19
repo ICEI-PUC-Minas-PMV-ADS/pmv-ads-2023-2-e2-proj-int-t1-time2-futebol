@@ -11,7 +11,7 @@ Os usuários testados vão responder às seguintes perguntas demonstradas abaixo
     5. Todas as funções do sistema estão muito bem integradas na plataforma.
     6. Achei o sistema muito inconsistente na sua navegabilidade.
     7. Acredito que qualquer pessoa consegue aprender a usar o sistema de forma ágil, sem problemas de aprendizado.
-    8. Achei o sistema díficil de usar.
+    8. Achei o sistema difícil de usar.
     9. Me senti confiante ao acessar o sistema.
     10. Eu preciso aprender muitas regras de navegabilidade para continuar usando este sistema.
     11. Eu me senti acolhido e confortável com o sistema.
