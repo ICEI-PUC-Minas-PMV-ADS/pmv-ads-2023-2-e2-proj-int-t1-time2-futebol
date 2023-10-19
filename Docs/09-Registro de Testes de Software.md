@@ -77,6 +77,6 @@ Nome, Série, Estatísticas do Clube e dos Atacantes que atuam na mesma equipe.
 
 O usuário consegue deletas o cadastro do Clube cadastrado na plataforma e excluir todos os dados.
 
-## CT-12- Políticas de Privacidade
+## CT-12- Políticas de Privacidade.
 
 O usuário consegue acessar corretamente as Políticas de Privacidade do servidor, clicando na opção "Privacy".
