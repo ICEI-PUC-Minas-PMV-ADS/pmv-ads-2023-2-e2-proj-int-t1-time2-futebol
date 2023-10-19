@@ -177,12 +177,11 @@ Caê e Luiz realizaram a integração do CRUD de Atacantes com a de Login.
 
 Luiz e Câe realizaram o upload da aplicação do projeto para a nuvem.
 
+Daniel e Luiz estão concluindo o CRUD de Clubes.
+
 Diogo e Luiz realizaram todo o Registro de Software com o vídeo demonstrativo e as perguntas das análises expostas.
 
 Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardando uma confirmação da Professora para produzir o Google Forms.
-
-**link**
-https://futscout-puc.azurewebsites.net/
 
 **Home Page**:
 
@@ -210,9 +209,6 @@ https://futscout-puc.azurewebsites.net/
   **Board Atualizado com os Issues e Milestones em andamento da Etapa 03 no dia 06/10:**
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/af6c40d4-5a6c-4f7f-abfc-617f23278b41)
-
-
-
 
 ## Controle de Versão
 
