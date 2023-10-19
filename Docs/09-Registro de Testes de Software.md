@@ -6,7 +6,12 @@
 **Obs: Anexar vídeo 02.**
 
 
-# CT-01 - Teste de Coleta de Dados dos Atacantes
+# CT-01 - Visualizar a página principal.
+
+O usuário consegue visualizar a página principal da aplicação ao realizar a sua navegabilidade informando o endereço do site ao navegador.
+Todos aqueles textos, ícones e imagens devem ser totalmente carregados com essa ação.
+
+O usuário conseguiu cumprir todas essas etapas descritas, visualizando as imagens, textos e ícones corretamente.
 
 # CT-02 - Teste de Análise de Desempenho
 
@@ -16,7 +21,7 @@
 
 # CT-05-  Teste de Recomendação de Melhorias
 
-# CT-06-
+# CT-06- Teste de Coleta de Dados dos Atacantes
 
 # CT-07-
 
