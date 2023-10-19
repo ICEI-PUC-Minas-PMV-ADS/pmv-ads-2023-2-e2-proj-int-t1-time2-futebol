@@ -177,6 +177,10 @@ Caê e Luiz realizaram a integração do CRUD de Atacantes com a de Login.
 
 Luiz e Câe realizaram o upload da aplicação do projeto para a nuvem.
 
+Diogo e Luiz realizaram todo o Registro de Software com o vídeo demonstrativo e as perguntas das análises expostas.
+
+Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardando uma confirmação da Professora para produzir o Google Forms.
+
 **link**
 https://futscout-puc.azurewebsites.net/
 
@@ -195,7 +199,7 @@ https://futscout-puc.azurewebsites.net/
 
 -	**Evidências**:
 
--	**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 03 do trabalho no dia 05/10/:**
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 03 do trabalho no dia 05/10/:**
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9ef9bab7-a4bb-464f-a090-fc30ebb8494a)
 
