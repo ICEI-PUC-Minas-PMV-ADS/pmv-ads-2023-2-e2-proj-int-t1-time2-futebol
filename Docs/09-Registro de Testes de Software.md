@@ -61,22 +61,22 @@ O usuário consegue verificar os dados pessoais cadastrdaos na aplicação clica
 
 É possível que o usuário consiga deletar a sua conta, apagando todos os dados pessoais cadastrados na plataforma.
 
-## CT-09 - Políticas de Privacidade
+## CT-09 - Cadastrar Clubes de Futebol.
+
+É possível que qualquer usuário possa cadastrar no site um Clube de Futebol, a aplicação deve permitir isso.
+
+Os usuários conseguem cadastrar com sucesso na aplicação.
+
+## CT-10 - Editar e Visualizar os Dados dos Clubes.
+
+O usuário consegue visualizar as estatísticas do Clube cadastrado. Além disso, é possível editar os seguintes dados:
+
+Nome, Série, 
+
+## CT-11 - Deletar os Clubes Cadastrados.
+
+O usuário consegue deletas o cadastro do Clube cadastrado na plataforma e excluir todos os dados.
+
+## CT-12- Políticas de Privacidade
 
 O usuário consegue acessar corretamente as Políticas de Privacidade do servidor, clicando na opção "Privacy".
-
-## CT-10 - 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
