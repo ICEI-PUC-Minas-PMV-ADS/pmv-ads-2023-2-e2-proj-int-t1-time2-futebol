@@ -183,19 +183,6 @@ Diogo e Luiz realizaram todo o Registro de Software com o vídeo demonstrativo e
 
 Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardando uma confirmação da Professora para produzir o Google Forms.
 
-**Home Page**:
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/03e3981a-e98a-4065-8b16-3eda242d7e6d)
-
-**Tela de listas de Atacantes**:
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8c2465ce-a778-4721-8c67-de17774227c1)
-
-**Tela para cadastro de Atacantes**:
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b71c565-4ad0-4a14-9257-aca9a026613e)
-
-
 -	**Evidências**:
 
 **Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 03 do trabalho no dia 05/10/:**
@@ -209,6 +196,22 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardand
   **Board Atualizado com os Issues e Milestones em andamento da Etapa 03 no dia 06/10:**
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/af6c40d4-5a6c-4f7f-abfc-617f23278b41)
+
+  **Site já exportado para a Nuvem**
+
+  **Link** https://futscout-puc.azurewebsites.net/
+
+  **Home Page**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/03e3981a-e98a-4065-8b16-3eda242d7e6d)
+
+**Tela de listas de Atacantes**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8c2465ce-a778-4721-8c67-de17774227c1)
+
+**Tela para cadastro de Atacantes**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b71c565-4ad0-4a14-9257-aca9a026613e)
 
 ## Controle de Versão
 
