@@ -22,7 +22,7 @@ Os usuários testados vão responder às seguintes perguntas demonstradas abaixo
 
 Cada pergunta acima exposta no questionário contém cinco opções de respostas para os participantes:
 
-1) Discordo Totalmente, 2) Discordo, 3) Neutro, 4) Concordo e 5) Concordo totalmente.
+**1)** Discordo Totalmente, **2**) Discordo, **3)** Neutro, **4**) Concordo e **5)** Concordo totalmente.
 
 **(EM ATUALIZAÇÃO)** 
 **OBS: GOOGLE FORMS VAI SER FEITO.
