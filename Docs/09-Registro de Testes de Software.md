@@ -17,6 +17,12 @@ O usuário conseguiu cumprir todas essas etapas descritas, visualizando as image
 
 O usuário deve realizar com sucesso o login na aplicação após preencher e inserir os dados na área de login do site.
 
+## CT-03 - Cadastrar Usuário
+
+É possível que qualquer usuário possa cadastrar no site, a aplicação deve permitir isso.
+
+Os usuários conseguem cadastrar com sucesso na aplicação.
+
 # CT-02 - Teste de Análise de Desempenho
 
 # CT-03 - Teste de Identificação de Tendências
