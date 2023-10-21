@@ -1,0 +1,75 @@
+﻿@model IEnumerable<FutScout_2023.Models.Clube>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Clubes</h1>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>
+        <a asp-action="Create" class="btn btn-success">Cadastrar novo Clube</a>
+    </p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Série)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gols2021)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gols2022)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.gols2023)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Estado)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Série)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.gols2021)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.gols2022)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.gols2023)
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Visualizar</a>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                    
+                             
+                            <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Apagar</a>
+                    }
+    
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>

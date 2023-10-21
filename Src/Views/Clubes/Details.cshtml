@@ -1,0 +1,58 @@
+﻿@model FutScout_2023.Models.Clube
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Dados do Clube</h1>
+
+<div>
+    <h4>Clube</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Estado)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Estado)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Série)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Série)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.gols2021)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.gols2021)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.gols2022)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.gols2022)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.gols2023)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.gols2023)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-info">Voltar</a> 
+    @if (User.Identity.IsAuthenticated)
+{
+    <a asp-action="Edit" class="btn btn-warning" asp-route-id="@Model?.Id">Editar</a>
+}
+
+</div>

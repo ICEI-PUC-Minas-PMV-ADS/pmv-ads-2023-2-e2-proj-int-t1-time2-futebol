@@ -1,0 +1,93 @@
+﻿@model FutScout_2023.Models.Atacante
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Estatísticas do Atacante</h1>
+
+<div>
+    <h4>Atacante</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Nome)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Nome)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Idade)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Idade)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Clube)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Clube)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Partidas2023)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Partidas2023)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gols2023)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gols2023)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Assists2023)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Assists2023)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Partidas2022)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Partidas2022)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gols2022)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gols2022)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Assists2022)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Assists2022)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Partidas2021)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Partidas2021)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gols2021)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gols2021)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Assists2021)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Assists2021)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-action="Index" class="btn btn-info">Voltar</a>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <a asp-action="Edit" class="btn btn-warning" asp-route-id="@Model?.Id">Editar</a>
+    }
+</div>

@@ -1,0 +1,109 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FutScout_2023
+build_property.RootNamespace = FutScout_2023
+build_property.ProjectDir = D:\Vs-Comunity\Projetos\FutScout-2023-master\FutScout-2023\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = D:\Vs-Comunity\Projetos\FutScout-2023-master\FutScout-2023
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Atacantes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2FudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Atacantes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2FudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Atacantes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2FudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Atacantes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2FudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Atacantes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXRhY2FudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Clubes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Clubes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Clubes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Clubes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Clubes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2x1YmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Usuarios/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Usuarios/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Usuarios/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Usuarios/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Usuarios/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Usuarios/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb3NcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Vs-Comunity/Projetos/FutScout-2023-master/FutScout-2023/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-lo4van219a

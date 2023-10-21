@@ -1,0 +1,108 @@
+﻿@model IEnumerable<FutScout_2023.Models.Atacante>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de Atacantes Série B e C</h1>
+
+@if (User.Identity.IsAuthenticated)
+{
+    <p>
+        <a asp-action="Create" class="btn btn-success" >Adicionar novo atacante</a>
+    </p>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Idade)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Clube)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Partidas2023)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gols2023)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Assists2023)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Partidas2022)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gols2022)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Assists2022)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Partidas2021)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gols2021)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Assists2021)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Idade)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Clube)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Partidas2023)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gols2023)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Assists2023)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Partidas2022)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gols2022)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Assists2022)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Partidas2021)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gols2021)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Assists2021)
+                </td>
+                <td>
+                    <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Visualizar</a>
+                    
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                        <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
+                    }
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
