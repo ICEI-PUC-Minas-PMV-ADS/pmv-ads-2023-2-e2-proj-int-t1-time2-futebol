@@ -4,6 +4,3 @@
 
 Usuário administrador: Admin
 Password: 123
-
-Usuário comum: User
-Password: 12
