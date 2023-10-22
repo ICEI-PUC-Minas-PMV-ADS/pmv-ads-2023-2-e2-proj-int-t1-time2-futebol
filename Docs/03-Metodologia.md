@@ -197,7 +197,15 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardand
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/af6c40d4-5a6c-4f7f-abfc-617f23278b41)
 
-  **Site já exportado para a Nuvem:**
+  **Atualização do Board do GitHub (Kanban) com as atividades completas de toda a etapa 03 do trabalho no dia 22/10/:**
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/5abd4297-0a41-43b3-a14e-fd09d8bcd0df)
+
+  **Board Atualizado com os Issues e Milestones em concluídos da Etapa 03 no dia 22/10:**
+
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/600830e4-55d3-4a35-b32c-85ac2413ed44)
+
+ **Site já exportado para a Nuvem:**
 
   **Link**: https://futscout-puc.azurewebsites.net/
 
