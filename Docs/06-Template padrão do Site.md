@@ -16,9 +16,12 @@ Dessa forma, será composto pela predominação da cor branco no cabeçalho, cor
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e9908f1b-2174-47c3-8720-4f1225e6b752)
 
-**Lista de Atacantes Séris B e C disponíveis na Apicação**
+**Lista de Atacantes Séris B e C disponíveis na Aplicação**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0d937d4e-0138-4bdd-9779-2163faeb2017)
 
+**Lista de Clubes disponíveis na Aplicação**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/445cffd7-077a-4266-9716-3d3105622fde)
 
 
