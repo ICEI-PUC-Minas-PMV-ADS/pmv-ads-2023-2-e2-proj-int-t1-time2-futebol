@@ -80,7 +80,7 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
 | Critério de Êxito  | Irá aparecer uma mensagem como: Ddos alterados com sucesso.     
 
-| **Caso de Teste** 	| **CT-10 - Editar e Visualizar dados dos Clubes**                                                                      	|
+| **Caso de Teste** 	| **CT-11 - Editar e Visualizar dados dos Clubes**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados dos Clubes no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
