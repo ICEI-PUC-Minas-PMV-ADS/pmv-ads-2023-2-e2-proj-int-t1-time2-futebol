@@ -86,31 +86,31 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/29a76400-59bf-4913-890c-86d46730cf86)
 
-- **Resultado**:
+- **Resultado**: A maioria dos usuários afirmaram sentir um "acolhimento" e conforto ao acessar a plataforma.
 
 **Figura 12**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/cedb9a6c-07b7-4184-a461-1ad63e2a2923)
 
-- **Resultado**:
+- **Resultado**: 75% dos usuários afirmam ter encontrado muita facilidade para visualizar as informações que buscavam ao acessar a plataforma.
 
 **Figura 13**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e24804de-b666-4f1a-8b24-f97384b24c02)
 
-- **Resultado**:
+- **Resultado**: A positividade também esteve presente na experiência do usuário ao avaliar a interface proposta pelo site, 75% dos usuários confirmam essa avaliação.
 
 **Figura 14**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/43a26998-fb75-4def-b40f-590a80929c04)
 
-- **Resultado**:
+- **Resultado**: 50% dos usuários confirmam que a interface do aplicativo é positiva ao nevegar pelo sistema.
 
 **Figura 15**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/75dde7bf-8204-4402-b5e4-3d39981b7231)
 
-- **Resultado**:
+- **Resultado**: O fácil entendimento das informações tiveram destaque. 75% dos usuários compreenderam que as informações e as organizações do aplicativo possuem uma compreensão positiva.
 
 #### Conclusão
 
