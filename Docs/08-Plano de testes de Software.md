@@ -45,14 +45,14 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	| - 1. Acessar a funcionalidade de recomendação de melhorias. <br> - 2. Selecionar um jogador. <br> - 3. Verificar se as recomendações são relevantes para o perfil do jogador. |
 | Critério de Êxito | - O site recomendou alteraçoes e melhorias relevantes aos perfis referentes |
 
-| **Caso de Teste** 	| **CT-06 - Visualizar a página principal**                                                          	                                                              |
+| **Caso de Teste** 	| **CT-06 - Visualizar a Página Principal**                                                          	                                                              |
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-01 - A aplicação deve apresentar na página principal informações sobre a descrição do site FutScout 2023.   |
 | Objetivo do Teste 	| Identificar se a página inicial está  carregando de forma correta                               |
 | Passos 	           | 1. Acessar o Navegador <br> 2. Informar o endereço do Site <br> 3. Visualizar a página principal    |
 | Critério de Êxito  | Todos os textos devem ser carregados por completo.                                  |
 
-| **Caso de Teste** 	| **CT-07 - Cadastrar usuário**                                                                      	|
+| **Caso de Teste** 	| **CT-07 - Cadastrar Usuário**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa se cadastrar no site.                  |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar no site.                                               |
@@ -73,7 +73,7 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
 | Critério de Êxito  | Irá aparecer uma mensagem como: O cadastro foi realizado com sucesso.    
 
-| **Caso de Teste** 	| **CT-10 - Editar e Visualizar dados dos Jogadores**                                                                      	|
+| **Caso de Teste** 	| **CT-10 - Editar e Visualizar Dados dos Jogadores**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados dos Jogadores no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
@@ -87,19 +87,41 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
 | Critério de Êxito  | O usuário vai conseguir visualizar os seus dados alterados após a confirmação na plataforma.    
 
-| **Caso de Teste** 	| **CT-12 - Editar e Visualizar dados dos Clubes**                                                                      	|
+| **Caso de Teste** 	| **CT-12 - Editar e Visualizar Dados dos Clubes**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados dos Clubes no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
 | Critério de Êxito  | Irá aparecer uma mensagem como: O cadastro foi realizado com sucesso.    
 
-| **Caso de Teste** 	| **CT-13 - Verificar Lista de Atacantes cadastrados na Aplicação**                                                                      	|
+| **Caso de Teste** 	| **CT-13 - Verificar Lista de Atacantes Cadastrados na Aplicação**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados dos Atacantes no site.                  |
-| Objetivo do Teste 	| Confirmar se o usuário consegue sver as seguintes informações no site: Nome, Idade, Clube, Partidas, Gols e Assistências nos anos de 2021, 2022 e 2023.                                            |
+| Objetivo do Teste 	| Confirmar se o usuário consegue ver as seguintes informações no site: Nome, Idade, Clube, Partidas, Gols e Assistências nos anos de 2021, 2022 e 2023.                                            |
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
 | Critério de Êxito  | Todas as informações dos atletas vão estar expostas no site.
+
+
+| **Caso de Teste** 	| **CT-14 - Deletar Usuário Cadastrados na Aplicação**                                                                      	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RF-10 - A aplicação deve permitir que o usuário consiga deletar o seu cadastro no site.                |
+| Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Critério de Êxito  | A confirmação para exclusão deve ser exposta para o usuário.
+
+| **Caso de Teste** 	| **CT-15 - Deletar Clubes Cadastrados na Aplicação**                                                                      	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RF-10 - A aplicação deve permitir que o usuário consiga deletar o cadastro de um Clube no site.                |
+| Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Critério de Êxito  | A confirmação para exclusão deve ser exposta para o usuário.
+
+| **Caso de Teste** 	| **CT-16 - Deletar Atacantes Cadastrados na Aplicação**                                                                      	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RF-10 - A aplicação deve permitir que o usuário consiga deletar o cadastro do Atacante no site.                |
+| Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Critério de Êxito  | A confirmação para exclusão deve ser exposta para o usuário.
 
 **Critérios de Aceitação**
 Todos os casos de teste devem ser executados e passar com sucesso. <br> A aplicação deve fornecer resultados precisos e relevantes. <br> O desempenho da aplicação deve ser satisfatório, mesmo sob carga.
