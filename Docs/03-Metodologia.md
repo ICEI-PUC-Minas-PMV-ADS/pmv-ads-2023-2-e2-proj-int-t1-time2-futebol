@@ -221,7 +221,7 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardand
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b71c565-4ad0-4a14-9257-aca9a026613e)
 
-**Tela de Lista de Clubes**
+**Tela de Lista de Clubes**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/fefc9ade-75d5-4eeb-a04e-3e6fdf106a5c)
 
