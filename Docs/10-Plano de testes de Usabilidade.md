@@ -42,4 +42,11 @@ Conforme as informações adquiridas, a equipe de Desenvolvimento da aplicação
 |	Requisito Associado| RNF-04- A aplicação deve ser totalmente compatível com os principais navegadores utilizados do mercado (Google Chrome, Mozila Firefox, Microsoft Edge, Apple Safari e Opera).   |
 | Objetivo do Teste 	| Confirmar se o usuário consegue visualizar a aplicação interativa em outros navegadores.                                     |
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Testar a aplicação em outros navegadores                      |
-| Critério de Êxito  | A aplicação demonstra ser totalmente compatível com os principais navegadores do mercado.                                  | 
+| Critério de Êxito  | A aplicação demonstra ser totalmente compatível com os principais navegadores do mercado.   
+
+| **Caso de Teste** 	| **CT-13 - Usuários**                                                                           	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RNF-005	Não é permitido o recebimento de cadastros de usuários com todos aqueles dados necessários.   |
+| Objetivo do Teste 	| Confirmar se o usuário consegue cadastrar sem preencher qualquer dado descrito, deixando em branco essa opção.                                     |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar "registrar" <br> 4. Tentar cadastrar um usuário sem dado algum. <br> 5. salvar dados após essa tentativa|
+| Critério de Êxito  | Não vai ser permitido o cadastro do usuário nesse caso, pois é necessário preencher e confirmar todos os dados.     | 
