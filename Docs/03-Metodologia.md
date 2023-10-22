@@ -181,7 +181,7 @@ Daniel e Luiz estão concluindo o CRUD de Clubes.
 
 Diogo e Luiz realizaram todo o Registro de Software com o vídeo demonstrativo e as perguntas das análises expostas.
 
-Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardando uma confirmação da Professora para produzir o Google Forms.
+Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, Plano de Testes de Usabilidade e Registros de Testes de Usabilidade.
 
 -	**Evidências**:
 
@@ -224,7 +224,6 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardand
 **Tela de Lista de Clubes**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/fefc9ade-75d5-4eeb-a04e-3e6fdf106a5c)
-
 
 ## Controle de Versão
 
