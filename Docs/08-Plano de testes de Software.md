@@ -56,49 +56,49 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa se cadastrar no site.                  |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar no site.                                               |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Cadastrar usuário.|
 | Critério de Êxito  | Irá aparecer a seguinte mensagem no lado direito do Navegador Web: "Salvar senha."     
 
 | **Caso de Teste** 	| **CT-08 - Cadastrar Jogador**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa cadastrar um jogador no site.                  |
 | Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar no site.                                               |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Cadastrar jogador.|
 | Critério de Êxito  | O usuário vai conseguir cadastrar os jogadores após a confirmação na plataforma. 
 
 | **Caso de Teste** 	| **CT-09 - Cadastrar Clube**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa se cadastrar um Clube de Futebol no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Cadastrar clube.|
 | Critério de Êxito  | Irá aparecer uma mensagem como: O cadastro do Clube foi realizado com sucesso.    
 
 | **Caso de Teste** 	| **CT-10 - Editar e Visualizar Dados dos Jogadores**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados dos Jogadores no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar<br>5. Informar os dados necessários<br>6. Editar dados dos jogadores.|
 | Critério de Êxito  | O usuário vai conseguir visualizar os seus dados alterados após a confirmação na plataforma.    
 
 | **Caso de Teste** 	| **CT-11 - Editar os Dados Pessoais do Usuário Cadastrado**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados pessoais preenchidos no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue editar e visualizar os dados no site.                                               |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar<br>5. Informar os dados necessários<br>6. Editar dados pessoais.|
 | Critério de Êxito  | O usuário vai conseguir visualizar os seus dados alterados após a confirmação na plataforma.    
 
 | **Caso de Teste** 	| **CT-12 - Editar e Visualizar Dados dos Clubes**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados dos Clubes no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar<br>5. Informar os dados necessários<br>6. Editar e visualizar dados|
 | Critério de Êxito  | Todas as informações dos clubes cadastrados vão estar expostas no site.   
 
 | **Caso de Teste** 	| **CT-13 - Verificar Lista de Atacantes Cadastrados na Aplicação**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa editar e visualizar os dados dos Atacantes no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue ver as seguintes informações no site: Nome, Idade, Clube, Partidas, Gols e Assistências nos anos de 2021, 2022 e 2023.                                            |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em ver lista<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em ver lista<br>5. Informar os dados necessários<br>6. Verificar lista.|
 | Critério de Êxito  | Todas as informações dos atletas cadastrados vão estar expostas no site.
 
 
@@ -106,28 +106,28 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que o usuário consiga deletar o seu cadastro no site.                |
 | Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em deletar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em deletar<br>5. Informar os dados necessários<br>6. Deletar dados|
 | Critério de Êxito  | A confirmação para exclusão deve ser exposta para o usuário.
 
 | **Caso de Teste** 	| **CT-15 - Deletar Clubes Cadastrados na Aplicação**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que o usuário consiga deletar o cadastro de um Clube no site.                |
 | Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em deletar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em deletar<br>5. Informar os dados necessários<br>6. Deletar dados|
 | Critério de Êxito  | A confirmação para exclusão deve ser exposta para o usuário.
 
 | **Caso de Teste** 	| **CT-16 - Deletar Atacantes Cadastrados na Aplicação**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que o usuário consiga deletar o cadastro do Atacante no site.                |
 | Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em deletar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em deletar<br>5. Informar os dados necessários<br>6. Deletar dados|
 | Critério de Êxito  | A confirmação para exclusão deve ser exposta para o usuário.
 
 | **Caso de Teste** 	| **CT-17 - Deletar e Editar as Estatísticas dos Atacantes Cadastrados na Aplicação**                                                       
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - O usuário consegue visualizar as estatísticas do Atacante cadastrado.               |
 | Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar e deletar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em editar e deletar<br>5. Informar os dados necessários<br>6. Deletar ou editar dados|
 | Critério de Êxito  | A confirmação para exclusão e editar deve ser exposta para o usuário.
 
 | **Caso de Teste** 	| **CT-18 - Verificar as Políticas de Privacidade na Aplicação**                                                                      	|
