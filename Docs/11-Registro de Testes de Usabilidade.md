@@ -19,6 +19,51 @@ Todos os participantes da pesquisa não necessariamente possuem experiência em 
 
 #### Resultados
 
+**Figura 1**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/ed493357-c715-4d05-b2a6-88b3da49ee52)
+
+**Figura 2**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/089c7cf3-ab7b-45a1-a1b4-e453d279bf4e)
+
+**Figura 3**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/5e393e9b-853f-49b8-9afb-8bcde004b01a)
+
+**Figura 4**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/67a201f2-9597-4efd-affe-bd7ab6e2903f)
+
+**Figura 5**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9d0e7888-5259-4c50-a335-e1e0f174edd2)
+
+**Figura 6**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/7fee800a-0442-4521-a764-3dc1fa7ab701)
+
+**Figura 7**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/6a09d6fd-d753-4768-8fe3-e75dbc37db50)
+
+**Figura 8**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/7d06055c-8935-4353-8e49-268d949fd38b)
+
+**Figura 9**:
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/22f70859-ec79-49fc-b50e-c260418f2d65)
+
+**Figura 10**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/d9ea72bd-a267-4481-9f05-8293a9ce05a7)
+
+
+
+
+
+
 -
 -
 -
