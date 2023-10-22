@@ -8,8 +8,11 @@ Na primeira etapa desse teste são apresentadas todas as respostas objetivas em 
 
 Posteriormente, na segunda etapa, são apresentadas por todos os participantes do teste as correções e possíveis melhorias apontadas para a aplicação.
 
+### Método e Participantes
 
-#### Método e participantes
+Foi criado um link diretamente no Google Forms com 15 questões claras e bem objetivas sobre a aplicação. Além disso, foi aberto um espaço para que os participantes conseguissem complementar a sua resposta e adicionar mais comentários.
+
+Esses comentários são importantes e necessários para se visualizar possíveis erros no site e observar melhorias, afim da experiência do usuário ser melhor conforme a descrição de testes de usabilidade da plataforma FutScout.
 
 #### Resultados
 
