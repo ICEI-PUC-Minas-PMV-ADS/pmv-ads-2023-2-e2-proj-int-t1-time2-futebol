@@ -123,7 +123,7 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em deletar<br>5. Informar os dados necessários<br>6. Salvar dados|
 | Critério de Êxito  | A confirmação para exclusão deve ser exposta para o usuário.
 
-| **Caso de Teste** 	| **CT-17 - Deletar e Editar as Estatísticas dos Atacantes Cadastrados na Aplicação**                                                                      	|
+| **Caso de Teste** 	| **CT-17 - Deletar e Editar as Estatísticas dos Atacantes Cadastrados na Aplicação**                                                       
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - O usuário consegue visualizar as estatísticas do Atacante cadastrado.               |
 | Objetivo do Teste 	| Confirmar se o usuário consegue deletar a sua conta no site.                                           |
