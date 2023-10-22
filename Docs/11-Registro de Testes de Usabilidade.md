@@ -26,7 +26,7 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/ed493357-c715-4d05-b2a6-88b3da49ee52)
 
-**Resultado**: 50% dos usuários avaliam como positiva a sua experiência no site, assim, a maioria dos usuários possui o desejo de utilizar a plataforma com mais frequência.
+- `**Resultado**: 50% dos usuários avaliam como positiva a sua experiência no site, assim, a maioria dos usuários possui o desejo de utilizar a plataforma com mais frequência.
 
 **Figura 2**:
 
