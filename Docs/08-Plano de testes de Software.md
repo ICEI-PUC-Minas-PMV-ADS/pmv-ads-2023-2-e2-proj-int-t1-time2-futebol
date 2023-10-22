@@ -134,7 +134,7 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - O usuário consegue visualizar as informações de Privacidade na Aplicação.               |
 | Objetivo do Teste 	| Confirmar se o usuário consegue visualizar as informações sobre a segurança de dados pessoais no site.                                           |
-| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em ver políticas<br>5. Informar os dados necessários<br>.|
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em ver políticas<br>5. Informar os dados necessários<br>|
 | Critério de Êxito  | Confirmação para verificar as informações das políticas do site exposta para o usuário.
 
 **Critérios de Aceitação**
