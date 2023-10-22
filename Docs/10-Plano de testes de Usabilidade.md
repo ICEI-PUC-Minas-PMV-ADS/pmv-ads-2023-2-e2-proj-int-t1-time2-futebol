@@ -6,7 +6,7 @@ O teste de usabilidade será realizado por um questionário de UX através da pl
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9fba54e2-381e-48f4-8a34-8f3bb6302f39)
 
-Os usuários testados vão responder às seguintes perguntas demonstradas abaixo.
+Os usuários testados vão responder às seguintes perguntas demonstradas abaixo:
 
     1. Gostaria de utilizar esse sistema com muito mais frequência.
     2. Achei o sistema muito fácil de usar.
