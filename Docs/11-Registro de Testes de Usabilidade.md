@@ -69,7 +69,7 @@ Todos os participantes da pesquisa não necessariamente possuem experiência em 
 
 **Figura 13**:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/afcf4d3f-bacc-4915-a07e-8ee603e2c79a
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e24804de-b666-4f1a-8b24-f97384b24c02)
 
 **Figura 14**:
 
