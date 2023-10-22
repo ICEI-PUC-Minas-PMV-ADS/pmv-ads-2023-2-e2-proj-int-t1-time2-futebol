@@ -22,7 +22,15 @@
 
 ## Instruções de utilização
 
-Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+A aplicação do projeto está disponível através do seguinte link:
+
+**Site:** https://futscoutpuc.azurewebsites.net/
+
+Para realizar o login deve-se utilizar os seguintes dados:
+
+**Usuário:** admin
+
+**Senha:** 123
 
 # Documentação
 
