@@ -207,7 +207,7 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardand
 
  **Site já exportado para a Nuvem:**
 
-  **Link**: https://futscout-puc.azurewebsites.net/
+  **Link**: https://futscoutpuc.azurewebsites.net/
 
 **Tela Home Page**:
 
