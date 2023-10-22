@@ -32,57 +32,85 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/089c7cf3-ab7b-45a1-a1b4-e453d279bf4e)
 
+**Resultado**: 87% dos usuários consideram muito fácil a navegabilidade do sistema.
+
 **Figura 3**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/5e393e9b-853f-49b8-9afb-8bcde004b01a)
+
+**Resultado**: Nesse tópico ocorreu um equilíbrio na avaliação, onde 37,5% dos usuários acharam o sistema desnecessariamente complexo e outros iguais 37,5% já visualizaram uma complexidade sobre o conteúdo.
 
 **Figura 4**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/67a201f2-9597-4efd-affe-bd7ab6e2903f)
 
+**Resultado**: Nesse tópico, 37,5% dos usuários tiveram uma posição neutra, indicando não haver uma preocupação de um provável suporte técnico para acessar a plataforma.
+
 **Figura 5**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9d0e7888-5259-4c50-a335-e1e0f174edd2)
+
+**Resultado**: 100% dos usuários que acessaram a plataforma visualizaram uma integração completa ao acessar o sistema.
 
 **Figura 6**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/7fee800a-0442-4521-a764-3dc1fa7ab701)
 
+**Resultado**: Essa pergunta, ocorreu um equilíbrio de avaliação. 37,5% dos usuários discordaram e foram neutros em relação sobre uma inconsistência de navegabilidade da plataforma.
+
 **Figura 7**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/6a09d6fd-d753-4768-8fe3-e75dbc37db50)
+
+**Resultado**: A maioria dos usuários, cerca de 62,5% afirmam que qualquer pessoa consegue acessar a plataforma de forma autônoma, aprendendo por si só as atividades e funções disponíveis na aplicação.
 
 **Figura 8**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/7d06055c-8935-4353-8e49-268d949fd38b)
 
+**Resultado**: Mais de 60% dos usuários acharam a plataforma difícil de ser usada.
+
 **Figura 9**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/22f70859-ec79-49fc-b50e-c260418f2d65)
+
+**Resultado**: Apesar da dificuldade apresentada no resultado da pergunta anterior, nesse questionário, 62,5% dos usuários se sentiram confiantes em navegar na plataforma.
 
 **Figura 10**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/d9ea72bd-a267-4481-9f05-8293a9ce05a7)
 
+**Resultado**: Um equilíbrio de destaque nessa análise, 25% dos usuários discordam totalmente e concordam sobre ser necessário o entendimento de regras de navegabilidade para acessar a plataforma. Já para 37,5%, são neutros sobre esse entendimento.
+
 **Figura 11**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/29a76400-59bf-4913-890c-86d46730cf86)
+
+**Resultado**:
 
 **Figura 12**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/cedb9a6c-07b7-4184-a461-1ad63e2a2923)
 
+**Resultado**:
+
 **Figura 13**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e24804de-b666-4f1a-8b24-f97384b24c02)
+
+**Resultado**:
 
 **Figura 14**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/43a26998-fb75-4def-b40f-590a80929c04)
 
+**Resultado**:
+
 **Figura 15**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/75dde7bf-8204-4402-b5e4-3d39981b7231)
+
+**Resultado**:
 
 #### Conclusão
 
