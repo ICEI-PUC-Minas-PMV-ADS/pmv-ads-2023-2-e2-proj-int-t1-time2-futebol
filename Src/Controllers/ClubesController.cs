@@ -54,20 +54,19 @@ namespace FutScout_2023.Controllers
             [HttpPost]
             public async Task<IActionResult> Edit(int id, Clube clube)
             {
-                if (id != clube.Id)
-                    return NotFound();
-
-                if (ModelState.IsValid)
-                {
-                    _context.Clubes.Update(clube);
-
-                    _context.Clubes.Add(clube);
-                    await _context.SaveChangesAsync();
-                    return RedirectToAction("Index");
-                }
-
-                return View();
+             if (id != clube.Id)
+                 return NotFound();
+         
+             if (ModelState.IsValid)
+             {
+                 _context.Clubes.Update(clube); 
+                 await _context.SaveChangesAsync();
+                 return RedirectToAction("Index");
+             }
+         
+             return View(clube); 
             }
+
 
             public async Task<IActionResult> Details(int? id)
             {
