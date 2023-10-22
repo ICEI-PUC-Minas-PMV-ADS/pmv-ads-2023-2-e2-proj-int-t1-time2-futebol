@@ -211,7 +211,7 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardand
 
 **Tela Home Page**:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/03e3981a-e98a-4065-8b16-3eda242d7e6d)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/464e379f-8479-449d-b73d-a132b93e8f45)
 
 **Tela de listas de Atacantes**:
 
@@ -220,6 +220,11 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, aguardand
 **Tela para cadastro de Atacantes**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b71c565-4ad0-4a14-9257-aca9a026613e)
+
+**Tela de Lista de Clubes**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/fefc9ade-75d5-4eeb-a04e-3e6fdf106a5c)
+
 
 ## Controle de Versão
 
