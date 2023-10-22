@@ -14,6 +14,9 @@ Foi criado um link diretamente no Google Forms com 15 questões claras e bem obj
 
 Esses comentários são importantes e necessários para se visualizar possíveis erros no site e observar melhorias, afim da experiência do usuário ser melhor conforme a descrição de testes de usabilidade da plataforma FutScout.
 
+O formulário do Google foi respondido por 8 pessoas. A idade dos participantes, variando entre 20 e 50 anos conforme a média de idade do público-alvo da plataforma.
+Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
+
 #### Resultados
 
 -
