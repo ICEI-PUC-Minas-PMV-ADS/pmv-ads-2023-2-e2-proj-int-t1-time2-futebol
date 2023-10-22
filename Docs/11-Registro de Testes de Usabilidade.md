@@ -117,10 +117,11 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema na sua totalidade. 
 Logo abaixo, os principais tópicos de melhoria:
 
--
--
--
--
--
-
+- Adicionar imagens para melhorar a sensação de acolhimento e entendimento sobre o assunto e objetivo da aplicação.
+  
+- Inserir um layout ilustrativo que proporcione uma conexão do conceito da aplicação e do seu propósito prático de cadastros e estatísticas no futebol.
+  
+- Adicionar mais botões e opções para facilitar o entendimento sobre as regras de navegabilidade de cada tópico da plataforma.
+  
+- Fixar um banco de dados com um limite maior, em alguns testes o limite de gratuidade foi atingido pelo Azure. Dessa forma, a aplicação Web e o Banco de Dados caiu em alguns momentos.
 
