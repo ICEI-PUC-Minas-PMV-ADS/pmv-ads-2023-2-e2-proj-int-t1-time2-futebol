@@ -10,7 +10,7 @@ Dessa forma, será composto pela predominação da cor branco no cabeçalho, cor
 
 **Home Page**
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/31da8343-0726-46a3-a69c-85a762b366de)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/92702a73-8228-4520-a12b-826da8a29980)
 
 **Página de Login**
 
