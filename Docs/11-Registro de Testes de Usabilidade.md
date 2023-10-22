@@ -17,11 +17,15 @@ Esses comentários são importantes e necessários para se visualizar possíveis
 O formulário do Google foi respondido por 8 pessoas. A idade dos participantes, variando entre 20 e 50 anos conforme a média de idade do público-alvo da plataforma.
 Todos os participantes da pesquisa não necessariamente possuem experiência em analisar aplicações e sistemas web.
 
-#### Resultados
+## Resultados
+
+Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliação dos usuários que acessaram e opinaram sobre a aplicação FutScout.
 
 **Figura 1**:
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/ed493357-c715-4d05-b2a6-88b3da49ee52)
+
+
 
 **Figura 2**:
 
