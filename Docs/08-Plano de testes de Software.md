@@ -66,7 +66,7 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
 | Critério de Êxito  | Irá aparecer a seguinte mensagem no lado direito do Navegador Web: "Salvar senha."  
 
-| **Caso de Teste** 	| **CT-08 - Cadastrar Clube**                                                                      	|
+| **Caso de Teste** 	| **CT-09 - Cadastrar Clube**                                                                      	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
 |	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa se cadastrar um Clube de Futebol no site.                  |
 | Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
