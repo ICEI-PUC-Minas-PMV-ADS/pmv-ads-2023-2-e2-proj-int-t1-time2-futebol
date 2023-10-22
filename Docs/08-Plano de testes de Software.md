@@ -44,6 +44,14 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 |	Caso de Teste 5	| Confirmar se a aplicação recomenda melhorias para os jogadores com base em seus perfis. Ajundando em desempenho no perfil dos jogadores.  |
 | Passos 	| - 1. Acessar a funcionalidade de recomendação de melhorias. <br> - 2. Selecionar um jogador. <br> - 3. Verificar se as recomendações são relevantes para o perfil do jogador. |
 | Critério de Êxito | - O site recomendou alteraçoes e melhorias relevantes aos perfis referentes |
+
+| **Caso de Teste** 	| **CT-06- Visualizar a página principal**                                                          	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RF-01 - A aplicação deve apresentar na página principal informações sobre a descrição do site FutScout 2023.   |
+| Objetivo do Teste 	| Identificar se a página inicial está  carregando de forma correta                               |
+| Passos 	           | 1. Acessar o Navegador <br> 2. Informar o endereço do Site <br> 3. Visualizar a página principal    |
+| Critério de Êxito  | Todos os textos devem ser carregados por completo.                                  |
+
 |  	|  	|
 
 **Critérios de Aceitação**
