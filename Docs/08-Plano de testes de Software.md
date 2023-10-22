@@ -52,7 +52,26 @@ O teste será realizado para validar as funcionalidades relacionadas à coleta, 
 | Passos 	           | 1. Acessar o Navegador <br> 2. Informar o endereço do Site <br> 3. Visualizar a página principal    |
 | Critério de Êxito  | Todos os textos devem ser carregados por completo.                                  |
 
-|  	|  	|
+| **Caso de Teste** 	| **CT-07 - Cadastrar usuário**                                                                      	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa se cadastrar no site.                  |
+| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar no site.                                               |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Critério de Êxito  | Irá aparecer a seguinte mensagem no lado direito do Navegador Web: "Salvar senha."     
+
+| **Caso de Teste** 	| **CT-08 - Cadastrar Jogador**                                                                      	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa cadastrar um jogador no site.                  |
+| Objetivo do Teste 	| Verificar se o usuário consegue se cadastrar no site.                                               |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Critério de Êxito  | Irá aparecer a seguinte mensagem no lado direito do Navegador Web: "Salvar senha."  
+
+| **Caso de Teste** 	| **CT-08 - Cadastrar Clube**                                                                      	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RF-10 - A aplicação deve permitir que qualquer usuário possa se cadastrar um Clube de Futebol no site.                  |
+| Objetivo do Teste 	| Confirmar se o usuário consegue se cadastrar no site.                                               |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar a aba de login<br>4. Clicar em cadastrar<br>5. Informar os dados necessários<br>6. Salvar dados|
+| Critério de Êxito  | Irá aparecer uma mensagem como: O cadastro foi realizado com sucesso.    
 
 **Critérios de Aceitação**
 Todos os casos de teste devem ser executados e passar com sucesso. <br> A aplicação deve fornecer resultados precisos e relevantes. <br> O desempenho da aplicação deve ser satisfatório, mesmo sob carga.
