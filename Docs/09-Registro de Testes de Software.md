@@ -18,13 +18,11 @@ O usuário deve realizar com sucesso o login na aplicação após preencher e in
 
 ## CT-03 - Cadastrar Usuário.
 
-É possível que qualquer usuário possa cadastrar no site, a aplicação deve permitir isso.
-
-Os usuários conseguem cadastrar com sucesso na aplicação.
+O admin deve fornecer o cadastro do usuário, nem todos são possibilitados de ter um cadastro.
 
 ## CT-04 Verificar Lista de Atacantes da Séries B e C.
 
-O usuário pode visualizar os atacantes das Séries B e C já cadastrados na aplicação e as respectivas informações dos atletas: 
+O usuário e o visitante podem visualizar os atacantes das Séries B e C já cadastrados na aplicação e as respectivas informações dos atletas: 
 
 Nome, Idade, Clube, Partidas, Gols e Assistências nos anos de 2021, 2022 e 2023.
 
@@ -46,7 +44,7 @@ Nome, Idade, Clube, Partidas, Gols e Assistências nos anos de 201, 2022 e 2023.
 
 ## CT-07 - Verificar os Usuários Cadastrados na Aplicação.
 
-O usuário consegue verificar os usuário já registrados na aplicação, acessando a opção "Usuários".
+O Apenas o Usuário cadastrado como Administrador consegue visualizar os usuários cadastrados na aplicação tal como editar as informações de cadastro.
 
 ## CT-06 - Editar os dados pessoais do Usuário.
 
