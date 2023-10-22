@@ -1,4 +1,4 @@
-# Registros de Testes de Usabilidade (EM ATUALIZAÇÃO)
+# Registros de Testes de Usabilidade 
 
 ## Introdução
 
