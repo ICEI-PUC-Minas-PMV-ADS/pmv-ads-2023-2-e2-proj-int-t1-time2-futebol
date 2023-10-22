@@ -50,3 +50,10 @@ Conforme as informações adquiridas, a equipe de Desenvolvimento da aplicação
 | Objetivo do Teste 	| Confirmar se o usuário consegue cadastrar sem preencher qualquer dado descrito, deixando em branco essa opção.                                     |
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar "registrar" <br> 4. Tentar cadastrar um usuário sem dado algum. <br> 5. salvar dados após essa tentativa|
 | Critério de Êxito  | Não vai ser permitido o cadastro do usuário nesse caso, pois é necessário preencher e confirmar todos os dados.     | 
+
+| **Caso de Teste** 	| **CT-14 - Erro de Login e Cadastro**                                                                           	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RNF-006	A aplicação deve informar de forma instantânea o erro de login e de cadastro para aquele usuário caso os dados informados não estejam dentro do banco de dados.
+| Objetivo do Teste 	| Confirmar ao realizar o cadastro ou login se algum erro ou falha vai ser emitido.                                   |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Efetuar o cadastro de forma errada. <br> 4. Verificar se é demonstrado alguma falha.|
+| Critério de Êxito  | Vai ser retornado uma falha no registro do usuário em questão.           
