@@ -112,7 +112,10 @@ Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de 
 
 - **Resultado**: O fácil entendimento das informações tiveram destaque. 75% dos usuários compreenderam que as informações e as organizações do aplicativo possuem uma compreensão positiva.
 
-#### Conclusão
+### Conclusão
+
+Sobre as sugestões de todos os participantes do teste de usabilidade aplicado, o grupo, chegou nas seguintes conclusões de modo a melhorar a experiência do usuário e o sistema na sua totalidade. 
+Logo abaixo, os principais tópicos de melhoria:
 
 -
 -
