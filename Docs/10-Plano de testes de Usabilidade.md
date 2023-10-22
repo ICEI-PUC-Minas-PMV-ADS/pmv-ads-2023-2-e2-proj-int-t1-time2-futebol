@@ -56,4 +56,11 @@ Conforme as informações adquiridas, a equipe de Desenvolvimento da aplicação
 |	Requisito Associado| RNF-006	A aplicação deve informar de forma instantânea o erro de login e de cadastro para aquele usuário caso os dados informados não estejam dentro do banco de dados.
 | Objetivo do Teste 	| Confirmar ao realizar o cadastro ou login se algum erro ou falha vai ser emitido.                                   |
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Efetuar o cadastro de forma errada. <br> 4. Verificar se é demonstrado alguma falha.|
-| Critério de Êxito  | Vai ser retornado uma falha no registro do usuário em questão.           
+| Critério de Êxito  | Vai ser retornado uma falha no registro do usuário em questão.      
+
+| **Caso de Teste** 	| **CT-15 - Responsividade**                                                                           	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RNF-002	A aplicação deverá ser totalmente responsiva permitindo a visualização em diferentes telas de navegação (PC, Smartphones, Tablets, iPads, E-Reader etc) de forma proporcional ao layout e adequada   |
+| Objetivo do Teste 	| Verificar se o usuário consegue visualizar a aplicação em diferentes aparelhos. Assim, confirmando se a aplicação é totalmente responsiva.                                     |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Testar a aplicação em PC, Smartphones, Tablets, iPads, E-Reader e em outros diversos aparelhos.                     |
+| Critério de Êxito  | Todos os meios de acesso da aplicação é responsiva em celulares, tabletes, computadores entre outros.                                  | 
