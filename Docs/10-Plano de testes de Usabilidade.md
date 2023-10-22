@@ -2,6 +2,10 @@
 
 O teste de usabilidade será realizado por um questionário de UX através da plataforma Google Forms, sistema este popularmente conhecido, o que facilita na participação de uma vasta pluralidade de usuários.
 
+**Figura do Google Forms**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9fba54e2-381e-48f4-8a34-8f3bb6302f39)
+
 Os usuários testados vão responder às seguintes perguntas demonstradas abaixo.
 
     1. Gostaria de utilizar esse sistema com muito mais frequência.
@@ -23,10 +27,6 @@ Os usuários testados vão responder às seguintes perguntas demonstradas abaixo
 Cada pergunta acima exposta no questionário contém cinco opções de respostas para os participantes:
 
 **1)** Discordo Totalmente, **2**) Discordo, **3)** Neutro, **4**) Concordo e **5)** Concordo totalmente.
-
-**(EM ATUALIZAÇÃO)** 
-**OBS: GOOGLE FORMS VAI SER FEITO.
-AGUARDANDO A APROVAÇÃO DA PROFESSORA EM RELAÇÃO SOBRE ESSAS PERGUNTAS.**
 
 # Caso de Teste (EM ATUALIZAÇÃO)
 
