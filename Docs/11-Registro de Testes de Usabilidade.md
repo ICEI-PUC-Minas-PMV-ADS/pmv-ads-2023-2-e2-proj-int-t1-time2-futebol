@@ -20,6 +20,7 @@ Todos os participantes da pesquisa não necessariamente possuem experiência em 
 ## Resultados
 
 Logo abaixo, uma análise objetiva e estatística sobre o resultado de avaliação dos usuários que acessaram e opinaram sobre a aplicação FutScout.
+Vamos abordar o os principais pontos de cada pergunta e aquelas avaliações de maior destaque.
 
 **Figura 1**:
 
