@@ -6,6 +6,11 @@ O teste de usabilidade será realizado por um questionário de UX através da pl
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9fba54e2-381e-48f4-8a34-8f3bb6302f39)
 
+**Imagem do Google Forms quando o usuário responder as respostas:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/c1ab8146-59bc-4efb-95e0-96ececa1becc)
+
+
 Os usuários testados vão responder às seguintes perguntas demonstradas abaixo:
 
     1. Gostaria de utilizar esse sistema com muito mais frequência.
