@@ -1,9 +1,8 @@
 # Registro de Testes de Software
 
-**Obs: Anexar vídeo 01.**
+**Obs: ANEXAR VÍDEO**
 
 
-**Obs: Anexar vídeo 02.**
 
 
 ## CT-01 - Visualizar a Página Principal.
