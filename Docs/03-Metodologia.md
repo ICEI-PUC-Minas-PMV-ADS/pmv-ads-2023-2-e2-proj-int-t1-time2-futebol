@@ -240,7 +240,7 @@ O Vagner, Raul e Lucas ficaram responsáveis pelo cadastro dos Atacantes e Clube
 Até o momento, o Lucas cadastrou 4 atacantes de 6 clubes.
 Para cada time, está sendo anexado 4 atacantes totalizando 24 jogadores.
 
-O Vagner cadastrou 5 clubes e 4 atacantes no projeto.
+O Vagner cadastrou 5 clubes e 4 atacantes no projeto. O Raul também já iniciou os cadastros.
 
 -	**Evidências**:
 
