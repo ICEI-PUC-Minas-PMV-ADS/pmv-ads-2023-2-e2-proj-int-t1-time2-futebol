@@ -244,7 +244,7 @@ O Vagner cadastrou 5 clubes e 4 atacantes no projeto.
 
 -	**Evidências**:
 
-**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 26/10/:**
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 26/10:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/4440f457-80f4-4bc1-9de1-8d2eec5ba8c4)
 
