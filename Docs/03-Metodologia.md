@@ -225,6 +225,30 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, Plano de 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/fefc9ade-75d5-4eeb-a04e-3e6fdf106a5c)
 
+## Etapa 04
+
+Nesta etapa está planejada o Desenvolvimento da solução - Fase 2.
+
+-	**Planejamento**:
+
+Seguindo também a composição dos referentes tópicos: Template padrão da aplicação interativa, Programação de Funcionalidades , Realização e registro dos testes de software, Realização e registro dos testes de usabilidade, Projeto do Github com Backlog e Plano de Sprints e Projeto do Github exportado como .zip com os entregáveis.
+
+-	**Execução**:
+
+O Vagner, Raul e Lucas ficaram responsáveis pelo cadastro dos Atacantes e Clubes em nossa plataforma.
+
+Até o momento, o Lucas cadastrou 4 atacantes de 6 clubes.
+Para cada time, está sendo anexado 4 atacantes totalizando 24 jogadores.
+
+O Vagner cadastrou 5 clubes e 4 atacantes no projeto.
+
+-	**Evidências**:
+
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 26/10/:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/4440f457-80f4-4bc1-9de1-8d2eec5ba8c4)
+
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
