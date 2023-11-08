@@ -30,10 +30,6 @@ As ferramentas empregadas no projeto são:
 | Respositório do Código Fonte | Github | https://github.com/ |
 | Diagramas | draw.io | https://www.diagrams.net/ |
 
-
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/51916992-0011-4a15-87a8-d878730f5c7f
-
-
 O Teams será usado para videoconferências das reuniões de planejamento do sprint, backlog do sprint, revisão do sprit e revisão do sprint. O Whatsapp para comunicações pontuais no decorrer do dia.
 
 A documentação do projeto ficará hospedada no Github, em razão da facilidade de acesso por parte dos integrantes da equipe. Nos casos em que houver necessidade de documentos mais elaborados (apresentações, planilhas, etc), será utilizado o Office 365, com hospedagem no Sharepoint. Da mesma forma serão utilizadas as ferramentas de gerenciamento de projeto da plataforma, bem como a mesma também servirá de repositório para o código fonte, em razaão de suas funcionalidades de controle de versão.
@@ -102,17 +98,9 @@ O integrante Raul entrou no grupo no final da primeira etapa do projeto.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b45537a-7226-44bb-9083-b36f9c3c3ad4)
 
-**Slide Apresentação do Problema e a Solução para o Projeto Scout**:
+**Vídeo Apresentação do Problema e a Solução para o Projeto Scout**:
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/6be6c847-99b4-4430-8e07-52bd24cfd486
-
-**Slide 01**:
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/af58bb47-cabf-42ef-8af9-e8e84982aa32)
-
-**Slide 02**:
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/27a2b92d-a344-4b3e-8426-cceba8ed9243)
 
 ## Etapa 02
 
