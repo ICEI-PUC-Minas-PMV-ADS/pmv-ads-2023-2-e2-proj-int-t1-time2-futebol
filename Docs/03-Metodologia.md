@@ -86,15 +86,15 @@ O integrante Raul entrou no grupo no final da primeira etapa do projeto.
 
 -	**Evidências**:
 
-**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 11/09/:**
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 11/09/2023:**
 
 <img src="Imgs/Backlog.png">
 
-**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 03/09/:**
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 01 do trabalho no dia 03/09/2023:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8003c33c-16c3-4aa9-8ecd-bf7b7029d75d)
 
-**Board Atualizado com os Issues e Milestones concluídos da Etapa 01 no dia 03/09:**
+**Board Atualizado com os Issues e Milestones concluídos da Etapa 01 no dia 03/09/2023:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b45537a-7226-44bb-9083-b36f9c3c3ad4)
 
@@ -131,7 +131,7 @@ Modelo de Entidade Relacional.
 
 -	**Evidências**:
 
-**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 24/09/:**
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 02 do trabalho no dia 24/09/2023:**
 
 **Figura Board 01**:
 
@@ -141,7 +141,7 @@ Modelo de Entidade Relacional.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/42b78203-bc89-4350-935b-9c012e8df908)
 
-**Board Atualizado com os Issues e Milestones concluídos da Etapa 02 no dia 24/09:**
+**Board Atualizado com os Issues e Milestones concluídos da Etapa 02 no dia 24/09/2023:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e3fa1ba6-c1b2-4502-a3b5-e9e08201d77c)
 
@@ -178,7 +178,7 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, Plano de 
 
 -	**Evidências**:
 
-**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 03 do trabalho no dia 05/10/:**
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 03 do trabalho no dia 05/10/2023:**
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/9ef9bab7-a4bb-464f-a090-fc30ebb8494a)
 
@@ -186,15 +186,15 @@ Diogo produziu todas as perguntas dos Planos de Testes de Usabilidade, Plano de 
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/1554472f-6307-43f3-aae8-d7ac683b0096)
 
-  **Board Atualizado com os Issues e Milestones em andamento da Etapa 03 no dia 06/10:**
+  **Board Atualizado com os Issues e Milestones em andamento da Etapa 03 no dia 06/10/2023:**
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/af6c40d4-5a6c-4f7f-abfc-617f23278b41)
 
-  **Atualização do Board do GitHub (Kanban) com as atividades completas de toda a etapa 03 do trabalho no dia 22/10/:**
+  **Atualização do Board do GitHub (Kanban) com as atividades completas de toda a etapa 03 do trabalho no dia 22/10/2023:**
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/5abd4297-0a41-43b3-a14e-fd09d8bcd0df)
 
-  **Board Atualizado com os Issues e Milestones em concluídos da Etapa 03 no dia 22/10:**
+  **Board Atualizado com os Issues e Milestones em concluídos da Etapa 03 no dia 22/10/2023:**
 
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/600830e4-55d3-4a35-b32c-85ac2413ed44)
 
@@ -237,7 +237,7 @@ O Vagner cadastrou 5 clubes e 4 atacantes no projeto. O Raul também já iniciou
 
 -	**Evidências**:
 
-**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 26/10:**
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 26/10/2023:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/4440f457-80f4-4bc1-9de1-8d2eec5ba8c4)
 
