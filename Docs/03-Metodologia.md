@@ -1,4 +1,3 @@
-
 # Metodologia
 
 Contextualizamos todo o processo relacionado ao desenvolvimento do sistema de Scout, ou seja, a metodologia utilizada para o organizar e gerenciar as atribuições do nosso time.
@@ -104,6 +103,8 @@ O integrante Raul entrou no grupo no final da primeira etapa do projeto.
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/0b45537a-7226-44bb-9083-b36f9c3c3ad4)
 
 **Slide Apresentação do Problema e a Solução para o Projeto Scout**:
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/6be6c847-99b4-4430-8e07-52bd24cfd486
 
 **Slide 01**:
 
