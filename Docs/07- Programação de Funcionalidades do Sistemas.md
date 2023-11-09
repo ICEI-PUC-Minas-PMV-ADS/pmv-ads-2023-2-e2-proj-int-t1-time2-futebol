@@ -14,10 +14,9 @@ A correlação dos mesmos está descrita logo abaixo:
 |	RF 006 |  |  |
 | RF 007 |  |  |
 |	RF 008 |  |  |
-|	RF 009 |  |  |
-|	RF 010 |  |  |
-|	RF 011 |  |  |
-|	RF 012 |  |  |
+|	RF 009 | A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada. |  |
+|	RF 010 | A aplicação deve fornecer um ranking de todos os atacantes cadastrados, classificando-os com base em suas tendências, do melhor ao pior. |  |
+
 
 # Instruções de Acesso
 
