@@ -243,7 +243,7 @@ RF-10 -> A aplicação deve fornecer um ranking de todos os atacantes cadastrado
 
 Agora, ambos estão atuando na melhoria do front-end.
 
-Diogo está resonsável pela Programação de Funcionalidades, Plano de Testes de Software, Registro de Testes de Software, Plano de Testes de Usabilidade e Registro de Testes de Usabilidade.
+Diogo está responsável pela Programação de Funcionalidades, Plano de Testes de Software, Registro de Testes de Software, Plano de Testes de Usabilidade e Registro de Testes de Usabilidade.
 
 -	**Evidências**:
 
@@ -251,6 +251,9 @@ Diogo está resonsável pela Programação de Funcionalidades, Plano de Testes d
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/4440f457-80f4-4bc1-9de1-8d2eec5ba8c4)
 
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 09/11/2023:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a100deb1-9b7d-471c-ad44-bdd45a0e6ac0)
 
 ## Controle de Versão
 
