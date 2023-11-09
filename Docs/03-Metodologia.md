@@ -235,13 +235,15 @@ Para cada time, está sendo anexado 4 atacantes totalizando 24 jogadores.
 
 O Vagner cadastrou 5 clubes e 4 atacantes no projeto. O Raul também já iniciou os cadastros.
 
-O Câe atuou na elaboração dos seguintes requisitos: 
+O Câe e o Luiz atuaram na elaboração dos seguintes requisitos: 
 
 RF-09 -> A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada.
 
 RF-10 -> A aplicação deve fornecer um ranking de todos os atacantes cadastrados, classificando-os com base em suas tendências, do melhor ao pior.A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada.
 
-Agora ele está atuando na melhoria do front-end.
+Agora, ambos estão atuando na melhoria do front-end.
+
+Diogo está resonsável pela Programação de Funcionalidades, Plano de Testes de Software, Registro de Testes de Software, Plano de Testes de Usabilidade e Registro de Testes de Usabilidade.
 
 -	**Evidências**:
 
