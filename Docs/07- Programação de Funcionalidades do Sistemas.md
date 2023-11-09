@@ -22,7 +22,7 @@ A correlação dos mesmos está descrita logo abaixo:
 
 A aplicação do projeto está disponível atrávez do seguinte link:
 
-[https://futscout-puc.azurewebsites.net/](https://futscout-puc.azurewebsites.net/)
+https://futscoutpuc.azurewebsites.net/
 
 Para realizar o login deve-se utilizar os seguintes dados:
 
