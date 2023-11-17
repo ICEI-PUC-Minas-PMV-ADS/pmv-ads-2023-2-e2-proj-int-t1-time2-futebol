@@ -2,12 +2,18 @@
 
 O diagrama de classes a seguir demonstra visualmente como será toda a estrutura do software, dessa forma, como cada uma das classes da sua estrutura estarão interligadas. 
 Toddas essas classes demonstradas servem de um modelo com o objetivo de matrerializar os objetos que serão executados na memória.
+Foi utilizada a ferramenta Canva.
 
-**Diagrama de Classes**
+**Diagrama de Classes:**
+
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/128739177/e32a4a0c-438a-4645-b9fc-b79bfdf608a3)
 
 **Figura 1. Diagrama de Classes**
+
+##![Modelo ER](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e91aeaf8-617f-4020-b161-043ed3663809) (Projeto Conceitual)
+
+A seguir o Modelo ER, ele representa através de um diagrama como todas as entidades se relacionam entre si na aplicação interativa. Também foi utilizada a ferramenta Canva.
 
 # Hospedagem
 
