@@ -257,6 +257,18 @@ Caê e o Luiz estão em conjunto, buscando a solução da filtragem de atacantes
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a100deb1-9b7d-471c-ad44-bdd45a0e6ac0)
 
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 17/11/2023:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/8dca813f-9530-487a-84be-8be3be491931)
+
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 19/11/2023:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/dd64da5c-a7c9-44be-bbb9-8d1460467ea4)
+
+**Board Atualizado com os Issues e Milestones em concluídos da Etapa 04 no dia 19/11/2023:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/6ac4c4b9-6846-496d-8874-6c39a0fab876)
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
