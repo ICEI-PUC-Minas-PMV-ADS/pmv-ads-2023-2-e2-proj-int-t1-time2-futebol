@@ -239,11 +239,13 @@ O Câe e o Luiz atuaram na elaboração dos seguintes requisitos:
 
 RF-09 -> A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada.
 
-RF-10 -> A aplicação deve fornecer um ranking de todos os atacantes cadastrados, classificando-os com base em suas tendências, do melhor ao pior.A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada.
+RF-10 -> A aplicação deve fornecer um ranking de todos os atacantes cadastrados, classificando-os com base em suas tendências, do melhor ao pior. A aplicação deve permitir opções para os usuários filtrarem os atacantes por divisão e clube para uma pesquisa mais focada.
 
 Agora, ambos estão atuando na melhoria do front-end.
 
 Diogo está responsável pela Programação de Funcionalidades, Plano de Testes de Software, Registro de Testes de Software, Plano de Testes de Usabilidade e Registro de Testes de Usabilidade.
+
+Caê e o Luiz estão em conjunto, buscando a solução da filtragem de atacantes, divisão e clubes. Já realizaram vários testes, inclusive, com o suporte da monitoria da PUC.
 
 -	**Evidências**:
 
