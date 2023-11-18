@@ -1,108 +1,157 @@
-﻿@model IEnumerable<FutScout_2023.Models.Atacante>
+@model IEnumerable<FutScout_2023.Models.Atacante>
 
 @{
     ViewData["Title"] = "Index";
 }
-
+<style>
+    #Aa {
+        text-decoration: none;
+        font-size: 14px;
+        margin-left: 4px;
+        margin-right: 2px;
+    }
+</style>
 <h1>Lista de Atacantes Série B e C</h1>
 
 @if (User.Identity.IsAuthenticated)
 {
     <p>
-        <a asp-action="Create" class="btn btn-success" >Adicionar novo atacante</a>
+        <a asp-action="Create" class="btn btn-success">Adicionar novo atacante</a>
     </p>
 }
+
+<form method="get">
+    <label for="Clube">Filtrar Clube:</label>
+    <select name="Clube" id="Clube">
+        <option value="" selected="@(string.IsNullOrEmpty(ViewBag.ClubeSelecionado) ? "selected" : "")">Todos</option>
+        @foreach (var clube in (List<string>)ViewBag.TodosOsClubes)
+        {
+            <option value="@clube" selected='@(clube == ViewBag.ClubeSelecionado ? "selected" : null)'>@clube</option>
+
+        }
+    </select>
+    <input type="submit" value="Filtrar" class="btn btn-primary">
+</form>
 <table class="table">
     <thead>
         <tr>
+    <thead>
+        <tr>
             <th>
-                @Html.DisplayNameFor(model => model.Nome)
+                        @Html.DisplayNameFor(model => model.Nome)
+                <a href="@Url.Action("Index", new { sortBy = "Nome", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Nome", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Idade)
+                        @Html.DisplayNameFor(model => model.Idade)
+                <a href="@Url.Action("Index", new { sortBy = "Idade", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Idade", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Clube)
+                        @Html.DisplayNameFor(model => model.Clube)
+                <a href="@Url.Action("Index", new { sortBy = "Clube", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a><br>
+                <a href="@Url.Action("Index", new { sortBy = "Clube", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Partidas2023)
+                        @Html.DisplayNameFor(model => model.Partidas2023)
+                <a href="@Url.Action("Index", new { sortBy = "Partidas2023", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Partidas2023", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Gols2023)
+                        @Html.DisplayNameFor(model => model.Gols2023)
+                <a href="@Url.Action("Index", new { sortBy = "Gols2023", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Gols2023", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Assists2023)
+                        @Html.DisplayNameFor(model => model.Assists2023)
+                <a href="@Url.Action("Index", new { sortBy = "Assists2023", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Assists2023", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Partidas2022)
+                        @Html.DisplayNameFor(model => model.Partidas2022)
+                <a href="@Url.Action("Index", new { sortBy = "Partidas2022", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Partidas2022", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Gols2022)
+                        @Html.DisplayNameFor(model => model.Gols2022)
+                <a href="@Url.Action("Index", new { sortBy = "Gols2022", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Gols2022", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Assists2022)
+                        @Html.DisplayNameFor(model => model.Assists2022)
+                <a href="@Url.Action("Index", new { sortBy = "Assists2022", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Assists2022", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Partidas2021)
+                        @Html.DisplayNameFor(model => model.Partidas2021)
+                <a href="@Url.Action("Index", new { sortBy = "Partidas2021", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Partidas2021", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Gols2021)
+                        @Html.DisplayNameFor(model => model.Gols2021)
+                <a href="@Url.Action("Index", new { sortBy = "Gols2021", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Gols2021", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Assists2021)
+                        @Html.DisplayNameFor(model => model.Assists2021)
+                <a href="@Url.Action("Index", new { sortBy = "Assists2021", sortDirection = "asc", clube = ViewBag.ClubeSelecionado })" id="Aa">↓</a>
+                <a href="@Url.Action("Index", new { sortBy = "Assists2021", sortDirection = "desc", clube = ViewBag.ClubeSelecionado })" id="Aa">↑</a>
             </th>
             <th></th>
         </tr>
     </thead>
+
     <tbody>
-        @foreach (var item in Model) {
+                @foreach (var item in Model)
+                {
             <tr>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Nome)
+                            @Html.DisplayFor(modelItem => item.Nome)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Idade)
+                            @Html.DisplayFor(modelItem => item.Idade)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Clube)
+                            @Html.DisplayFor(modelItem => item.Clube)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Partidas2023)
+                            @Html.DisplayFor(modelItem => item.Partidas2023)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Gols2023)
+                            @Html.DisplayFor(modelItem => item.Gols2023)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Assists2023)
+                            @Html.DisplayFor(modelItem => item.Assists2023)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Partidas2022)
+                            @Html.DisplayFor(modelItem => item.Partidas2022)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Gols2022)
+                            @Html.DisplayFor(modelItem => item.Gols2022)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Assists2022)
+                            @Html.DisplayFor(modelItem => item.Assists2022)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Partidas2021)
+                            @Html.DisplayFor(modelItem => item.Partidas2021)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Gols2021)
+                            @Html.DisplayFor(modelItem => item.Gols2021)
                 </td>
                 <td>
-                    @Html.DisplayFor(modelItem => item.Assists2021)
+                            @Html.DisplayFor(modelItem => item.Assists2021)
                 </td>
                 <td>
                     <a class="btn btn-primary" asp-action="Details" asp-route-id="@item.Id">Visualizar</a>
-                    
-                    @if (User.Identity.IsAuthenticated)
-                    {
+
+                            @if (User.Identity.IsAuthenticated)
+                            {
                         <a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Editar</a>
                         <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
-                    }
-            </td>
-        </tr>
-}
+                            }
+                </td>
+            </tr>
+                }
     </tbody>
 </table>
+
