@@ -21,8 +21,6 @@ A seguir o Modelo ER, ele representa através de um diagrama como todas as entid
 
 ## Projeto da Base de Dados
 
-Conforme os p
-
 Conforme a base do Modelo ER registrado anteriormente, foi criado o Projeto da Base de Dados da plataforma.
 Foi realizada a representação das entidades de relacionamentos utilizando as chaves primárias (PK), estrangeiras (FK), reproduções de formatos de tabelas e colunas.
 O projeto foi concretizado utilizando a ferramenta Canva.
