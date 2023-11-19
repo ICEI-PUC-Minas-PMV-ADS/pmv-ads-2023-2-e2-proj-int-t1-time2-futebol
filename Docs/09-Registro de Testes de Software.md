@@ -1,12 +1,20 @@
 # Registro de Testes de Software
 
+Seguindo a etapa do Registro de Testes foi realizado duas gravações onde foi demonstrado de maneira prática, uma navegação direta em nossa plataforma.
 
+Dessa forma, os dois vídeos registrados validam de maneira dinâmica todos os Casos de Testes, listados de **CT-01** até o **CT_12**.
 
 # Vídeo 01:
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/127213695/d1ce3432-d963-48a5-a546-10f3c8474a15
 
+# Vídeo 02:
 
+>>>>>>>>>>>>>>>COLOCAR O VÍDEO 02<<<<<<<<<<<<<<<<<
+
+Logo abaixo, segue o registro descritivo de cada Caso de Teste e as suas especificidades que foram claramente demonstradas nos dois vídeos.
+
+# Descrição dos Caso de Teste
 
 ## CT-01 - Visualizar a Página Principal.
 
