@@ -1,6 +1,6 @@
 # Plano de Usabilidade
 
-O teste de usabilidade será realizado por um questionário de UX através da plataforma Google Forms, sistema este popularmente conhecido, o que facilita na participação de uma vasta pluralidade de usuários.
+Após os registros realizados dos casos de testes e a validação prática exibida no Vídeo 01 e Vídeo 02, o teste de usabilidade foi realizado por um questionário de UX através da plataforma Google Forms, sistema este popularmente conhecido, o que facilita na participação de uma vasta pluralidade de usuários.
 
 **Imagem do Google Forms criado:**
 
