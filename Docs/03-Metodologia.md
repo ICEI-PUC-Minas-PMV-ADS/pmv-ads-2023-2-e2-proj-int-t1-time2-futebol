@@ -247,7 +247,7 @@ Diogo está responsável pela Programação de Funcionalidades, Plano de Testes 
 
 Caê e o Luiz estão em conjunto, buscando a solução da filtragem de atacantes, divisão e clubes. Já realizaram vários testes, inclusive, com o suporte da monitoria da PUC.
 
-O Diogo, seguindo as orientações do último encontro junto com a orientadora, produziu o Modelo ER (Projeto Conceitual) que estava pendente.
+O Diogo, seguindo as orientações do último encontro com a orientadora, produziu o Modelo ER (Projeto Conceitual) que estava pendente.
 
 Luiz e Câe conseguiram resolver o problema da ordenação, dessa forma, agora a plataforma está 100% funcional e atualizada. O Commit das alterações do controller de clubes e atacantes dentro de views além do índex de clubes e atacantes seguiram as mesmas modificações e estão totalmente atualizadas no Github.
 
