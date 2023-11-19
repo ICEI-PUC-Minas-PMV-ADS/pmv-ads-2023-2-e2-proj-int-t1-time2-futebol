@@ -12,9 +12,9 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-fu
 
 >>>>>>>>>>>>>>>COLOCAR O VÍDEO 02<<<<<<<<<<<<<<<<<
 
-Logo abaixo, segue o registro descritivo de cada Caso de Teste e as suas especificidades que foram claramente demonstradas nos dois vídeos.
+# Descrição dos Casos de Testes
 
-# Descrição dos Caso de Teste
+Logo abaixo, segue os registros descritivos de cada Caso de Teste e as suas especificidades que foram claramente demonstradas nos Vídeos 01 e Vídeo 02.
 
 ## CT-01 - Visualizar a Página Principal.
 
