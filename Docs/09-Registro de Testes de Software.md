@@ -2,13 +2,13 @@
 
 Seguindo a etapa do Registro de Testes foi realizado duas gravações onde foi demonstrado de maneira prática, uma navegação direta em nossa plataforma.
 
-Dessa forma, os dois vídeos registrados validam de maneira dinâmica todos os Casos de Testes, listados de **CT-01** até o **CT-12**.
+Dessa forma, os dois vídeos registrados validam de maneira dinâmica todos os Casos de Testes, listados da numeração **CT-01** até o de número **CT-12**.
 
-# Vídeo 01:
+# Vídeo 01: Primeiro Registro
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/127213695/d1ce3432-d963-48a5-a546-10f3c8474a15
 
-# Vídeo 02:
+# Vídeo 02: Segundo Registro
 
 >>>>>>>>>>>>>>>COLOCAR O VÍDEO 02<<<<<<<<<<<<<<<<<
 
