@@ -1,5 +1,7 @@
 # Registro de Testes de Software
 
+
+
 # Vídeo 01:
 
 https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/127213695/d1ce3432-d963-48a5-a546-10f3c8474a15
