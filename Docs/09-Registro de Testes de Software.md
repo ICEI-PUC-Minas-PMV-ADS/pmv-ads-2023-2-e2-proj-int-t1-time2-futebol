@@ -10,7 +10,11 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-fu
 
 # Vídeo 02: Segundo Registro
 
-**>>>>>>>>>>>>>>>COLOCAR O VÍDEO 02<<<<<<<<<<<<<<<<<**
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/127213695/117e3aea-d0e5-4988-88e3-a18e2284b67f
+
+
 
 # Descrição dos Casos de Testes
 
