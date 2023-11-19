@@ -2,7 +2,7 @@
 
 Seguindo a etapa do Registro de Testes foi realizado duas gravações onde foi demonstrado de maneira prática, uma navegação direta em nossa plataforma.
 
-Dessa forma, os dois vídeos registrados validam de maneira dinâmica todos os Casos de Testes, listados de **CT-01** até o **CT_12**.
+Dessa forma, os dois vídeos registrados validam de maneira dinâmica todos os Casos de Testes, listados de **CT-01** até o **CT-12**.
 
 # Vídeo 01:
 
