@@ -25,6 +25,9 @@ Conforme a base do Modelo ER registrado anteriormente, foi criado o Projeto da B
 Foi realizada a representação das entidades de relacionamentos utilizando as chaves primárias (PK), estrangeiras (FK), reproduções de formatos de tabelas e colunas.
 O projeto foi concretizado utilizando a ferramenta Canva.
 
+![DIAGRAMA PROJETO BASE DE DADOS](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/76dbaf1b-8469-4c53-a3c0-f8e27a35f3d9)
+
+**Figura 1. Projeto da Base de Dados**
 
 # Hospedagem
 
