@@ -251,6 +251,8 @@ O Diogo, seguindo as orientações do último encontro com a orientadora, produz
 
 Luiz e Câe conseguiram resolver o problema da ordenação, dessa forma, agora a plataforma está 100% funcional e atualizada. O Commit das alterações do controller de clubes e atacantes dentro de views além do índex de clubes e atacantes seguiram as mesmas modificações e estão totalmente atualizadas no Github.
 
+O Diogo encaminhou os entregáveis da etapa 4 do Projeto.
+
 -	**Evidências**:
 
 **Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 26/10/2023:**
@@ -273,7 +275,26 @@ Luiz e Câe conseguiram resolver o problema da ordenação, dessa forma, agora a
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/6ac4c4b9-6846-496d-8874-6c39a0fab876)
 
-## Controle de Versão
+## Etapa 05
+
+Relatórios das avaliações e entrega da solução.
+
+-	**Planejamento**:
+
+Seguindo também a composição dos referentes tópicos: Relatório do teste de software, Relatório do teste de usabilidade, Apresentação da solução, Projeto do Github com Backlog e Plano de Sprints, Vídeo de até 3 minutos e Projeto do Github exportado como .zip com os entregáveis.
+
+-	**Execução**:
+
+-	-	**Evidências**:
+
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 5 do trabalho no dia 23/11/2023:**
+
+
+
+
+
+
+## Controle de Versão 
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
 
