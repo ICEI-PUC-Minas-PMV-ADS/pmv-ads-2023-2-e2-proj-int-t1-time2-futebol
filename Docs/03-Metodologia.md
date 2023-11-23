@@ -285,7 +285,7 @@ Seguindo também a composição dos referentes tópicos: Relatório do teste de 
 
 -	**Execução**:
 
--	-	**Evidências**:
+- **Evidências**:
 
 **Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 5 do trabalho no dia 23/11/2023:**
 
