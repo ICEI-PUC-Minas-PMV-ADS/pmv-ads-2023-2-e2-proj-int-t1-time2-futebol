@@ -289,10 +289,7 @@ Seguindo também a composição dos referentes tópicos: Relatório do teste de 
 
 **Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 5 do trabalho no dia 23/11/2023:**
 
-
-
-
-
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/43011970-8317-45cc-a57e-d853513e89e4)
 
 ## Controle de Versão 
 
