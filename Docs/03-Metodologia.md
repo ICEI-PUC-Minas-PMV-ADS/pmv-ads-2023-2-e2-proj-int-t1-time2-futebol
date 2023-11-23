@@ -285,6 +285,10 @@ Seguindo também a composição dos referentes tópicos: Relatório do teste de 
 
 -	**Execução**:
 
+  Luiz, Caê, Diogo e Daniel Dutra estão aguardando o feedback da orientadora sobre a etapa 04 para realizar as próximas tarefas da Etapa 05.
+
+  O Diogo já atualizou o Board com os Issues e os Millestones da Etapa 05, ele também já começou a produzir os slides para a apresentação final.
+  
 - **Evidências**:
 
 **Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 5 do trabalho no dia 23/11/2023:**
