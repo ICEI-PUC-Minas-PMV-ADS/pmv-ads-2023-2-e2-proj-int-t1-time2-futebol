@@ -53,42 +53,42 @@ O usuário consegue visualizar as estatísticas do Atacante cadastrado. Além di
 
 Nome, Idade, Clube, Partidas, Gols e Assistências nos anos de 201, 2022 e 2023.
 
-## CT-06 - Deletar as Estatísticas dos Atacantes Cadastrados.
+## CT-07 - Deletar as Estatísticas dos Atacantes Cadastrados.
 
 É permitido que o usuário consiga deletar e excluir o perfil do atacante cadastrado na aplicação.
 
-## CT-07 - Verificar os Usuários Cadastrados na Aplicação.
+## CT-08 - Verificar os Usuários Cadastrados na Aplicação.
 
 O Apenas o Usuário cadastrado como Administrador consegue visualizar os usuários cadastrados na aplicação tal como editar as informações de cadastro.
 
-## CT-06 - Editar os dados pessoais do Usuário.
+## CT-09 - Editar os dados pessoais do Usuário.
 
 É possível editar e salvar os dados pessoais cadastrados como Nome, Senha e Perfil (Administrador e Usuário).
 
-## CT-07 - Confirmação dos Detalhes Registados da Aplicação.
+## CT-10 - Confirmação dos Detalhes Registados da Aplicação.
 
 O usuário consegue verificar os dados pessoais cadastrdaos na aplicação clicando na opção "Details".
 
-## CT-08 - Deletar o Usuário Cadastrado.
+## CT-11 - Deletar o Usuário Cadastrado.
 
 É possível que o usuário consiga deletar a sua conta, apagando todos os dados pessoais cadastrados na plataforma.
 
-## CT-09 - Cadastrar Clubes de Futebol.
+## CT-12 - Cadastrar Clubes de Futebol.
 
 É possível que qualquer usuário possa cadastrar no site um Clube de Futebol, a aplicação deve permitir isso.
 
 Os usuários conseguem cadastrar com sucesso na aplicação.
 
-## CT-10 - Editar e Visualizar os Dados dos Clubes.
+## CT-13 - Editar e Visualizar os Dados dos Clubes.
 
 O usuário consegue visualizar as estatísticas dos Atacantes de um determinado Clube cadastrado. Além disso, é possível editar os seguintes dados:
 
 Nome, Série, Estatísticas do Clube e dos Atacantes que atuam na mesma equipe.
 
-## CT-11 - Deletar os Clubes Cadastrados.
+## CT-14 - Deletar os Clubes Cadastrados.
 
 O usuário consegue deletas o cadastro do Clube cadastrado na plataforma e excluir todos os dados.
 
-## CT-12- Políticas de Privacidade.
+## CT-15- Políticas de Privacidade.
 
 O usuário consegue acessar corretamente as Políticas de Privacidade do servidor, clicando na opção "Privacy".
