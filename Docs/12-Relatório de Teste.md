@@ -6,6 +6,18 @@ Dessa forma, vão ser contextualizadas as ações que os usuários realizaram ao
 
 Será vísivel todas as atividades que foram tomadas pelos terceiros perante as dificuldades conforme o uso da informaçao e a usabilidade que a plataforma FutScore oferece.
 
+# Vídeo 01
+
+
+**Usuário**: Gilmar Horta, 
+
+
+
+
+
+
+# Plano de Testes de Software
+
 
 
 
