@@ -12,7 +12,8 @@ Será vísivel todas as atividades que foram tomadas pelos terceiros perante as 
 **Usuário**:
 
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/b0dff09d-7b3a-41d2-a44f-fc79777a9ab2)
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/599a73fe-ceff-426c-aa1f-c784c6fc6268)
+
 
 Gilmar Horta, profissional de Design Gráfico e apreciador de jogos de Futebol.
 
