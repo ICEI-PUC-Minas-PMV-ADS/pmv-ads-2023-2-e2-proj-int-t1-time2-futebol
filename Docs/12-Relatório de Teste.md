@@ -105,6 +105,8 @@ Todas as tarefas que os usuários tiveram contato seguindo os casos de testes pr
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/df18c870-eb23-4a99-b130-cd6528c6c2ff)
 
+**Figura: Gráfico do Percentual da Experiência do Usuário**
+
 # Conclusão:
 
 A proposta do aplicativo visa atingir não apenas entusiastas do Futebol, mas também, profissionais desse ramo esportivo como treinadores, auxiliares técnicos e jornalistas.
