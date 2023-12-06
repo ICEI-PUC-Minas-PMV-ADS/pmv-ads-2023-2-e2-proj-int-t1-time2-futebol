@@ -107,7 +107,7 @@ Todas as tarefas que os usuários tiveram contato seguindo os casos de testes pr
 
 **Figura: Gráfico do Percentual da Experiência do Usuário**
 
-# Conclusão:
+# Conclusão
 
 A proposta do aplicativo visa atingir não apenas entusiastas do Futebol, mas também, profissionais desse ramo esportivo como treinadores, auxiliares técnicos e jornalistas.
 Por existir essa especificação em nosso público-alvo é necessário mais tempo hábil para realizar uma pesquisa mais ampla e aplicar muito mais testes.
