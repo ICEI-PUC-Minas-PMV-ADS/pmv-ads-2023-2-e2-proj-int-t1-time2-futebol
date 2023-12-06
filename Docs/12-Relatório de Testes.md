@@ -19,6 +19,10 @@ Gosta de apostar com os amigos os resultados e a desempenho dos atacantes dos ti
 
 # Usuário 01 - Vídeo do seu Teste na Plataforma FutScore:
 
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/127213695/50ebb6e6-2496-47a5-bd98-33d2dacce4cc
+
+
 # Usuário 02: Amanda Campos
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a49ea484-ae61-4ee9-a8e6-9bbbcc48b87d)
@@ -30,6 +34,10 @@ Mora em São Paulo, gosta de verificar novos talentos que estão surgindo nos cl
 Ela compartilha alguns dados estatísticos no grupo de futebol que participa com vários amigos.
 
 # Usuário 02 - Vídeo do seu Teste na Plataforma FutScore:
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/127213695/99b0f9a6-82cb-4c1a-8c4d-13f44cfd6e3e
+
 
 # Percentual dos Casos
 
