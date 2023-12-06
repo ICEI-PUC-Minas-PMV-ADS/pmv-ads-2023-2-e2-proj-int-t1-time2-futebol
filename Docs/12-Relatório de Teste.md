@@ -9,7 +9,9 @@ Será vísivel todas as atividades que foram tomadas pelos terceiros perante as 
 # Vídeo 01
 
 
-**Usuário**: Gilmar Horta, 
+**Usuário**:
+Gilmar Horta, profissional de Design Gráfico e apreciador de jogos de Futebol.
+
 
 
 
