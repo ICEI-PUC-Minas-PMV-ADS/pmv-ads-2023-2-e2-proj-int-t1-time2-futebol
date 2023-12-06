@@ -6,7 +6,7 @@ Dessa forma, vão ser contextualizadas as ações que os usuários realizaram ao
 
 Será vísivel todas as atividades que foram tomadas pelos terceiros perante as dificuldades conforme o uso da informaçao e a usabilidade que a plataforma FutScore oferece.
 
-# Usuários
+# Navegação e Testes dos Usuários
 
 # Usuário 01: Gilmar Horta
 
