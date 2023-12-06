@@ -35,7 +35,7 @@ Ela compartilha alguns dados estatísticos no grupo de futebol que participa com
 
 De acordo com o Plano de Testes de Usabilidade presente em nosso trabalho, os seguintes Casos de Testes abaixos foram realizados com 100% de sucesso.
 
-Os usuários Gilmr Horta e Amanda Campos conseguiram efetuar todos os Casos de Testes apresentados:
+Os usuários Gilmar Horta e Amanda Campos conseguiram efetuar todos os Casos de Testes apresentados:
 
 | **Caso de Teste** 	| **CT-12 - Navegadores**                                                                           	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
