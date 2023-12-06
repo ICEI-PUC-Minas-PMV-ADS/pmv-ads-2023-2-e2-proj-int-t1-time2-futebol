@@ -299,10 +299,13 @@ Seguindo também a composição dos referentes tópicos: Relatório do teste de 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e7c1d8df-754f-45bb-ad86-6c9ab9397402)
 
+****Board Atualizado com os Issues e Milestones em concluídos da Etapa 05 no dia 06/12/2023:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/d106ba4c-5cf2-4a60-b732-b273dc6f9cf9)
+
 **Projeto FutScout Concluído:**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/2e649974-11d0-4bef-bf16-b0a62a2ca8bb)
-
 
 
 ## Controle de Versão 
