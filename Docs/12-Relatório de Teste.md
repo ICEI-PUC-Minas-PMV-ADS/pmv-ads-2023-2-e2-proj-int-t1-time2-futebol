@@ -23,7 +23,7 @@ Gosta de apostar com os amigos os resultados e a desempenho dos atacantes dos ti
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a49ea484-ae61-4ee9-a8e6-9bbbcc48b87d)
 
-Amanda Campos, 32 anos, profissional de Tecnologia da Informação, gosta de acompanhar os jogos para fazer companhia ao marido.
+Amanda Campos, 32 anos, profissional de Tecnologia da Informação, gosta de acompanhar os jogos de futebol para fazer companhia ao marido.
 
 Mora em São Paulo, gosta de verificar novos talentos que estão surgindo nos clubes, utilizam de dados estatísticos para apostar em plataformas esportivas.
 
