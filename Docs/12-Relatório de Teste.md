@@ -65,7 +65,7 @@ Os usuários Gilmr Horta e Amanda Campos conseguiram efetuar todos os Casos de T
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Testar a aplicação em PC, Smartphones, Tablets, iPads, E-Reader e em outros diversos aparelhos.                     |
 | Critério de Êxito  | Todos os meios de acesso da aplicação é responsiva em celulares, tabletes, computadores entre outros.    
 
-Além desses Casos de Testes, os usuários Gilmar Horta e Amanda conseguiram navegar no App FutScore e realizar todas as seguintes ações:
+Além desses Casos de Testes anteriores, os usuários Gilmar Horta e Amanda conseguiram navegar no App FutScore e realizar todas as seguintes ações:
 
 **CT-01 - Visualizar a Página Principal.**
 
