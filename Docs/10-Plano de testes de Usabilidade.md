@@ -1,4 +1,4 @@
-# Plano de Usabilidade
+# Plano de Testes Usabilidade
 
 Após os registros realizados dos casos de testes e a validação prática exibida no Vídeo 01 e Vídeo 02, o teste de usabilidade foi realizado por um questionário de UX através da plataforma Google Forms.
 
