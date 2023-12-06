@@ -67,35 +67,35 @@ Os usuários Gilmr Horta e Amanda Campos conseguiram efetuar todos os Casos de T
 
 Além desses Casos de Testes, os usuários Gilmar Horta e Amanda conseguiram navegar no App FutScore e realizar todas as seguintes ações:
 
-## CT-01 - Visualizar a Página Principal.
+**CT-01 - Visualizar a Página Principal.**
 
-## CT-02 - Login de Usuário.
+**CT-02 - Login de Usuário.**
 
-## CT-03 - Cadastrar Usuário.
+**CT-03 - Cadastrar Usuário.**
 
-## CT-04 - Verificar Lista de Atacantes da Séries B e C.
+**CT-04 - Verificar Lista de Atacantes da Séries B e C.**
 
-## CT-05 - Editar os dados dos Atacantes da Séries B e C.
+**CT-05 - Editar os dados dos Atacantes da Séries B e C**
 
-## CT-06 - Editar e Visualizar as Estatísticas dos Atacantes.
+**CT-06 - Editar e Visualizar as Estatísticas dos Atacantes.**
 
-## CT-07 - Deletar as Estatísticas dos Atacantes Cadastrados.
+**CT-07 - Deletar as Estatísticas dos Atacantes Cadastrados.**
 
-## CT-08 - Verificar os Usuários Cadastrados na Aplicação.
+**CT-08 - Verificar os Usuários Cadastrados na Aplicação.**
 
-## CT-09 - Editar os dados pessoais do Usuário.
+**CT-09 - Editar os dados pessoais do Usuário.**
 
-## CT-10 - Confirmação dos Detalhes Registados da Aplicação.
+**CT-10 - Confirmação dos Detalhes Registados da Aplicação.**
 
-## CT-11 - Deletar o Usuário Cadastrado.
+**CT-11 - Deletar o Usuário Cadastrado.**
 
-## CT-12 - Cadastrar Clubes de Futebol.
+**CT-12 - Cadastrar Clubes de Futebol.**
 
-## CT-13 - Editar e Visualizar os Dados dos Clubes.
+**CT-13 - Editar e Visualizar os Dados dos Clubes.**
 
-## CT-14 - Deletar os Clubes Cadastrados.
+**CT-14 - Deletar os Clubes Cadastrados.**
 
-## CT-15- Políticas de Privacidade.
+**CT-15- Políticas de Privacidade.**
 
 
 
