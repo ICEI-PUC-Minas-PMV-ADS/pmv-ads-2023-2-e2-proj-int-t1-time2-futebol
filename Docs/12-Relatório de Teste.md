@@ -31,26 +31,39 @@ Ela compartilha alguns dados estatísticos no grupo de futebol que participa com
 
 # Vídeo do seu Teste na Plataforma FutScore:
 
+# Percentual dos Casos
 
+De acordo com o Plano de Testes de Usabilidade presente em nosso trabalho, os seguintes Casos de Testes abaixos foram realizados com 100% de sucesso.
 
+Os usuários Gilmr Horta e Amanda Campos conseguiram efetuar todos os Casos de Testes apresentados:
 
+| **Caso de Teste** 	| **CT-12 - Navegadores**                                                                           	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RNF-04- A aplicação deve ser totalmente compatível com os principais navegadores utilizados do mercado (Google Chrome, Mozila Firefox, Microsoft Edge, Apple Safari e Opera).   |
+| Objetivo do Teste 	| Confirmar se o usuário consegue visualizar a aplicação interativa em outros navegadores.                                     |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Testar a aplicação em outros navegadores                      |
+| Critério de Êxito  | A aplicação demonstra ser totalmente compatível com os principais navegadores do mercado.   
 
+| **Caso de Teste** 	| **CT-13 - Usuários**                                                                           	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RNF-005	Não é permitido o recebimento de cadastros de usuários com todos aqueles dados necessários.   |
+| Objetivo do Teste 	| Confirmar se o usuário consegue cadastrar sem preencher qualquer dado descrito, deixando em branco essa opção.                                     |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Acessar "registrar" <br> 4. Tentar cadastrar um usuário sem dado algum. <br> 5. salvar dados após essa tentativa|
+| Critério de Êxito  | Não vai ser permitido o cadastro do usuário nesse caso, pois é necessário preencher e confirmar todos os dados.     | 
 
+| **Caso de Teste** 	| **CT-14 - Erro de Login e Cadastro**                                                                           	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RNF-006	A aplicação deve informar de forma instantânea o erro de login e de cadastro para aquele usuário caso os dados informados não estejam dentro do banco de dados.
+| Objetivo do Teste 	| Confirmar ao realizar o cadastro ou login se algum erro ou falha vai ser emitido.                                   |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Efetuar o cadastro de forma errada. <br> 4. Verificar se é demonstrado alguma falha.|
+| Critério de Êxito  | Vai ser retornado uma falha no registro do usuário em questão.      
 
-
-# Plano de Testes de Software
-
-Compilado de testes que foram executados.
-
-ações que foram tomadas perante erros, ou, dificuldades que terceiros indicaram.
-
-Não erro, mas dificulade de achar informações, USABILIDADE, uso da informação.
-
-Exemplo: A informação não está clara por exemplo.
-
-Apuração, compilação.
-
-Exemplo: Corrigiu, testou de novo com outra pessoa e deu certo, apresentamos essa solução, mas, aprasentou outro problema.
+| **Caso de Teste** 	| **CT-15 - Responsividade**                                                                           	|
+|--------------------|-----------------------------------------------------------------------------------------------------|
+|	Requisito Associado| RNF-002	A aplicação deverá ser totalmente responsiva permitindo a visualização em diferentes telas de navegação (PC, Smartphones, Tablets, iPads, E-Reader etc) de forma proporcional ao layout e adequada   |
+| Objetivo do Teste 	| Verificar se o usuário consegue visualizar a aplicação em diferentes aparelhos. Assim, confirmando se a aplicação é totalmente responsiva.                                     |
+| Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Testar a aplicação em PC, Smartphones, Tablets, iPads, E-Reader e em outros diversos aparelhos.                     |
+| Critério de Êxito  | Todos os meios de acesso da aplicação é responsiva em celulares, tabletes, computadores entre outros.        
 
 # Percentual dos Casos**
 
