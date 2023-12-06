@@ -97,8 +97,6 @@ Além desses Casos de Testes anteriores, os usuários Gilmar Horta e Amanda cons
 
 **CT-15- Políticas de Privacidade.**
 
-
-
-# Justificativa:
+# Conclusão:
 
 Não vamos corrigir por agora, vamos corrigir em uma segunda versão da aplicação. 
