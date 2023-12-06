@@ -311,7 +311,3 @@ Seguindo também a composição dos referentes tópicos: Relatório do teste de 
 ## Controle de Versão 
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
-
-O projeto segue a seguinte convenção para o nome da branche:
-
-- `main`: versão estável já testada do software
