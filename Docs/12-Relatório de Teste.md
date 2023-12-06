@@ -8,7 +8,7 @@ Será vísivel todas as atividades que foram tomadas pelos terceiros perante as 
 
 # Usuários
 
-**Gilmar Horta**
+**Usuário 01: Gilmar Horta**
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/599a73fe-ceff-426c-aa1f-c784c6fc6268)
 
@@ -16,6 +16,18 @@ Gilmar Horta, 34 anos, profissional de Design Gráfico e apreciador de jogos de 
 
 Mora em Belo Horizonte e gosta de entender as estatísticas e a evolução de jogadores desconhecidos.
 Gosta de apostar com os amigos os resultados e a desempenho dos atacantes dos times de futebol.
+
+# Vídeo do seu Teste na Plataforma FutScore:
+
+**Usuário 02: Amanda Campos**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a49ea484-ae61-4ee9-a8e6-9bbbcc48b87d)
+
+Amanda Campos, 32 anos, profissional de Tecnologia da Informação, gosta de acompanhar os jogos para fazer companhia ao marido.
+
+Mora em São Paulo, gosta de verificar novos talentos que estão surgindo nos clubes, utilizam de dados estatísticos para apostar em plataformas esportivas.
+
+Ela compartilha alguns dados estatísticos no grupo de futebol que participa com vários amigos.
 
 # Vídeo do seu Teste na Plataforma FutScore:
 
@@ -27,10 +39,6 @@ Gosta de apostar com os amigos os resultados e a desempenho dos atacantes dos ti
 
 
 # Plano de Testes de Software
-
-
-
-
 
 Compilado de testes que foram executados.
 
