@@ -8,7 +8,7 @@ Será vísivel todas as atividades que foram tomadas pelos terceiros perante as 
 
 # Usuários
 
-**Usuário 01: Gilmar Horta**
+# Usuário 01: Gilmar Horta
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/599a73fe-ceff-426c-aa1f-c784c6fc6268)
 
@@ -19,7 +19,7 @@ Gosta de apostar com os amigos os resultados e a desempenho dos atacantes dos ti
 
 # Vídeo do seu Teste na Plataforma FutScore:
 
-**Usuário 02: Amanda Campos**
+# Usuário 02: Amanda Campos
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/a49ea484-ae61-4ee9-a8e6-9bbbcc48b87d)
 
