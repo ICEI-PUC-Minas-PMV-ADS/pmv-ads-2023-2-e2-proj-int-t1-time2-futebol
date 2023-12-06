@@ -98,6 +98,7 @@ Além dos casos de testes anteriores, os usuários Gilmar Horta e Amanda consegu
 **CT-15- Políticas de Privacidade.**
 
 Dessa forma, o o cálculo do percentual de casos bem sucedidos atingiu 100%.
+
 Todas as tarefas que os usuários tiveram contato alcançaram êxito total.
 
 # Gráfico do Percentual da Experiência do Usuário
