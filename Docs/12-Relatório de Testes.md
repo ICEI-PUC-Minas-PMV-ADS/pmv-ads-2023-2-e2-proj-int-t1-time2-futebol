@@ -17,7 +17,7 @@ Gilmar Horta, 34 anos, profissional de Design Gráfico e apreciador de jogos de 
 Mora em Belo Horizonte e gosta de entender as estatísticas e a evolução de jogadores desconhecidos.
 Gosta de apostar com os amigos os resultados e a desempenho dos atacantes dos times de futebol.
 
-# Vídeo do seu Teste na Plataforma FutScore:
+# Usuário 01 - Vídeo do seu Teste na Plataforma FutScore:
 
 # Usuário 02: Amanda Campos
 
@@ -29,7 +29,7 @@ Mora em São Paulo, gosta de verificar novos talentos que estão surgindo nos cl
 
 Ela compartilha alguns dados estatísticos no grupo de futebol que participa com vários amigos.
 
-# Vídeo do seu Teste na Plataforma FutScore:
+# Usuário 02 - Vídeo do seu Teste na Plataforma FutScore:
 
 # Percentual dos Casos
 
