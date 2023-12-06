@@ -97,6 +97,13 @@ Além desses Casos de Testes anteriores, os usuários Gilmar Horta e Amanda cons
 
 **CT-15- Políticas de Privacidade.**
 
+Dessa forma, o o cálculo do percentual de casos bem sucedidos atingiu 100%.
+Todas as tarefas que os usuários tiveram contato alcançaram êxito total.
+
+**Gráfico Percentual da Experiência do Usuário**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/df18c870-eb23-4a99-b130-cd6528c6c2ff)
+
 # Conclusão:
 
 Não vamos corrigir por agora, vamos corrigir em uma segunda versão da aplicação. 
