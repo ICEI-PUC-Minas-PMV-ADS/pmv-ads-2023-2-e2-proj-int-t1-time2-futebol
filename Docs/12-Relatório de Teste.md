@@ -17,7 +17,7 @@ Gilmar Horta, 34 anos, profissional de Design Gráfico e apreciador de jogos de 
 Mora em Belo Horizonte e gosta de entender as estatísticas e a evolução de jogadores desconhecidos.
 Gosta de apostar com os amigos os resultados e a desempenho dos atacantes dos times de futebol.
 
-# Vídeo do seu Teste na Plataforma FutScore
+# Vídeo do seu Teste na Plataforma FutScore:
 
 
 
