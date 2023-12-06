@@ -63,13 +63,41 @@ Os usuários Gilmr Horta e Amanda Campos conseguiram efetuar todos os Casos de T
 |	Requisito Associado| RNF-002	A aplicação deverá ser totalmente responsiva permitindo a visualização em diferentes telas de navegação (PC, Smartphones, Tablets, iPads, E-Reader etc) de forma proporcional ao layout e adequada   |
 | Objetivo do Teste 	| Verificar se o usuário consegue visualizar a aplicação em diferentes aparelhos. Assim, confirmando se a aplicação é totalmente responsiva.                                     |
 | Passos 	           | 1. Acessar o Navegador<br>2. Informar o endereço do Site<br>3. Testar a aplicação em PC, Smartphones, Tablets, iPads, E-Reader e em outros diversos aparelhos.                     |
-| Critério de Êxito  | Todos os meios de acesso da aplicação é responsiva em celulares, tabletes, computadores entre outros.        
+| Critério de Êxito  | Todos os meios de acesso da aplicação é responsiva em celulares, tabletes, computadores entre outros.    
 
-# Percentual dos Casos**
+Além desses Casos de Testes, os usuários Gilmar Horta e Amanda conseguiram navegar no App FutScore e realizar todas as seguintes ações:
 
-Percentual de casos bem sucedidos, calcular percentual, 100% das tarefas que a pessoa fez, qual é o percentual que deu tudo certo?
+## CT-01 - Visualizar a Página Principal.
 
-Ideal pegar uma de cada persona
+## CT-02 - Login de Usuário.
+
+## CT-03 - Cadastrar Usuário.
+
+## CT-04 - Verificar Lista de Atacantes da Séries B e C.
+
+## CT-05 - Editar os dados dos Atacantes da Séries B e C.
+
+## CT-06 - Editar e Visualizar as Estatísticas dos Atacantes.
+
+## CT-07 - Deletar as Estatísticas dos Atacantes Cadastrados.
+
+## CT-08 - Verificar os Usuários Cadastrados na Aplicação.
+
+## CT-09 - Editar os dados pessoais do Usuário.
+
+## CT-10 - Confirmação dos Detalhes Registados da Aplicação.
+
+## CT-11 - Deletar o Usuário Cadastrado.
+
+## CT-12 - Cadastrar Clubes de Futebol.
+
+## CT-13 - Editar e Visualizar os Dados dos Clubes.
+
+## CT-14 - Deletar os Clubes Cadastrados.
+
+## CT-15- Políticas de Privacidade.
+
+
 
 # Justificativa:
 
