@@ -107,4 +107,10 @@ Todas as tarefas que os usuários tiveram contato alcançaram êxito total.
 
 # Conclusão:
 
-Não vamos corrigir por agora, vamos corrigir em uma segunda versão da aplicação. 
+A proposta do aplicativo visa atingir não apenas entusiastas do Futebol, mas também, profissionais desse ramo esportivo como treinadores, auxiliares técnicos e jornalistas.
+Por existir essa especificação em nosso público-alvo é necessário mais tempo hábil para realizar uma pesquisa mais ampla e aplicar muito mais testes.
+
+Assim, naturalmente vai ser possível verificar mais dados e eventuais pontos de melhorias em nossa aplicação pensando diretamente na experiência do nosso usuário.
+Portanto, não vamos ampliar esse volume de testes por agora, mas iremos corrigir em uma segunda versão da aplicação do FutScore.
+
+Não vamos corrigir por agora, vamos corrigir em uma segunda versão da aplicação.
