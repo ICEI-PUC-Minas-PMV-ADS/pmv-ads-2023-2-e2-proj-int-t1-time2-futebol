@@ -14,6 +14,12 @@
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/be468799-96d7-42a0-b057-f714d78500ca)
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/35c0d886-f768-46cc-9ac1-653ffa99b8e1)
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/83bd0abd-4854-4b3c-85a3-b97c624ad2d3)
+
+
+
 
 
 
