@@ -295,6 +295,16 @@ Seguindo também a composição dos referentes tópicos: Relatório do teste de 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/43011970-8317-45cc-a57e-d853513e89e4)
 
+**Atualização do Board do GitHub (Kanban) com as atividades de toda a etapa 4 do trabalho no dia 06/12/2023:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/e7c1d8df-754f-45bb-ad86-6c9ab9397402)
+
+**Projeto FutScout Concluído:**
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/126628545/2e649974-11d0-4bef-bf16-b0a62a2ca8bb)
+
+
+
 ## Controle de Versão 
 
 A ferramenta de controle de versão adotada no projeto foi o [Git](https://git-scm.com/), sendo que o [Github](https://github.com) foi utilizado para hospedagem do repositório.
