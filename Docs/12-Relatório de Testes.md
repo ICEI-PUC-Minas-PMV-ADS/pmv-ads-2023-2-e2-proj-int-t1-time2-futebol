@@ -43,7 +43,7 @@ https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-fu
 
 De acordo com o Plano de Testes de Usabilidade presente em nosso trabalho, os seguintes Casos de Testes abaixos foram realizados com 100% de sucesso.
 
-Os usuários Gilmar Horta e Amanda Campos conseguiram efetuar todos os Casos de Testes apresentados:
+Os usuários Gilmar Horta e Amanda Campos conseguiram efetuar todos os Casos de Testes apresentados em seus vídeos pessoais:
 
 | **Caso de Teste** 	| **CT-12 - Navegadores**                                                                           	|
 |--------------------|-----------------------------------------------------------------------------------------------------|
