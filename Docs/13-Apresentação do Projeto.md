@@ -2,7 +2,7 @@
 ## App FutScout
 ## Apresentação Final: Vídeo
 
-
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol/assets/122392469/e49da36d-680b-45db-bb2c-4ceb2cecb522
 
 ## Apresentação Final: Slides
 
