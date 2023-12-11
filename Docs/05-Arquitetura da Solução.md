@@ -35,6 +35,10 @@ O projeto foi concretizado utilizando a ferramenta Canva.
 
 # Hospedagem
 
-A hospedagem do site e do banco de dados será realizada na plataforma Azure.
+A hospedagem do site e do banco de dados será realizada na plataforma Azure:
+
+https://futscout.azurewebsites.net/
+
+
 
 
