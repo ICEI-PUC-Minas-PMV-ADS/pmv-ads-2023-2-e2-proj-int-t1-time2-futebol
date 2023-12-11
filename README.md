@@ -24,7 +24,7 @@
 
 A aplicação do projeto está disponível através do seguinte link:
 
-**Site:** https://futscoutpuc.azurewebsites.net/
+**Site:** futscout.azurewebsites.net
 
 Para realizar o login deve-se utilizar os seguintes dados:
 
