@@ -1,0 +1,28 @@
+message: Please cite this software using these metadata.
+title: Plataforma de Scout Simplificada para Atacantes das Séries B e C de times do Sudeste do Campeonato Brasileiro de Futebol
+authors:
+  - family-names: Dutra De Aguiar
+    given-names: Daniel
+  - family-names: Amâncio Da Silva
+    given-names: Diogo
+  - family-names: Moreira Euphrásio
+    given-names: Caê
+  - family-names: Henrique Da Silva Vaz
+    given-names: Lucas
+  - family-names: Felipe Sena Costa
+    given-names: Luiz
+  - family-names: Janon
+    given-names: Raul
+  - family-names: De Oliveira Florencio
+    given-names: Vagner
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Ribeiro da Mota
+    given-names: Rosilane
+keywords:
+  - Jogadores
+  - Futebol
+  - Série B e C
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e2-proj-int-t1-time2-futebol
+version: 1.0.0
+date-released: 2023-12-06
